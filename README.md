@@ -488,6 +488,12 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스 13 강의장
 
+### [Java on Azure Day Seoul 2025](https://event-us.kr/msazurekr/event/101550?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 10:00:00 ~ 2025-04-23 17:30:00
+- **Price:** 무료
+- **Host:** Microsoft Azure
+- **Location:** 서울 종로구 종로1길 50 더케이트윈타워 A동 13층 한국마이크로소프트
+
 ### [Def(나의_첫_서버) 백엔드 개발 과정](https://event-us.kr/modu/event/101031?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 10:00:00 ~ 2025-08-14 19:00:00
 - **Price:** 무료
