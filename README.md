@@ -69,7 +69,7 @@
 - **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [Startup Funding in Korea: How to Raise Money with VCs](https://www.meetup.com/seoul-startup-founders-101/events/306893209/)
-- **Date:** 2025-04-01 09:00:00 ~ 2025-04-12 11:00:00
+- **Date:** 2025-04-01 09:00:00 ~ 2025-04-01 11:00:00
 - **Price:** FREE
 - **Host:** Seoul Startup Founder 101
 - **Location:** Online event
@@ -87,7 +87,7 @@
 - **Location:** 서울 금천구 가산디지털2로 123 한국소프트웨어인재개발원(가산디지털단지역)
 
 ### [Algorithms Study Group!](https://www.meetup.com/codeseoul/events/306132589/)
-- **Date:** 2025-04-01 11:30:00 ~ 2025-04-12 13:30:00
+- **Date:** 2025-04-01 11:30:00 ~ 2025-04-01 13:30:00
 - **Price:** FREE
 - **Host:** None
 - **Location:** Online event
@@ -105,19 +105,19 @@
 - **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [AWSKRUG 컨테이너 모임 🐳 - 4월 2일 (수)](https://www.meetup.com/awskrug/events/306586434/)
-- **Date:** 2025-04-02 19:00:00 ~ 2025-04-12 21:00:00
+- **Date:** 2025-04-02 19:00:00 ~ 2025-04-02 21:00:00
 - **Price:** ₩10,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 231 Teheran-ro · Gangnam-gu, Se
 
 ### [🍳 International Potluck Party & Language Exchange 🌎](https://www.meetup.com/seoulbusan-internationalclub/events/306910509/)
-- **Date:** 2025-04-02 19:00:00 ~ 2025-04-12 22:00:00
+- **Date:** 2025-04-02 19:00:00 ~ 2025-04-02 22:00:00
 - **Price:** FREE
 - **Host:** Seoul Busan International Club
 - **Location:** Wangsimni Station · Seoul
 
 ### [2025년 4월 PyLadies Seoul 월간 북클럽 (Monthly Book Club)](https://www.meetup.com/seoul-pyladies-meetup/events/306487714/)
-- **Date:** 2025-04-02 21:00:00 ~ 2025-04-12 22:00:00
+- **Date:** 2025-04-02 21:00:00 ~ 2025-04-02 22:00:00
 - **Price:** ₩5,000.00
 - **Host:** PyLadies Seoul Meetup
 - **Location:** Needs a location
@@ -135,27 +135,27 @@
 - **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [How to Land a Software Engineering Job in 2025](https://www.meetup.com/seoul-startup-idea-to-ipo/events/306112301/)
-- **Date:** 2025-04-03 16:00:00 ~ 2025-04-12 17:00:00
+- **Date:** 2025-04-03 16:00:00 ~ 2025-04-03 17:00:00
 - **Price:** FREE
 - **Host:** Seoul Startup: Idea to IPO
 - **Location:** Online event
 
 ### [AWSKRUG 플랫폼엔지니어링 모임 (4월3일)](https://www.meetup.com/awskrug/events/306643701/)
-- **Date:** 2025-04-03 19:00:00 ~ 2025-04-12 21:00:00
+- **Date:** 2025-04-03 19:00:00 ~ 2025-04-03 21:00:00
 - **Price:** ₩10,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 231 Teheran-ro · Gangnam-gu, Se
 
 ### [Weekly Discussion : Korea and Global News](https://www.meetup.com/seoulbusan-internationalclub/events/306718865/)
-- **Date:** 2025-04-03 19:00:00 ~ 2025-04-12 21:00:00
+- **Date:** 2025-04-03 19:00:00 ~ 2025-04-03 21:00:00
 - **Price:** FREE
 - **Host:** None
 - **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
 
 ### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306966557/)
-- **Date:** 2025-04-03 19:30:00 ~ 2025-04-12 21:30:00
+- **Date:** 2025-04-03 19:30:00 ~ 2025-04-03 21:30:00
 - **Price:** FREE
-- **Host:** FOSS Enthusiasts Seoul
+- **Host:** None
 - **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
 
 ### [2024 MICT](https://event-us.kr/ddgmiceambassador/event/100357?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
@@ -169,6 +169,12 @@
 - **Price:** 3,000원 ~ 30,000원
 - **Host:** GDG Daegu | GDG 대구
 - **Location:** 대구 북구 대학로 80 크리에이티브 파크(Kreative Park)
+
+### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/306748128/)
+- **Date:** 2025-04-05 13:00:00 ~ 2025-04-05 15:00:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** 건국대, · Seoul
 
 ### [Hello World & Build with AI in Incheon](https://event-us.kr/gdgincheon/event/99332?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-05 13:00:00 ~ 2025-04-05 18:00:00
@@ -187,6 +193,12 @@
 - **Price:** 15,000원 ~ 22,000원
 - **Host:** AI(인공지능) 크리에이터 창작소
 - **Location:** 강남역 인근 스터디룸
+
+### [Transform your gifts into art: Wrapping with Bojagi(Korean Fabric)](https://www.meetup.com/korean-traditional-experience-with-ai/events/306766871/)
+- **Date:** 2025-04-06 15:00:00 ~ 2025-04-06 17:00:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** Hongdae · Seoul
 
 ### [4개월 만에 백엔드 개발자 취업 완성! (인턴십 매칭율 97%)](https://event-us.kr/sparta8/event/99950?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-07 09:00:00 ~ 2025-08-27 21:00:00
@@ -225,7 +237,7 @@
 - **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [AWSKRUG #AIEngineering Hands-on Lab - 4월 9일(수) Amazon Q Dev CLI를 이용한 바이브 코딩](https://www.meetup.com/awskrug/events/306928642/)
-- **Date:** 2025-04-09 19:30:00 ~ 2025-04-12 21:00:00
+- **Date:** 2025-04-09 19:30:00 ~ 2025-04-09 21:00:00
 - **Price:** ₩10,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 231 Teheran-ro · Gangnam-gu, Se
@@ -435,7 +447,7 @@
 - **Location:** 서울 구로구 경인로 557 4층
 
 ### [NCUC 수도권 남부 소모임 5회 (구 판교소모임)](https://www.meetup.com/navercloud-user-community/events/306646163/)
-- **Date:** 2025-04-22 19:00:00 ~ 2025-04-12 21:00:00
+- **Date:** 2025-04-22 19:00:00 ~ 2025-04-22 21:00:00
 - **Price:** FREE
 - **Host:** NaverCloud User Community
 - **Location:** 강남구 테헤란로 142 아크플레이스 · 서울특별시
