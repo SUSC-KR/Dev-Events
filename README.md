@@ -143,7 +143,7 @@
 ### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306966557/)
 - **Date:** 2025-04-03 19:30:00 ~ 2025-04-03 21:30:00
 - **Price:** FREE
-- **Host:** None
+- **Host:** FOSS Enthusiasts Seoul
 - **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
 
 ### [2024 MICT](https://event-us.kr/ddgmiceambassador/event/100357?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
