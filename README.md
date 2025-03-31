@@ -8,18 +8,6 @@
 
 ## 이벤트 목록
 
-### [Online - Blockchain User Certification](https://www.meetup.com/blockchain-educators-seoul/events/306967555/)
-- **Date:** 2025-03-30 10:00:00 ~ 2025-04-12 12:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Needs a location
-
-### [Coding for Beginners - Make a Webpage!](https://www.meetup.com/constant-coding/events/306697998/)
-- **Date:** 2025-03-30 10:30:00 ~ 2025-04-12 12:30:00
-- **Price:** FREE
-- **Host:** Constant Coding
-- **Location:** Online event
-
 ### [리얼리눅스: 리눅스 마스터 2급 자격증 과정](https://event-us.kr/hcmY8AAlnJac/event/99707?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-03-31 00:00:00 ~ 2025-04-30 00:00:00
 - **Price:** 250,000원
