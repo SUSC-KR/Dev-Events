@@ -8,48 +8,6 @@
 
 ## 이벤트 목록
 
-### [리얼리눅스: 리눅스 마스터 2급 자격증 과정](https://event-us.kr/hcmY8AAlnJac/event/99707?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-03-31 00:00:00 ~ 2025-04-30 00:00:00
-- **Price:** 250,000원
-- **Host:** 리얼리눅스
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [리얼리눅스: 리눅스 Zero 베이스 초보자 트러블 슈팅까지](https://event-us.kr/hcmY8AAlnJac/event/99706?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-03-31 00:00:00 ~ 2025-04-30 00:00:00
-- **Price:** 190,000원
-- **Host:** 리얼리눅스
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [VirtOn(Proxmox) 가상화 플랫폼 방문 시연회](https://event-us.kr/virton/event/100768?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-03-31 00:00:00 ~ 2025-05-30 23:30:00
-- **Price:** 무료
-- **Host:** 버트온 VirtOn
-- **Location:** 아직 정해지지 않음
-
-### [[다쏘시스템코리아] 카티아(CATIA) 첨단 모빌리티 스쿨(~3/21)](https://event-us.kr/goodee/event/99858?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-03-31 00:00:00 ~ 2025-09-24 00:00:00
-- **Price:** 무료
-- **Host:** 구디아카데미
-- **Location:** 서울 금천구 가산디지털2로 95 KM타워 305호 구디아카데미
-
-### [[메가스터디 교육그룹]프로젝트 기반 풀스택 개발자 취업캠프(교육생모집/전액국비지원)](https://event-us.kr/tjoeun/event/100277?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-03-31 09:30:00 ~ 2025-11-07 18:10:00
-- **Price:** 무료
-- **Host:** 더조은컴퓨터종로점
-- **Location:** 서울 종로구 우정국로2길 21 9층 더조은컴퓨터아카데미
-
-### [Meet Gamma! 당신의 압도적 생산성을 위한 Gamma의 첫번째 웨비나](https://event-us.kr/meetgamma/event/101538?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-03-31 20:00:00 ~ 2025-03-31 21:00:00
-- **Price:** 무료
-- **Host:** Gamma
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [스타트업 대표님들을 위한 custum data 활용 객체 탐지(YOLOv4) 강의](https://event-us.kr/easy2yolo/event/100641?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-03-31 20:00:00 ~ 2025-03-31 21:30:00
-- **Price:** 무료
-- **Host:** 객체 탐지 강의
-- **Location:** 서울특별시 강남구 역삼동 790-4 지하 1층 도전세미나룸
-
 ### [부트캠프 수료 후 취업한 곳이 마음에 안드시나요?_비전공자_취업_후_성장하는_방법](https://event-us.kr/cloudengineer/event/99724?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-01 00:00:00 ~ 2025-07-01 00:00:00
 - **Price:** 무료
@@ -85,6 +43,12 @@
 - **Price:** 무료
 - **Host:** 잇츠맨
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법>](https://event-us.kr/chatmaster/event/101709?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-01 15:00:00 ~ 2025-04-01 18:00:00
+- **Price:** 무료
+- **Host:** 챗마스터
+- **Location:** 경기 하남시 미사강변한강로 135 스카이폴리스 다동 216호
 
 ### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/101454?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-02 00:00:00 ~ 2025-05-02 23:30:00
@@ -137,13 +101,13 @@
 ### [Weekly Discussion : Korea and Global News](https://www.meetup.com/seoulbusan-internationalclub/events/306718865/)
 - **Date:** 2025-04-03 19:00:00 ~ 2025-04-03 21:00:00
 - **Price:** FREE
-- **Host:** None
+- **Host:** Seoul Busan International Club
 - **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
 
 ### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306966557/)
 - **Date:** 2025-04-03 19:30:00 ~ 2025-04-03 21:30:00
 - **Price:** FREE
-- **Host:** FOSS Enthusiasts Seoul
+- **Host:** None
 - **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
 
 ### [2024 MICT](https://event-us.kr/ddgmiceambassador/event/100357?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
@@ -205,6 +169,12 @@
 - **Price:** 무료
 - **Host:** SBS아카데미게임학원 대구
 - **Location:** 대구 동성로 1길 15 5층 게임학원
+
+### [Algorithms Study Group!](https://www.meetup.com/codeseoul/events/306132590/)
+- **Date:** 2025-04-08 11:30:00 ~ 2025-04-08 13:30:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** Online event
 
 ### [제11회 INNOPOLIS SPACE-S Meet-up Day ~ 쉽게 이해하는 IBM 양자컴퓨터와 Qiskit 활용법 ~](https://event-us.kr/spaces/event/101366?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-08 15:00:00 ~ 2025-04-08 17:00:00
@@ -410,6 +380,18 @@
 - **Host:** 네이버클라우드
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [[OSBC] 2025 4월 오픈소스 웨비나](https://event-us.kr/osbc/event/101702?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-17 15:00:00 ~ 2025-04-17 16:00:00
+- **Price:** 무료
+- **Host:** OSBC
+- **Location:** 온라인으로 진행하는 행사입니다.
+
+### [AI를 활용해 나만의 웹/앱 하루만에 만들기 :한국혁신경영협회 정기세미나](https://event-us.kr/koima24/event/101712?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-19 15:00:00 ~ 2025-04-19 18:00:00
+- **Price:** 무료
+- **Host:** 한국혁신경영협회
+- **Location:** 서울 마포구 백범로31길 21 서울창업허브 본관 9층 세미나2실
+
 ### [초심자를 위한 온라인 해킹 스터디, 빡공팟 12기 모집!](https://event-us.kr/b4c/event/99643?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-21 00:00:00 ~ 2025-07-06 23:59:00
 - **Price:** 유료
@@ -476,11 +458,23 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스 13 강의장
 
+### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101714?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 09:30:00 ~ 2025-10-21 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스 13 강의장
+
 ### [Java on Azure Day Seoul 2025](https://event-us.kr/msazurekr/event/101550?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-23 10:00:00 ~ 2025-04-23 17:30:00
 - **Price:** 무료
 - **Host:** Microsoft Azure
 - **Location:** 서울 종로구 종로1길 50 더케이트윈타워 A동 13층 한국마이크로소프트
+
+### [[인턴십 제공] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박](https://event-us.kr/sprint/event/101723?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 00:00:00 ~ 2025-06-24 23:30:00
+- **Price:** 무료
+- **Host:** 코드잇 스프린트
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [Def(나의_첫_서버) 백엔드 개발 과정](https://event-us.kr/modu/event/101031?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 10:00:00 ~ 2025-08-14 19:00:00
@@ -544,6 +538,12 @@
 
 ### [금천5기 <데이터센터 인텔리전스 보안 엔지니어 양성 과정>](https://event-us.kr/nobreakedu/event/100660?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-07 09:30:00 ~ 2025-10-24 17:30:00
+- **Price:** 유료
+- **Host:** nobreak
+- **Location:** 서울 금천구 가산로 70 청년취업사관학교 금천캠퍼스
+
+### [금천5기 <AI 활용 보안 엔지니어 양성 과정>](https://event-us.kr/nobreakedu/event/101718?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-07 09:30:00 ~ 2025-10-24 18:00:00
 - **Price:** 유료
 - **Host:** nobreak
 - **Location:** 서울 금천구 가산로 70 청년취업사관학교 금천캠퍼스
