@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/101454?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-02 00:00:00 ~ 2025-05-02 23:30:00
-- **Price:** 무료
-- **Host:** 그린온라인캠프
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [AWSKRUG 컨테이너 모임 🐳 - 4월 2일 (수)](https://www.meetup.com/awskrug/events/306586434/)
-- **Date:** 2025-04-02 19:00:00 ~ 2025-04-02 21:00:00
-- **Price:** ₩10,000.00
-- **Host:** AWSKRUG - AWS한국사용자모임
-- **Location:** 231 Teheran-ro · Gangnam-gu, Se
-
-### [🍳 International Potluck Party & Language Exchange 🌎](https://www.meetup.com/seoulbusan-internationalclub/events/306910509/)
-- **Date:** 2025-04-02 19:00:00 ~ 2025-04-02 22:00:00
-- **Price:** FREE
-- **Host:** Seoul Busan International Club
-- **Location:** Wangsimni Station · Seoul
-
-### [2025년 4월 PyLadies Seoul 월간 북클럽 (Monthly Book Club)](https://www.meetup.com/seoul-pyladies-meetup/events/306487714/)
-- **Date:** 2025-04-02 21:00:00 ~ 2025-04-02 22:00:00
-- **Price:** ₩5,000.00
-- **Host:** PyLadies Seoul Meetup
-- **Location:** Needs a location
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법>](https://event-us.kr/chatmaster/event/101728?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-03 10:00:00 ~ 2025-04-03 22:00:00
 - **Price:** 무료
@@ -74,6 +50,12 @@
 - **Host:** None
 - **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
 
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법>](https://event-us.kr/chatmaster/event/101868?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-04 10:00:00 ~ 2025-04-04 22:00:00
+- **Price:** 무료
+- **Host:** 챗마스터
+- **Location:** 경북 구미시 산동읍 첨단기업1로 49 구미코 3층 소회의실
+
 ### [2024 MICT](https://event-us.kr/ddgmiceambassador/event/100357?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-04 12:00:00 ~ 2025-04-04 18:00:00
 - **Price:** 무료 ~ 5,000원
@@ -110,7 +92,7 @@
 - **Host:** 디지털전환 교육원(DTedu]
 - **Location:** 온라인으로 진행하는 행사입니다.
 
-### [[4/6(일)] AI (인공지능)웹도구Tools 릴레이 1DAY 클래스](https://event-us.kr/aiclass/event/101641?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [☆마감임박 [4/6(일)] AI (인공지능)웹도구Tools 릴레이 1DAY 클래스](https://event-us.kr/aiclass/event/101641?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-06 14:00:00 ~ 2025-04-06 16:00:00
 - **Price:** 15,000원 ~ 22,000원
 - **Host:** AI(인공지능) 크리에이터 창작소
@@ -158,6 +140,12 @@
 - **Host:** 대덕특구 SPACE-S
 - **Location:** 대전 유성구 대덕대로 593 대덕특구 SPACE-S (대덕테크비즈센터 지하 1층)
 
+### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/101817?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-09 00:00:00 ~ 2025-05-09 23:30:00
+- **Price:** 무료
+- **Host:** 그린온라인캠프
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [105차 실습세미나 - SPSS 대화상자로 쉽게 배우는 Propensity Score Matching (성향점수 짝짓기) 기법](https://event-us.kr/seminar2023/event/100986?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-09 14:00:00 ~ 2025-04-09 16:00:00
 - **Price:** 유료
@@ -175,12 +163,6 @@
 - **Price:** ₩10,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 231 Teheran-ro · Gangnam-gu, Se
-
-### [IT 취업? 개발을 배워야합니다! 풀스택 개발자 양성과정_국비무료에 수당까지](https://event-us.kr/ysedu/event/101213?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-10 09:00:00 ~ 2025-10-29 18:00:00
-- **Price:** 무료
-- **Host:** 연세아이티 YITI
-- **Location:** 경기 수원시 장안구 정조로 940-1 연세IT미래교육원 장안문캠퍼스
 
 ### [✅ AI활용한 웹디자인 국비지원 - 하이미디어아카데미 신촌점](https://event-us.kr/ithimedia/event/79995?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-10 09:30:00 ~ 2025-10-01 18:30:00
@@ -260,6 +242,12 @@
 - **Host:** 요즘것들
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [[인텔] AI For Future Workforce를 활용한 인공지능 인재 양성 과정](https://event-us.kr/allforyoung/event/101866?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-14 00:00:00 ~ 2025-10-01 00:00:00
+- **Price:** 무료
+- **Host:** 요즘것들
+- **Location:** 경기 수원시 영통구 이의동 1347-5 수원 교육장
+
 ### [(Open UP)2025 Open UP 오픈소스 컨트리뷰션 아카데미 참여형 멘토단 모집 공고(~3/30)](https://event-us.kr/2025ossca/event/100695?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-14 00:00:00 ~ 2025-11-01 00:00:00
 - **Price:** 무료
@@ -284,11 +272,17 @@
 - **Host:** 비들 아시아 컨퍼런스 (BUIDL ASIA)
 - **Location:** 서울 송파구 올림픽로 300 시그니엘 서울
 
-### [✅ 자바(JAVA) 풀스택 개발자 - 하이미디어아카데미 강남](https://event-us.kr/ithimedia/event/84015?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 09:30:00 ~ 2025-10-02 18:30:00
+### [✅ 풀스택 자바 개발자 국비지원 - 하이미디어아카데미 천호점](https://event-us.kr/ithimedia/event/80000?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-15 09:00:00 ~ 2025-10-24 18:00:00
 - **Price:** 무료
 - **Host:** IT국비교육
-- **Location:** 서울 서초구 강남대로 405 하이미디어아카데미 강남점
+- **Location:** 서울 강동구 천호대로 1027 5층
+
+### [✅ 자바풀스택개발자 국비지원 - 하이미디어아카데미 종로점](https://event-us.kr/ithimedia/event/88924?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-15 09:30:00 ~ 2025-09-30 18:30:00
+- **Price:** 무료
+- **Host:** IT국비교육
+- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로점
 
 ### [try(나의_첫_코드) 프론트엔드 개발 과정](https://event-us.kr/modu/event/101399?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-15 10:00:00 ~ 2025-08-14 19:00:00
@@ -368,6 +362,12 @@
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 465 Gangnam-daero · Seocho-gu, Seoul · Seoul
 
+### [✅ 자바(JAVA) 풀스택 개발자 - 하이미디어아카데미 강남](https://event-us.kr/ithimedia/event/84015?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-18 09:30:00 ~ 2025-10-15 18:30:00
+- **Price:** 무료
+- **Host:** IT국비교육
+- **Location:** 서울 서초구 강남대로 405 하이미디어아카데미 강남점
+
 ### [FlutterSeoul - 오픈스테이지(4월)](https://event-us.kr/flutterseoul/event/101034?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
 - **Price:** 20,000원
@@ -385,6 +385,12 @@
 - **Price:** 유료
 - **Host:** BusinessH4C
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [IT 취업? 개발을 배워야합니다! 풀스택 개발자 양성과정_국비무료에 수당까지](https://event-us.kr/ysedu/event/101213?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-21 09:00:00 ~ 2025-11-07 18:00:00
+- **Price:** 무료
+- **Host:** 연세아이티 YITI
+- **Location:** 경기 수원시 장안구 정조로 940-1 연세IT미래교육원 장안문캠퍼스
 
 ### [[메가스터디 교육그룹]빅데이터분석 활용&자바 웹개발 취업과정 (교육생모집/전액국비지원)](https://event-us.kr/tjoeun/event/100299?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-21 09:30:00 ~ 2025-11-10 18:10:00
@@ -466,6 +472,12 @@
 
 ### [[인턴십 제공] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박](https://event-us.kr/sprint/event/101723?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 00:00:00 ~ 2025-06-24 23:30:00
+- **Price:** 무료
+- **Host:** 코드잇 스프린트
+- **Location:** 온라인으로 진행하는 행사입니다.
+
+### [[인턴십 제공] Node.js 백엔드 부트캠프](https://event-us.kr/sprint/event/101869?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 00:00:00 ~ 2025-11-21 23:30:00
 - **Price:** 무료
 - **Host:** 코드잇 스프린트
 - **Location:** 온라인으로 진행하는 행사입니다.
