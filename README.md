@@ -2,71 +2,11 @@
 
 ## 프로젝트의 목적
 
-현재 개발자 행사를 모아두는 다양한 플랫폼이 존재하지만, 대부분의 정보는 수동 등록이 필요하며 지속적인 관리가 필요합니다.이 프로젝트는 행사 주최자와 프로젝트 관리자의 이러한 반복적인 작업을 자동화하여 최신 개발자 행사 정보를 손쉽게 제공하는 것을 목표로 합니다.
+현재 개발자 행사를 모아두는 다양한 플랫폼이 존재하지만, 대부분의 정보는 수동 등록이 필요하며 지속적인 관리가 필요합니다. 이 프로젝트는 행사 주최자와 프로젝트 관리자의 이러한 반복적인 작업을 자동화하여 최신 개발자 행사 정보를 손쉽게 제공하는 것을 목표로 합니다.
 
 새로운 행사 사이트 추가 또는 버그 제보는 [프로젝트 레포지토리](https://github.com/SUSC-KR/Dev-Event-Crawler)의 이슈 페이지를 통해 해주시면 감사하겠습니다.
 
 ## 이벤트 목록
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법>](https://event-us.kr/chatmaster/event/101728?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-03 10:00:00 ~ 2025-04-03 22:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경남 창원시 성산구 원이대로 362 컨벤션센터 7층 700A
-
-### [RAG 기반 AI 애플리케이션 개발 가이드 1탄 (고급)](https://event-us.kr/SJ32PLGl278n/event/101420?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-03 11:00:00 ~ 2025-04-03 11:30:00
-- **Price:** 무료
-- **Host:** 네이버클라우드
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [1시간 만에 홈페이지 만들기](https://event-us.kr/creatorlink/event/101541?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-03 14:00:00 ~ 2025-04-03 15:30:00
-- **Price:** 무료
-- **Host:** 크리에이터링크
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [How to Land a Software Engineering Job in 2025](https://www.meetup.com/seoul-startup-idea-to-ipo/events/306112301/)
-- **Date:** 2025-04-03 16:00:00 ~ 2025-04-03 17:00:00
-- **Price:** FREE
-- **Host:** Seoul Startup: Idea to IPO
-- **Location:** Online event
-
-### [AWSKRUG 플랫폼엔지니어링 모임 (4월3일)](https://www.meetup.com/awskrug/events/306643701/)
-- **Date:** 2025-04-03 19:00:00 ~ 2025-04-03 21:00:00
-- **Price:** ₩10,000.00
-- **Host:** AWSKRUG - AWS한국사용자모임
-- **Location:** 231 Teheran-ro · Gangnam-gu, Se
-
-### [Weekly Discussion : Korea and Global News](https://www.meetup.com/seoulbusan-internationalclub/events/306718865/)
-- **Date:** 2025-04-03 19:00:00 ~ 2025-04-03 21:00:00
-- **Price:** FREE
-- **Host:** Seoul Busan International Club
-- **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
-
-### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306966557/)
-- **Date:** 2025-04-03 19:30:00 ~ 2025-04-03 21:30:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법>](https://event-us.kr/chatmaster/event/101868?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-04 10:00:00 ~ 2025-04-04 22:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경북 구미시 산동읍 첨단기업1로 49 구미코 3층 소회의실
-
-### [2024 MICT](https://event-us.kr/ddgmiceambassador/event/100357?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-04 12:00:00 ~ 2025-04-04 18:00:00
-- **Price:** 무료 ~ 5,000원
-- **Host:** 동덕MICE앰버서더
-- **Location:** 서울 성북구 화랑로13길 60 백주년 기념관
-
-### [Build with AI 2025 in Daegu](https://event-us.kr/gdgdaegu/event/100944?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-04 13:00:00 ~ 2025-04-04 17:00:00
-- **Price:** 3,000원 ~ 30,000원
-- **Host:** GDG Daegu | GDG 대구
-- **Location:** 대구 북구 대학로 80 크리에이티브 파크(Kreative Park)
 
 ### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/306748128/)
 - **Date:** 2025-04-05 13:00:00 ~ 2025-04-05 15:00:00
@@ -152,6 +92,12 @@
 - **Host:** 세미나
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [스타트업, 예비창업을 위한 실패하지 않는 외주](https://event-us.kr/nononi/event/101959?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-09 14:00:00 ~ 2025-04-09 16:00:00
+- **Price:** 10,000원
+- **Host:** 서비스 기획소
+- **Location:** 서울 마포구 양화로 175 모임공간 모락 홍대. 마젤란 21 오피스텔 1312호
+
 ### [[베슬에이아이 웨비나] AI 에이전트 구축을 위한 3가지 요소 및 도입 방법 - 실제 사례 중심](https://event-us.kr/vesslai/event/101349?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-09 15:00:00 ~ 2025-04-09 16:00:00
 - **Price:** 무료
@@ -182,6 +128,30 @@
 - **Host:** DigiCAP
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [1시간 만에 홈페이지 만들기](https://event-us.kr/creatorlink/event/101939?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-10 14:00:00 ~ 2025-04-10 15:30:00
+- **Price:** 무료
+- **Host:** 크리에이터링크
+- **Location:** 온라인으로 진행하는 행사입니다.
+
+### [AWSKRUG DevOps 소모임 - 4월 10일 (목) 17번째 밋업](https://www.meetup.com/awskrug/events/307037666/)
+- **Date:** 2025-04-10 19:00:00 ~ 2025-04-10 21:00:00
+- **Price:** FREE
+- **Host:** AWSKRUG - AWS한국사용자모임
+- **Location:** 231 Teheran-ro · Gangnam-gu, Se
+
+### [Weekly Discussion : Korea and Global News](https://www.meetup.com/seoulbusan-internationalclub/events/306843867/)
+- **Date:** 2025-04-10 19:00:00 ~ 2025-04-10 21:00:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
+
+### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306843791/)
+- **Date:** 2025-04-10 19:30:00 ~ 2025-04-10 21:30:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
+
 ### [2025년 K-디지털 트레이닝 「SW 현직자 특강」(개발자의 취업 성공 A to Z)](https://event-us.kr/mainbizjob/event/101581?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-11 10:00:00 ~ 2025-04-11 12:00:00
 - **Price:** 무료
@@ -206,6 +176,12 @@
 - **Host:** GDG Busan
 - **Location:** 부산 부산진구 동성로87번길 30 라운지J
 
+### [[선착순무료세미나]실무자가 활용하는 Git 200% 활용하기](https://event-us.kr/rhdgkdms1386/event/101914?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-12 10:00:00 ~ 2025-04-12 12:00:00
+- **Price:** 무료
+- **Host:** IT로싸의 취업컨설팅
+- **Location:** 서울 강남구 테헤란로26길 12 13층 코리아IT아카데미 강남본원점 별관
+
 ### [Flutter Seoul OpenStage #2](https://www.meetup.com/flutter-seoul/events/306588530/)
 - **Date:** 2025-04-12 12:00:00 ~ 2025-04-12 16:00:00
 - **Price:** FREE
@@ -217,6 +193,12 @@
 - **Price:** FREE
 - **Host:** PyLadies Seoul Meetup
 - **Location:** 115, Wangsimni-ro, Seongdong-gu · Seoul
+
+### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/306873313/)
+- **Date:** 2025-04-12 13:00:00 ~ 2025-04-12 15:00:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** 건국대, · Seoul
 
 ### [(건대/줌)워드프레스 기초부터 쇼핑몰까지 6시간 속성과정(4/12)](https://event-us.kr/powerlearning/event/101648?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-12 13:00:00 ~ 2025-04-12 18:00:00
@@ -259,6 +241,12 @@
 - **Price:** 무료
 - **Host:** 중앙HTA
 - **Location:** 서울 종로구 율곡로10길 105 디아망빌딩4층 중앙HTA(前중앙일보HTA)
+
+### [(강남)워드프레스 강의+제작코칭(홈페이지/쇼핑몰) 1:1 제작코칭(4/14~17)](https://event-us.kr/powerlearning/event/102052?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-14 12:00:00 ~ 2025-04-17 18:00:00
+- **Price:** 338,000원 ~ 825,000원
+- **Host:** powerlearning
+- **Location:** 서울 강남구 강남대로94길 21 강남역 11번 출구 인근 모임공간 옐로스톤
 
 ### [Unite Seoul 2025](https://event-us.kr/uniteseoul2025/event/99309?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-15 09:00:00 ~ 2025-04-15 18:00:00
@@ -361,6 +349,12 @@
 - **Price:** ₩5,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 465 Gangnam-daero · Seocho-gu, Seoul · Seoul
+
+### [AWSKRUG #을지로 소모임 (4월 17일, 목요일)](https://www.meetup.com/awskrug/events/306989337/)
+- **Date:** 2025-04-17 19:00:00 ~ 2025-04-17 21:00:00
+- **Price:** ₩10,000.00
+- **Host:** AWSKRUG - AWS한국사용자모임
+- **Location:** 서울 용산구 한강대로 372 · SEOUL
 
 ### [✅ 자바(JAVA) 풀스택 개발자 - 하이미디어아카데미 강남](https://event-us.kr/ithimedia/event/84015?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-18 09:30:00 ~ 2025-10-15 18:30:00
@@ -488,6 +482,12 @@
 - **Host:** DT그라운드
 - **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1캠퍼스
 
+### [AOAI Dev Day Korea 2025](https://event-us.kr/aifactory2/event/102024?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 10:00:00 ~ 2025-04-24 17:30:00
+- **Price:** 무료
+- **Host:** 인공지능팩토리
+- **Location:** 서울 강남구 영동대로96길 20 스페이스쉐어 삼성역센터 지하 1층
+
 ### [Def(나의_첫_서버) 백엔드 개발 과정](https://event-us.kr/modu/event/101031?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 10:00:00 ~ 2025-08-14 19:00:00
 - **Price:** 무료
@@ -517,6 +517,12 @@
 - **Price:** FREE
 - **Host:** Mendix Community South Korea
 - **Location:** 서울 강남구 테헤란로 22길 11 지하 1층 모드라운지 역삼점 (오프라인 only, 주차지원 불가) · Seoul
+
+### [[KISA] 안전한 라우팅을 위한 RPKI 기초](https://event-us.kr/Ut2KSHw11cCG/event/101903?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-25 15:30:00 ~ 2025-04-25 16:30:00
+- **Price:** 무료
+- **Host:** 한국인터넷진흥원 한국인터넷정보센터
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [GitHub Copilot Bootcamp](https://event-us.kr/cwbkr/event/101810?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-26 12:00:00 ~ 2025-04-26 18:00:00
@@ -553,6 +559,18 @@
 - **Price:** 무료
 - **Host:** 천재IT교육센터
 - **Location:** 서울 금천구 디지털로9길 23 11층 천재IT교육센터
+
+### [🔐 OWASP Seoul Chapter 세미나: Non-Human Identity & 버그바운티 운영 전략](https://www.meetup.com/owasp-seoul/events/307060143/)
+- **Date:** 2025-04-29 10:30:00 ~ 2025-04-29 12:30:00
+- **Price:** FREE
+- **Host:** OWASP Seoul Chapter
+- **Location:** Online event
+
+### [맞다AI가 4월 밋업: GitHub Copilot 어디까지 되는 거예요?](https://event-us.kr/matdaaiga/event/101738?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-30 18:30:00 ~ 2025-04-30 20:30:00
+- **Price:** 10,000원
+- **Host:** 맞다AI가
+- **Location:** 아직 정해지지 않음
 
 ### [[선착순 모집] 서울 매력일자리 IT, 인공지능 분야 인턴십 참여자 모집_AI+DX 개발 실무자 과정](https://event-us.kr/koraiaedu/event/101303?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-01 00:00:00 ~ 2025-10-31 23:30:00
