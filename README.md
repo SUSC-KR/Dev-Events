@@ -8,29 +8,11 @@
 
 ## 이벤트 목록
 
-### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/306748128/)
-- **Date:** 2025-04-05 13:00:00 ~ 2025-04-05 15:00:00
+### [Online - Blockchain User Certification](https://www.meetup.com/blockchain-educators-seoul/events/307098557/)
+- **Date:** 2025-04-06 10:00:00 ~ 2025-04-06 12:00:00
 - **Price:** FREE
 - **Host:** None
-- **Location:** 건국대, · Seoul
-
-### [[빗썸 x 조코딩] AI 비트코인 투자 자동화 중급 1 DAY 특강](https://event-us.kr/jocoding/event/101298?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-05 13:00:00 ~ 2025-04-05 16:00:00
-- **Price:** 150,000원
-- **Host:** 조코딩
-- **Location:** 서울 강남구 테헤란로 524 빗썸 나눔센터 B1층
-
-### [Hello World & Build with AI in Incheon](https://event-us.kr/gdgincheon/event/99332?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-05 13:00:00 ~ 2025-04-05 18:00:00
-- **Price:** 5,000원 ~ 30,000원
-- **Host:** GDG_Incheon
-- **Location:** 인천광역시 미추홀구 인하로 100 인하대학교 60주년기념관
-
-### [[GEG 강남] 제 20회 Google의 정석 #04 Calendar (기초)](https://event-us.kr/job-skill365/event/101631?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-05 18:00:00 ~ 2025-04-05 19:00:00
-- **Price:** 무료
-- **Host:** 디지털전환 교육원(DTedu]
-- **Location:** 온라인으로 진행하는 행사입니다.
+- **Location:** Needs a location
 
 ### [☆마감임박 [4/6(일)] AI (인공지능)웹도구Tools 릴레이 1DAY 클래스](https://event-us.kr/aiclass/event/101641?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-06 14:00:00 ~ 2025-04-06 16:00:00
@@ -43,12 +25,6 @@
 - **Price:** 130,000원
 - **Host:** 다글
 - **Location:** 서울 강남구 봉은사로 524 코엑스 지하 2층
-
-### [Transform your gifts into art: Wrapping with Bojagi(Korean Fabric)](https://www.meetup.com/korean-traditional-experience-with-ai/events/306766871/)
-- **Date:** 2025-04-06 15:00:00 ~ 2025-04-06 17:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Hongdae · Seoul
 
 ### [4개월 만에 백엔드 개발자 취업 완성! (인턴십 매칭율 97%)](https://event-us.kr/sparta8/event/99950?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-07 09:00:00 ~ 2025-08-27 21:00:00
@@ -86,17 +62,17 @@
 - **Host:** 그린온라인캠프
 - **Location:** 온라인으로 진행하는 행사입니다.
 
-### [105차 실습세미나 - SPSS 대화상자로 쉽게 배우는 Propensity Score Matching (성향점수 짝짓기) 기법](https://event-us.kr/seminar2023/event/100986?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-09 14:00:00 ~ 2025-04-09 16:00:00
-- **Price:** 유료
-- **Host:** 세미나
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [스타트업, 예비창업을 위한 실패하지 않는 외주](https://event-us.kr/nononi/event/101959?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-09 14:00:00 ~ 2025-04-09 16:00:00
 - **Price:** 10,000원
 - **Host:** 서비스 기획소
 - **Location:** 서울 마포구 양화로 175 모임공간 모락 홍대. 마젤란 21 오피스텔 1312호
+
+### [105차 실습세미나 - SPSS 대화상자로 쉽게 배우는 Propensity Score Matching (성향점수 짝짓기) 기법](https://event-us.kr/seminar2023/event/100986?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-09 14:00:00 ~ 2025-04-09 16:00:00
+- **Price:** 유료
+- **Host:** 세미나
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[베슬에이아이 웨비나] AI 에이전트 구축을 위한 3가지 요소 및 도입 방법 - 실제 사례 중심](https://event-us.kr/vesslai/event/101349?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-09 15:00:00 ~ 2025-04-09 16:00:00
@@ -149,7 +125,7 @@
 ### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306843791/)
 - **Date:** 2025-04-10 19:30:00 ~ 2025-04-10 21:30:00
 - **Price:** FREE
-- **Host:** None
+- **Host:** FOSS Enthusiasts Seoul
 - **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
 
 ### [2025년 K-디지털 트레이닝 「SW 현직자 특강」(개발자의 취업 성공 A to Z)](https://event-us.kr/mainbizjob/event/101581?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
@@ -218,23 +194,17 @@
 - **Host:** powerlearning
 - **Location:** 서울 마포구 양화로15길 17 홍대입구역 1번 출구 인근 도보 10분거리 모임공간 타임레서피 스터디룸
 
-### [[인텔] AI Solution Integrator 인공지능 인재교육 교육생 모집 (수원/서울)](https://event-us.kr/allforyoung/event/100994?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-14 00:00:00 ~ 2025-10-01 00:00:00
-- **Price:** 무료
-- **Host:** 요즘것들
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [[인텔] AI For Future Workforce를 활용한 인공지능 인재 양성 과정](https://event-us.kr/allforyoung/event/101866?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-14 00:00:00 ~ 2025-10-01 00:00:00
 - **Price:** 무료
 - **Host:** 요즘것들
 - **Location:** 경기 수원시 영통구 이의동 1347-5 수원 교육장
 
-### [(Open UP)2025 Open UP 오픈소스 컨트리뷰션 아카데미 참여형 멘토단 모집 공고(~3/30)](https://event-us.kr/2025ossca/event/100695?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-14 00:00:00 ~ 2025-11-01 00:00:00
+### [[인텔] AI Solution Integrator 인공지능 인재교육 교육생 모집 (수원/서울)](https://event-us.kr/allforyoung/event/100994?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-14 00:00:00 ~ 2025-10-01 00:00:00
 - **Price:** 무료
-- **Host:** 오픈소스 컨트리뷰션 아카데미
-- **Location:** 서울 서초구 서초대로40길 83 2층 오픈업
+- **Host:** 요즘것들
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[KDT무료교육]자바(Java, JSP, Spring, AWS, Docker) 백엔드 과정 취업교육[네카라 멘토 밀착관리]](https://event-us.kr/jhta/event/101044?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-14 09:00:00 ~ 2025-10-31 18:00:00
@@ -320,12 +290,6 @@
 - **Host:** IT의 모든것
 - **Location:** 서울 종로구 종로12길 15 솔데스크
 
-### [[코드잇 스프린트] 데이터 분석가 부트캠프 8기](https://event-us.kr/sprint/event/100820?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-17 00:00:00 ~ 2025-11-14 23:30:00
-- **Price:** 무료
-- **Host:** 코드잇 스프린트
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [[봄 맞이 연구자 및 논문 저자를 위한 혜택 & 맞춤형 패키지(25% 할인)] 교육 이벤트 진행](https://event-us.kr/trainingedu/event/101029?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-17 10:00:00 ~ 2025-04-18 17:00:00
 - **Price:** 유료
@@ -344,17 +308,17 @@
 - **Host:** OSBC
 - **Location:** 온라인으로 진행하는 행사입니다.
 
-### [AWSKRUG 서버리스 #Serverless 모임 (4월 17일)](https://www.meetup.com/awskrug/events/306972397/)
-- **Date:** 2025-04-17 19:00:00 ~ 2025-04-17 21:00:00
-- **Price:** ₩5,000.00
-- **Host:** AWSKRUG - AWS한국사용자모임
-- **Location:** 465 Gangnam-daero · Seocho-gu, Seoul · Seoul
-
 ### [AWSKRUG #을지로 소모임 (4월 17일, 목요일)](https://www.meetup.com/awskrug/events/306989337/)
 - **Date:** 2025-04-17 19:00:00 ~ 2025-04-17 21:00:00
 - **Price:** ₩10,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 서울 용산구 한강대로 372 · SEOUL
+
+### [AWSKRUG 서버리스 #Serverless 모임 (4월 17일)](https://www.meetup.com/awskrug/events/306972397/)
+- **Date:** 2025-04-17 19:00:00 ~ 2025-04-17 21:00:00
+- **Price:** ₩5,000.00
+- **Host:** AWSKRUG - AWS한국사용자모임
+- **Location:** 465 Gangnam-daero · Seocho-gu, Seoul · Seoul
 
 ### [✅ 자바(JAVA) 풀스택 개발자 - 하이미디어아카데미 강남](https://event-us.kr/ithimedia/event/84015?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-18 09:30:00 ~ 2025-10-15 18:30:00
@@ -366,7 +330,7 @@
 - **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
 - **Price:** 20,000원
 - **Host:** FlutterSeoul
-- **Location:** 아직 정해지지 않음
+- **Location:** 서울 강남구 테헤란로14길 40 워크토크 강남본점 2층
 
 ### [AI를 활용해 나만의 웹/앱 하루만에 만들기 :한국혁신경영협회 정기세미나](https://event-us.kr/koima24/event/101712?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 15:00:00 ~ 2025-04-19 18:00:00
@@ -446,13 +410,13 @@
 - **Host:** IT국비교육
 - **Location:** 서울 종로구 인사동길 12 7층
 
-### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101009?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101714?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-23 09:30:00 ~ 2025-10-21 18:30:00
 - **Price:** 무료
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스 13 강의장
 
-### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101714?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101009?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-23 09:30:00 ~ 2025-10-21 18:30:00
 - **Price:** 무료
 - **Host:** 하이미디어아카데미
