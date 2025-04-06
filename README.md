@@ -330,7 +330,7 @@
 - **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
 - **Price:** 20,000원
 - **Host:** FlutterSeoul
-- **Location:** 서울 강남구 테헤란로14길 40 워크토크 강남본점 2층
+- **Location:** 서울 강남구 테헤란로14길 40 2층 - 워크토크 강남본점
 
 ### [AI를 활용해 나만의 웹/앱 하루만에 만들기 :한국혁신경영협회 정기세미나](https://event-us.kr/koima24/event/101712?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 15:00:00 ~ 2025-04-19 18:00:00
