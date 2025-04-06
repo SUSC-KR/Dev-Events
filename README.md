@@ -356,6 +356,12 @@
 - **Host:** 더조은컴퓨터종로점
 - **Location:** 서울 종로구 우정국로2길 21 9층 더조은컴퓨터아카데미
 
+### [2025 [소공인 디지털기술교육] 3D 기초다지기](https://event-us.kr/fixfree/event/102063?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-21 18:00:00 ~ 2025-04-21 21:00:00
+- **Price:** 무료
+- **Host:** fixfree
+- **Location:** 서울 영등포구 도림로125길 27 서울시 영등포구 도림로125길, 27 (M.Y.Factory 산업지원 거점시설 2층 교육장)
+
 ### [비전공자도 가능한 IT개발자 입문 무료교육 안내](https://event-us.kr/ikosmo/event/101483?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-22 09:30:00 ~ 2025-10-16 18:30:00
 - **Price:** 무료
@@ -427,6 +433,12 @@
 - **Price:** 무료
 - **Host:** Microsoft Azure
 - **Location:** 서울 종로구 종로1길 50 더케이트윈타워 A동 13층 한국마이크로소프트
+
+### [(종각/줌수업)워드프레스 기초부터 디자인까지 6시간 속성 마스터(4/23)](https://event-us.kr/powerlearning/event/102059?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 13:00:00 ~ 2025-04-23 19:00:00
+- **Price:** 239,000원
+- **Host:** powerlearning
+- **Location:** 서울 종로구 수표로 105 종로3가역 1번 출구에서 191m 인근 종로 스터디룸 피앤티스퀘어
 
 ### [[인턴십 제공] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박](https://event-us.kr/sprint/event/101723?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 00:00:00 ~ 2025-06-24 23:30:00
