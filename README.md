@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [Online - Blockchain User Certification](https://www.meetup.com/blockchain-educators-seoul/events/307098557/)
-- **Date:** 2025-04-06 10:00:00 ~ 2025-04-06 12:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Needs a location
-
-### [☆마감임박 [4/6(일)] AI (인공지능)웹도구Tools 릴레이 1DAY 클래스](https://event-us.kr/aiclass/event/101641?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-06 14:00:00 ~ 2025-04-06 16:00:00
-- **Price:** 15,000원 ~ 22,000원
-- **Host:** AI(인공지능) 크리에이터 창작소
-- **Location:** 강남역 인근 스터디룸
-
-### [[비전공자 개발사 대표와 함께하는] 3~5 시간만에 나만의 웹페이지 개발/배포하기](https://event-us.kr/daggle/event/101739?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-06 14:00:00 ~ 2025-04-06 19:00:00
-- **Price:** 130,000원
-- **Host:** 다글
-- **Location:** 서울 강남구 봉은사로 524 코엑스 지하 2층
-
 ### [4개월 만에 백엔드 개발자 취업 완성! (인턴십 매칭율 97%)](https://event-us.kr/sparta8/event/99950?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-07 09:00:00 ~ 2025-08-27 21:00:00
 - **Price:** 무료
@@ -325,6 +307,12 @@
 - **Price:** 무료
 - **Host:** IT국비교육
 - **Location:** 서울 서초구 강남대로 405 하이미디어아카데미 강남점
+
+### [JPA의 사실과 오해 4기](https://event-us.kr/choyoungho/event/101549?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-19 09:30:00 ~ 2025-04-26 18:00:00
+- **Price:** 250,000원
+- **Host:** 조영호
+- **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩) 2층 SPACE 16
 
 ### [FlutterSeoul - 오픈스테이지(4월)](https://event-us.kr/flutterseoul/event/101034?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
