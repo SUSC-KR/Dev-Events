@@ -8,18 +8,6 @@
 
 ## 이벤트 목록
 
-### [4개월 만에 백엔드 개발자 취업 완성! (인턴십 매칭율 97%)](https://event-us.kr/sparta8/event/99950?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-07 09:00:00 ~ 2025-08-27 21:00:00
-- **Price:** 무료
-- **Host:** 팀스파르타
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[메디치교육센터]컴퓨터비전(CV) AI영상이미지분석 무료취업교육](https://event-us.kr/medici/event/98610?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-07 09:00:00 ~ 2025-09-29 18:00:00
-- **Price:** 무료
-- **Host:** [메디치이앤에스] 메디치교육센터
-- **Location:** 서울 금천구 가산디지털1로 168 우림라이온스벨리 A동 3층 메디치교육센터
-
 ### [(게임콘텐츠제작) 유니티기반 게임기획자 및 게임프로그래머 양성과정](https://event-us.kr/sbsgamedaegu/event/100114?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-08 09:00:00 ~ 2025-11-13 18:00:00
 - **Price:** 무료
@@ -224,6 +212,12 @@
 - **Host:** IT국비교육
 - **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로점
 
+### [[키사이트] RF 기술 웨비나](https://event-us.kr/keysightkorea/event/102144?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-15 10:00:00 ~ 2025-04-15 12:00:00
+- **Price:** 무료
+- **Host:** 키사이트 테크놀로지스
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [try(나의_첫_코드) 프론트엔드 개발 과정](https://event-us.kr/modu/event/101399?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-15 10:00:00 ~ 2025-08-14 19:00:00
 - **Price:** 무료
@@ -368,6 +362,12 @@
 - **Host:** 에이블런
 - **Location:** 서울 마포구 성암로 330 서울 마포구 상암동 DMC첨단산업센터
 
+### [Edge to Cloud : HPE Aruba SASE로 실현하는 ZeroTrust 아키텍쳐](https://event-us.kr/itsman/event/102103?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-22 14:00:00 ~ 2025-04-22 15:00:00
+- **Price:** 무료
+- **Host:** 잇츠맨
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [NCUC 수도권 남부 소모임 5회 (구 판교소모임)](https://www.meetup.com/navercloud-user-community/events/306646163/)
 - **Date:** 2025-04-22 19:00:00 ~ 2025-04-22 21:00:00
 - **Price:** FREE
@@ -428,6 +428,12 @@
 - **Host:** powerlearning
 - **Location:** 서울 종로구 수표로 105 종로3가역 1번 출구에서 191m 인근 종로 스터디룸 피앤티스퀘어
 
+### [기업의 AI 혁신을 위한 ServiceNow AI 플랫폼, Workflow Data Fabric](https://event-us.kr/itsman/event/102105?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 14:00:00 ~ 2025-04-23 15:00:00
+- **Price:** 무료
+- **Host:** 잇츠맨
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[인턴십 제공] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박](https://event-us.kr/sprint/event/101723?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 00:00:00 ~ 2025-06-24 23:30:00
 - **Price:** 무료
@@ -464,6 +470,12 @@
 - **Host:** 네이버클라우드
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [[4월 일할맛 세미나] AWS 인플루언서들의 아주 현실적인 DevOps 이야기](https://event-us.kr/helpfastcampus/event/102100?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 18:00:00 ~ 2025-04-24 21:30:00
+- **Price:** 무료
+- **Host:** fastcampus
+- **Location:** 경기 성남시 분당구 판교로289번길 20 판교 스타트업 캠퍼스
+
 ### [🍔 크라이치즈버거 X 라피 데이터 버거챗: 데이터 직무 소규모 네트워킹](https://event-us.kr/kkuru/event/101214?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 19:00:00 ~ 2025-04-24 21:30:00
 - **Price:** 35,000원
@@ -475,6 +487,18 @@
 - **Price:** 무료
 - **Host:** 인포유앤컴퍼니
 - **Location:** 서울 성동구 아차산로5길 10 2층 고우넷 트레이닝 센터
+
+### [None](https://event-us.kr/smss2025/event/101853?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-25 13:30:00 ~ 2025-04-25 18:00:00
+- **Price:** 무료
+- **Host:** 스마트제조솔루션서밋
+- **Location:** 경북 포항시 남구 청암로 87 체인지업 그라운드 미디어 홀 및 로비
+
+### [세계 최대 보안 컨퍼런스 RSAC 2025 미리보기](https://event-us.kr/itsman/event/102107?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-25 14:00:00 ~ 2025-04-25 15:00:00
+- **Price:** 무료
+- **Host:** 잇츠맨
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [제 5회 Mendix 커뮤니티 밋업 - 로우코드 멘딕스와 함께 한 S전자의 혁신 여정](https://www.meetup.com/mendix-south-korea/events/307020597/)
 - **Date:** 2025-04-25 14:00:00 ~ 2025-04-25 16:00:00
@@ -512,17 +536,17 @@
 - **Host:** 요즘것들
 - **Location:** 아직 정해지지 않음
 
+### [MS AI Skills Fest + Season of Agents - Season 4 (Seoul)](https://event-us.kr/powerplatform/event/102140?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-27 13:00:00 ~ 2025-04-27 17:00:00
+- **Price:** 10,000원
+- **Host:** 파워 플랫폼 한국 유저 그룹
+- **Location:** 서울 종로구 종로1길 50 한국 마이크로소프트 13층
+
 ### [[정보보안] 취약점분석 등 정보보안 전문가 취업캠프](https://event-us.kr/tjoeun5611/event/97140?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-28 10:00:00 ~ 2025-11-11 18:30:00
 - **Price:** 무료
 - **Host:** 더조은아카데미 강남캠퍼스
 - **Location:** 서울 강남구 강남대로78길 8 한국빌딩 4층,8층 더조은아카데미 강남캠퍼스
-
-### [[채용연계형] 자바 풀스택 개발자 취업캠프 12기](https://event-us.kr/genia/event/101085?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-29 09:00:00 ~ 2025-11-06 18:00:00
-- **Price:** 무료
-- **Host:** 천재IT교육센터
-- **Location:** 서울 금천구 디지털로9길 23 11층 천재IT교육센터
 
 ### [🔐 OWASP Seoul Chapter 세미나: Non-Human Identity & 버그바운티 운영 전략](https://www.meetup.com/owasp-seoul/events/307060143/)
 - **Date:** 2025-04-29 10:30:00 ~ 2025-04-29 12:30:00
@@ -572,6 +596,12 @@
 - **Host:** 연세아이티 YITI
 - **Location:** 경기 수원시 팔달구 덕영대로 905 2층 연세IT미래교육원 수원역캠퍼스
 
+### [★2025 서울시 매력일자리 사업_에너지 빅데이터 실무자 양성 및 인턴십 연계 과정★](https://event-us.kr/goodee/event/102146?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-12 00:00:00 ~ 2025-07-10 23:30:00
+- **Price:** 무료
+- **Host:** 구디아카데미
+- **Location:** 서울 금천구 가산디지털2로 95 구디아카데미
+
 ### [[CCCR] 전문인력_IaC를 활용한 대규모 인프라 구성 및 App배포 자동화 모집(~5.9)](https://event-us.kr/cccredu/event/101072?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-12 09:00:00 ~ 2025-05-23 18:00:00
 - **Price:** 무료
@@ -583,6 +613,12 @@
 - **Price:** 무료
 - **Host:** SBS아카데미게임학원 노원점
 - **Location:** 서울특별시 노원구 노해로 459 6층, SBS아카데미게임학원 노원점
+
+### [[채용연계형] 자바 풀스택 개발자 취업캠프 12기](https://event-us.kr/genia/event/101085?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-14 09:00:00 ~ 2025-11-17 18:00:00
+- **Price:** 무료
+- **Host:** 천재IT교육센터
+- **Location:** 서울 금천구 디지털로9길 23 11층 천재IT교육센터
 
 ### [AI EXPO KOREA 2025 (국제인공지능대전)](https://event-us.kr/AIEXPOKOREA/event/97568?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-14 10:00:00 ~ 2025-05-16 17:00:00
