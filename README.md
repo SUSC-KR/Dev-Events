@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [(게임콘텐츠제작) 유니티기반 게임기획자 및 게임프로그래머 양성과정](https://event-us.kr/sbsgamedaegu/event/100114?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-08 09:00:00 ~ 2025-11-13 18:00:00
-- **Price:** 무료
-- **Host:** SBS아카데미게임학원 대구
-- **Location:** 대구 동성로 1길 15 5층 게임학원
-
-### [Algorithms Study Group!](https://www.meetup.com/codeseoul/events/306132590/)
-- **Date:** 2025-04-08 11:30:00 ~ 2025-04-08 13:30:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Online event
-
-### [제11회 INNOPOLIS SPACE-S Meet-up Day ~ 쉽게 이해하는 IBM 양자컴퓨터와 Qiskit 활용법 ~](https://event-us.kr/spaces/event/101366?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-08 15:00:00 ~ 2025-04-08 17:00:00
-- **Price:** 무료
-- **Host:** 대덕특구 SPACE-S
-- **Location:** 대전 유성구 대덕대로 593 대덕특구 SPACE-S (대덕테크비즈센터 지하 1층)
-
 ### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/101817?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-09 00:00:00 ~ 2025-05-09 23:30:00
 - **Price:** 무료
@@ -55,6 +37,12 @@
 - **Price:** ₩10,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 231 Teheran-ro · Gangnam-gu, Se
+
+### [출판업계 데이터 분석 현직자가 알려주는 [인하우스 vs 에이전시] 업무 차이 / 대비보드 및 KPI 개발](https://event-us.kr/metacode/event/102192?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-09 20:00:00 ~ 2025-04-09 21:00:00
+- **Price:** 무료
+- **Host:** 메타코드M
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [✅ AI활용한 웹디자인 국비지원 - 하이미디어아카데미 신촌점](https://event-us.kr/ithimedia/event/79995?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-10 09:30:00 ~ 2025-10-01 18:30:00
@@ -95,7 +83,7 @@
 ### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306843791/)
 - **Date:** 2025-04-10 19:30:00 ~ 2025-04-10 21:30:00
 - **Price:** FREE
-- **Host:** FOSS Enthusiasts Seoul
+- **Host:** None
 - **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
 
 ### [2025년 K-디지털 트레이닝 「SW 현직자 특강」(개발자의 취업 성공 A to Z)](https://event-us.kr/mainbizjob/event/101581?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
@@ -127,12 +115,6 @@
 - **Price:** 무료
 - **Host:** IT로싸의 취업컨설팅
 - **Location:** 서울 강남구 테헤란로26길 12 13층 코리아IT아카데미 강남본원점 별관
-
-### [Flutter Seoul OpenStage #2](https://www.meetup.com/flutter-seoul/events/306588530/)
-- **Date:** 2025-04-12 12:00:00 ~ 2025-04-12 16:00:00
-- **Price:** FREE
-- **Host:** Flutter Seoul
-- **Location:** Needs a location
 
 ### [여성 발표자 파이 굽기 워크샵](https://www.meetup.com/seoul-pyladies-meetup/events/306784191/)
 - **Date:** 2025-04-12 13:00:00 ~ 2025-04-12 15:00:00
@@ -188,6 +170,12 @@
 - **Host:** powerlearning
 - **Location:** 서울 강남구 강남대로94길 21 강남역 11번 출구 인근 모임공간 옐로스톤
 
+### [[Gamma 한국 공식 온라인 웨비나] PPT 제작시간 90% 단축하는 방법을 라이브로 만나보세요](https://event-us.kr/meetgamma/event/102212?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-14 21:00:00 ~ 2025-04-14 22:00:00
+- **Price:** 무료
+- **Host:** Gamma
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [Unite Seoul 2025](https://event-us.kr/uniteseoul2025/event/99309?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-15 09:00:00 ~ 2025-04-15 18:00:00
 - **Price:** 유료
@@ -224,11 +212,23 @@
 - **Host:** 모두의연구소
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [Algorithms Study Group!](https://www.meetup.com/codeseoul/events/306132591/)
+- **Date:** 2025-04-15 11:30:00 ~ 2025-04-15 13:30:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** Online event
+
 ### [1억을 아끼는 웹/앱 개발 프로젝트 외주업체와의 성공개발 가이드(신논현역, 4/15)](https://event-us.kr/dxc/event/100806?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-15 20:00:00 ~ 2025-04-15 21:00:00
 - **Price:** 무료
 - **Host:** DX컨설팅
 - **Location:** 서울 강남구 강남대로 484 99빌딩 L1층, 4-8층
+
+### [Startup Funding in Japan: How to Raise Money with VCs](https://www.meetup.com/seoul-startup-founders-101/events/307125872/)
+- **Date:** 2025-04-16 09:00:00 ~ 2025-04-16 11:00:00
+- **Price:** FREE
+- **Host:** Seoul Startup Founder 101
+- **Location:** Online event
 
 ### [[전액지원] 개발자 부트캠프(기업멘토링)](https://event-us.kr/goottacademy/event/101069?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 09:30:00 ~ 2025-10-27 18:30:00
@@ -254,11 +254,23 @@
 - **Host:** 언더독스 Actpreneurship
 - **Location:** 서울 용산구 독서당로 46 한남 아이파크 애비뉴 B1 (용산구 사회적경제지원센터 교육장)
 
+### [[Criminal IP 웨비나] 위협 인텔리전스를 SIEM/SOAR 에 연동하는 방법](https://event-us.kr/criminalip/event/102162?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-16 15:00:00 ~ 2025-04-16 16:00:00
+- **Price:** 무료
+- **Host:** Criminal IP
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [AI Talker를 활용하여 스마트하게 일하기.](https://event-us.kr/fixfree/event/101578?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 18:00:00 ~ 2025-04-16 21:00:00
 - **Price:** 무료
 - **Host:** fixfree
 - **Location:** 서울 영등포구 도림로125길 27 (M.Y.Factory 산업지원 거점시설 2층 교육장)
+
+### [(스트림릿 해커톤을 위한) 스노우플레이크 코리아 유저그룹 정기 밋업 9회 (온라인 웨비나)](https://event-us.kr/flakers/event/102169?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-16 19:00:00 ~ 2025-04-16 21:00:00
+- **Price:** 무료
+- **Host:** 스노우플레이크코리아 유저그룹
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [ISMS-P 인증심사원 자격증 합격 설명회](https://event-us.kr/soldesk001/event/100573?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 20:00:00 ~ 2025-04-16 21:00:00
@@ -308,11 +320,23 @@
 - **Host:** 조영호
 - **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩) 2층 SPACE 16
 
+### [[선착순 무료세미나]백엔드 개발자 취업 전략 - 비대면 가능](https://event-us.kr/rhdgkdms1386/event/102159?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-19 11:00:00 ~ 2025-04-19 13:00:00
+- **Price:** 무료
+- **Host:** IT로싸의 취업컨설팅
+- **Location:** 대구 중구 중앙대로 366 코리아IT아카데미 대구지점 C강의장
+
 ### [FlutterSeoul - 오픈스테이지(4월)](https://event-us.kr/flutterseoul/event/101034?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
 - **Price:** 20,000원
 - **Host:** FlutterSeoul
 - **Location:** 서울 강남구 테헤란로14길 40 2층 - 워크토크 강남본점
+
+### [Flutter Seoul 4월 오픈스테이지](https://www.meetup.com/flutter-seoul/events/306588530/)
+- **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
+- **Price:** FREE
+- **Host:** Flutter Seoul
+- **Location:** Needs a location
 
 ### [AI를 활용해 나만의 웹/앱 하루만에 만들기 :한국혁신경영협회 정기세미나](https://event-us.kr/koima24/event/101712?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 15:00:00 ~ 2025-04-19 18:00:00
@@ -368,6 +392,12 @@
 - **Host:** 잇츠맨
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [AWSKRUG #magok 마곡 소모임 (2025년 4월 22일 화요일)](https://www.meetup.com/awskrug/events/307051845/)
+- **Date:** 2025-04-22 19:00:00 ~ 2025-04-22 20:30:00
+- **Price:** ₩5,000.00
+- **Host:** AWSKRUG - AWS한국사용자모임
+- **Location:** 71 Magokjungang 8-ro · Gangseo-gu, Se
+
 ### [NCUC 수도권 남부 소모임 5회 (구 판교소모임)](https://www.meetup.com/navercloud-user-community/events/306646163/)
 - **Date:** 2025-04-22 19:00:00 ~ 2025-04-22 21:00:00
 - **Price:** FREE
@@ -422,6 +452,12 @@
 - **Host:** Microsoft Azure
 - **Location:** 서울 종로구 종로1길 50 더케이트윈타워 A동 13층 한국마이크로소프트
 
+### [ChatGPT 마스터 클래스 10기](https://event-us.kr/dbredu/event/102179?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 10:00:00 ~ 2025-04-24 17:30:00
+- **Price:** 유료
+- **Host:** DBR 경영교육
+- **Location:** 서울 서대문구 충정로 지하 28-1 충정로역 인근 강의장 (등록시 안내)
+
 ### [(종각/줌수업)워드프레스 기초부터 디자인까지 6시간 속성 마스터(4/23)](https://event-us.kr/powerlearning/event/102059?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-23 13:00:00 ~ 2025-04-23 19:00:00
 - **Price:** 239,000원
@@ -475,6 +511,12 @@
 - **Price:** 무료
 - **Host:** fastcampus
 - **Location:** 경기 성남시 분당구 판교로289번길 20 판교 스타트업 캠퍼스
+
+### [[광화문 IT 트렌드 크루] 기업 사례 기반 <생성형 AI 도입 가이드> 세미나 & 네트워킹](https://event-us.kr/ittrendcrew/event/102139?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 19:00:00 ~ 2025-04-24 20:30:00
+- **Price:** 무료
+- **Host:** 광화문 IT 트렌드 크루
+- **Location:** 서울 종로구 종로3길 17 (광화문 D타워) (주)멋쟁이사자처럼 17층 라운지
 
 ### [🍔 크라이치즈버거 X 라피 데이터 버거챗: 데이터 직무 소규모 네트워킹](https://event-us.kr/kkuru/event/101214?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 19:00:00 ~ 2025-04-24 21:30:00
@@ -559,6 +601,12 @@
 - **Price:** 10,000원
 - **Host:** 맞다AI가
 - **Location:** 아직 정해지지 않음
+
+### [비전공자가 IT 취업 후 성장하는 방법 A to Z 가이드](https://event-us.kr/cloudlab/event/102205?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
+- **Price:** 무료
+- **Host:** 클라우드 연구소
+- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
 
 ### [[선착순 모집] 서울 매력일자리 IT, 인공지능 분야 인턴십 참여자 모집_AI+DX 개발 실무자 과정](https://event-us.kr/koraiaedu/event/101303?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-01 00:00:00 ~ 2025-10-31 23:30:00
@@ -649,4 +697,16 @@
 - **Price:** 무료
 - **Host:** 경기인력개발원
 - **Location:** 경기 파주시 와석순환로172번길 16 대한상공회의소 경기인력개발원
+
+### [제 7회 Clojure Korea 밋업](https://event-us.kr/liftio2024/event/102198?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-28 21:00:00 ~ 2025-05-28 22:00:00
+- **Price:** 무료
+- **Host:** liftIO
+- **Location:** 온라인으로 진행하는 행사입니다.
+
+### [청년취업사관학교 새싹 송파캠퍼스 X 노드크루 [비즈니스 문제 해결을 위한 실무형 AI·데이터분석 교육 과정]](https://event-us.kr/nodecrew/event/102186?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-30 09:00:00 ~ 2025-09-01 18:00:00
+- **Price:** 무료
+- **Host:** NODECREW
+- **Location:** 서울 송파구 송파대로 167 지하1층 청년취업사관학교 송파캠퍼스
 
