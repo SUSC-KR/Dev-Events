@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/101817?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-09 00:00:00 ~ 2025-05-09 23:30:00
-- **Price:** 무료
-- **Host:** 그린온라인캠프
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [스타트업, 예비창업을 위한 실패하지 않는 외주](https://event-us.kr/nononi/event/101959?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-09 14:00:00 ~ 2025-04-09 16:00:00
-- **Price:** 10,000원
-- **Host:** 서비스 기획소
-- **Location:** 서울 마포구 양화로 175 모임공간 모락 홍대. 마젤란 21 오피스텔 1312호
-
-### [105차 실습세미나 - SPSS 대화상자로 쉽게 배우는 Propensity Score Matching (성향점수 짝짓기) 기법](https://event-us.kr/seminar2023/event/100986?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-09 14:00:00 ~ 2025-04-09 16:00:00
-- **Price:** 유료
-- **Host:** 세미나
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[베슬에이아이 웨비나] AI 에이전트 구축을 위한 3가지 요소 및 도입 방법 - 실제 사례 중심](https://event-us.kr/vesslai/event/101349?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-09 15:00:00 ~ 2025-04-09 16:00:00
-- **Price:** 무료
-- **Host:** 베슬에이아이
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [AWSKRUG #AIEngineering Hands-on Lab - 4월 9일(수) Amazon Q Dev CLI를 이용한 바이브 코딩](https://www.meetup.com/awskrug/events/306928642/)
-- **Date:** 2025-04-09 19:30:00 ~ 2025-04-09 21:00:00
-- **Price:** ₩10,000.00
-- **Host:** AWSKRUG - AWS한국사용자모임
-- **Location:** 231 Teheran-ro · Gangnam-gu, Se
-
-### [출판업계 데이터 분석 현직자가 알려주는 [인하우스 vs 에이전시] 업무 차이 / 대비보드 및 KPI 개발](https://event-us.kr/metacode/event/102192?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-09 20:00:00 ~ 2025-04-09 21:00:00
-- **Price:** 무료
-- **Host:** 메타코드M
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [✅ AI활용한 웹디자인 국비지원 - 하이미디어아카데미 신촌점](https://event-us.kr/ithimedia/event/79995?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-10 09:30:00 ~ 2025-10-01 18:30:00
 - **Price:** 무료
@@ -97,6 +61,12 @@
 - **Price:** 무료
 - **Host:** 메인비즈
 - **Location:** 서울 강남구 영동대로 513 2층 상사전시장 A01 스타트업 브랜치
+
+### [K-디지털 트레이닝 「SW 잡코칭-DAY」 현장면접 참여자 모집(선착순)](https://event-us.kr/mainbizjob/event/102234?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-11 10:00:00 ~ 2025-04-11 16:30:00
+- **Price:** 무료
+- **Host:** 메인비즈
+- **Location:** 서울 강남구 영동대로 513 스타트업 브랜치
 
 ### [칼퇴는 기본, 성과는 폭발! 직장인을 위한 챗GPT 활용법](https://event-us.kr/FKH3nHkjmPGh/event/101364?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-11 19:00:00 ~ 2025-04-11 20:30:00
@@ -224,17 +194,17 @@
 - **Host:** DX컨설팅
 - **Location:** 서울 강남구 강남대로 484 99빌딩 L1층, 4-8층
 
+### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/102245?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-16 00:00:00 ~ 2025-05-16 23:30:00
+- **Price:** 무료
+- **Host:** 그린온라인캠프
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [Startup Funding in Japan: How to Raise Money with VCs](https://www.meetup.com/seoul-startup-founders-101/events/307125872/)
 - **Date:** 2025-04-16 09:00:00 ~ 2025-04-16 11:00:00
 - **Price:** FREE
 - **Host:** Seoul Startup Founder 101
 - **Location:** Online event
-
-### [[전액지원] 개발자 부트캠프(기업멘토링)](https://event-us.kr/goottacademy/event/101069?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-16 09:30:00 ~ 2025-10-27 18:30:00
-- **Price:** 무료
-- **Host:** 구트아카데미
-- **Location:** 서울 구로구 시흥대로163길 33 2-3f 구트아카데미
 
 ### [106차 실습세미나 - SPSS 29 New Features를 활용한 선형회귀의 확장](https://event-us.kr/seminar2023/event/100989?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 14:00:00 ~ 2025-04-16 17:00:00
@@ -266,7 +236,7 @@
 - **Host:** fixfree
 - **Location:** 서울 영등포구 도림로125길 27 (M.Y.Factory 산업지원 거점시설 2층 교육장)
 
-### [(스트림릿 해커톤을 위한) 스노우플레이크 코리아 유저그룹 정기 밋업 9회 (온라인 웨비나)](https://event-us.kr/flakers/event/102169?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [스트림릿 해커톤을 위한 스노우플레이크 온라인 웨비나 (Feat. Agentic AI)](https://event-us.kr/flakers/event/102169?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 19:00:00 ~ 2025-04-16 21:00:00
 - **Price:** 무료
 - **Host:** 스노우플레이크코리아 유저그룹
@@ -307,6 +277,24 @@
 - **Price:** ₩5,000.00
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 465 Gangnam-daero · Seocho-gu, Seoul · Seoul
+
+### [Weekly Discussion : Korea and Global News](https://www.meetup.com/seoulbusan-internationalclub/events/306972248/)
+- **Date:** 2025-04-17 19:00:00 ~ 2025-04-17 21:00:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
+
+### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306972886/)
+- **Date:** 2025-04-17 19:30:00 ~ 2025-04-17 21:30:00
+- **Price:** FREE
+- **Host:** FOSS Enthusiasts Seoul
+- **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
+
+### [(게임콘텐츠제작) 유니티기반 게임기획자 및 게임프로그래머 양성과정](https://event-us.kr/sbsgamedaegu/event/100114?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-18 09:00:00 ~ 2025-11-28 18:00:00
+- **Price:** 무료
+- **Host:** SBS아카데미게임학원 대구
+- **Location:** 대구 동성로 1길 15 5층 게임학원
 
 ### [✅ 자바(JAVA) 풀스택 개발자 - 하이미디어아카데미 강남](https://event-us.kr/ithimedia/event/84015?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-18 09:30:00 ~ 2025-10-15 18:30:00
@@ -446,6 +434,18 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스 13 강의장
 
+### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/102273?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 09:30:00 ~ 2025-10-21 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스 13 강의장
+
+### [[전액지원] 개발자 부트캠프(기업멘토링)](https://event-us.kr/goottacademy/event/101069?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 09:30:00 ~ 2025-11-07 18:30:00
+- **Price:** 무료
+- **Host:** 구트아카데미
+- **Location:** 서울 구로구 시흥대로163길 33 2-3f 구트아카데미
+
 ### [Java on Azure Day Seoul 2025](https://event-us.kr/msazurekr/event/101550?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-23 10:00:00 ~ 2025-04-23 17:30:00
 - **Price:** 무료
@@ -512,6 +512,12 @@
 - **Host:** fastcampus
 - **Location:** 경기 성남시 분당구 판교로289번길 20 판교 스타트업 캠퍼스
 
+### [[오프라인] 리걸AI로 업무 효율 성장시키는 방법 | 게임업계 의사결정자를 위한 리걸AI 실전 활용 세미나](https://event-us.kr/allibee/event/102260?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 18:00:00 ~ 2025-04-24 22:00:00
+- **Price:** 무료
+- **Host:** 앨리비(allibee)
+- **Location:** 서울 강남구 테헤란로51길 16 B1층, 잼라운지
+
 ### [[광화문 IT 트렌드 크루] 기업 사례 기반 <생성형 AI 도입 가이드> 세미나 & 네트워킹](https://event-us.kr/ittrendcrew/event/102139?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 19:00:00 ~ 2025-04-24 20:30:00
 - **Price:** 무료
@@ -553,6 +559,12 @@
 - **Price:** 무료
 - **Host:** 한국인터넷진흥원 한국인터넷정보센터
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [PyLadies Seoul X Maya](https://www.meetup.com/seoul-pyladies-meetup/events/307170777/)
+- **Date:** 2025-04-25 19:30:00 ~ 2025-04-25 21:30:00
+- **Price:** ₩20,000.00
+- **Host:** PyLadies Seoul Meetup
+- **Location:** 115, Wangsimni-ro, Seongdong-gu · Seoul
 
 ### [GitHub Copilot Bootcamp](https://event-us.kr/cwbkr/event/101810?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-26 12:00:00 ~ 2025-04-26 18:00:00
@@ -673,6 +685,12 @@
 - **Price:** 무료
 - **Host:** AI EXPO KOREA
 - **Location:** 서울 강남구 영동대로 513 코엑스 1층 Hall A
+
+### [[모두의연구소] 프로덕트 특화 데이터 분석 과정](https://event-us.kr/modu/event/102276?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-14 10:00:00 ~ 2025-11-14 18:00:00
+- **Price:** 무료
+- **Host:** 모두의연구소
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[Microsoft] MS 사이버 시큐리티 스쿨 - 정보보안 국비교육](https://event-us.kr/kgi6800/event/101204?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-15 00:00:00 ~ 2025-12-09 23:30:00
