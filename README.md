@@ -8,48 +8,6 @@
 
 ## 이벤트 목록
 
-### [✅ AI활용한 웹디자인 국비지원 - 하이미디어아카데미 신촌점](https://event-us.kr/ithimedia/event/79995?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-10 09:30:00 ~ 2025-10-01 18:30:00
-- **Price:** 무료
-- **Host:** IT국비교육
-- **Location:** 서울 서대문구 연세로 8-1 하이미디어아카데미 신촌점
-
-### [RAG 기반 AI 애플리케이션 개발 가이드 2탄 (고급)](https://event-us.kr/SJ32PLGl278n/event/101428?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-10 11:00:00 ~ 2025-04-10 11:30:00
-- **Price:** 무료
-- **Host:** 네이버클라우드
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [머신러닝 Deformer를 활용한 AI 신기능 시연 및 소개](https://event-us.kr/icentric/event/101365?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-10 14:00:00 ~ 2025-04-10 15:00:00
-- **Price:** 무료
-- **Host:** DigiCAP
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [1시간 만에 홈페이지 만들기](https://event-us.kr/creatorlink/event/101939?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-10 14:00:00 ~ 2025-04-10 15:30:00
-- **Price:** 무료
-- **Host:** 크리에이터링크
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [AWSKRUG DevOps 소모임 - 4월 10일 (목) 17번째 밋업](https://www.meetup.com/awskrug/events/307037666/)
-- **Date:** 2025-04-10 19:00:00 ~ 2025-04-10 21:00:00
-- **Price:** FREE
-- **Host:** AWSKRUG - AWS한국사용자모임
-- **Location:** 231 Teheran-ro · Gangnam-gu, Se
-
-### [Weekly Discussion : Korea and Global News](https://www.meetup.com/seoulbusan-internationalclub/events/306843867/)
-- **Date:** 2025-04-10 19:00:00 ~ 2025-04-10 21:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
-
-### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306843791/)
-- **Date:** 2025-04-10 19:30:00 ~ 2025-04-10 21:30:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
-
 ### [2025년 K-디지털 트레이닝 「SW 현직자 특강」(개발자의 취업 성공 A to Z)](https://event-us.kr/mainbizjob/event/101581?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-11 10:00:00 ~ 2025-04-11 12:00:00
 - **Price:** 무료
@@ -139,6 +97,12 @@
 - **Price:** 338,000원 ~ 825,000원
 - **Host:** powerlearning
 - **Location:** 서울 강남구 강남대로94길 21 강남역 11번 출구 인근 모임공간 옐로스톤
+
+### [내 생애 첫 파이썬 (feat.두려움 극복)](https://event-us.kr/modu/event/102343?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-14 15:00:00 ~ 2025-04-25 17:00:00
+- **Price:** 무료
+- **Host:** 모두의연구소
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[Gamma 한국 공식 온라인 웨비나] PPT 제작시간 90% 단축하는 방법을 라이브로 만나보세요](https://event-us.kr/meetgamma/event/102212?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-14 21:00:00 ~ 2025-04-14 22:00:00
@@ -258,6 +222,12 @@
 - **Date:** 2025-04-17 11:00:00 ~ 2025-04-17 11:30:00
 - **Price:** 무료
 - **Host:** 네이버클라우드
+- **Location:** 온라인으로 진행하는 행사입니다.
+
+### [1시간 만에 홈페이지 만들기](https://event-us.kr/creatorlink/event/102340?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-17 14:00:00 ~ 2025-04-17 15:30:00
+- **Price:** 무료
+- **Host:** 크리에이터링크
 - **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[OSBC] 2025 4월 오픈소스 웨비나](https://event-us.kr/osbc/event/101702?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
@@ -391,6 +361,12 @@
 - **Price:** FREE
 - **Host:** NaverCloud User Community
 - **Location:** 강남구 테헤란로 142 아크플레이스 · 서울특별시
+
+### [[모두팝] 얼라인먼트 기술 연구 현황 및 향후 과제 | K-하이테크플랫폼 X 모두의연구소 강남](https://event-us.kr/modu/event/101982?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-22 19:00:00 ~ 2025-04-22 21:30:00
+- **Price:** 무료
+- **Host:** 모두의연구소
+- **Location:** 서울 강남구 강남대로 324 (역삼디오슈페리움) 2층, 모두의연구소 강남캠퍼스 라운지
 
 ### [[PROFECT] 강남에서 같이 프로젝트 해요! 풀스택 개발 & 클라우드 엔지니어링 과정](https://event-us.kr/allforyoung/event/100998?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-23 00:00:00 ~ 2025-06-26 00:00:00
@@ -578,6 +554,12 @@
 - **Host:** 마이크로소프트 커뮤니티 이벤트
 - **Location:** 서울 종로구 종로1길 50 더케이트윈타워 13층 한국 마이크로소프트
 
+### [MSI 익스피리언스 데이](https://event-us.kr/msi/event/102360?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-26 13:00:00 ~ 2025-04-26 17:00:00
+- **Price:** 무료
+- **Host:** 엠에스아이코리아
+- **Location:** 서울 영등포구 경인로 775 에이스하이테크시티 1-1동 211호 MSI
+
 ### [Build with AI: GDG StartUP Lab](https://event-us.kr/gdgcampuskorea/event/100657?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-26 13:00:00 ~ 2025-04-26 20:30:00
 - **Price:** 10,000원 ~ 15,000원
@@ -620,6 +602,18 @@
 - **Host:** 클라우드 연구소
 - **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
 
+### [국비지원 부트캠프 수료 후 취업한 곳이 마음에 안드시나요?](https://event-us.kr/cloudengineer/event/102316?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
+- **Price:** 무료
+- **Host:** 클라우드연구소
+- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
+
+### [부트캠프 수료 후 취업한 곳이 마음에 안드시나요?](https://event-us.kr/cloudengineer/event/99724?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
+- **Price:** 무료
+- **Host:** 클라우드연구소
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[선착순 모집] 서울 매력일자리 IT, 인공지능 분야 인턴십 참여자 모집_AI+DX 개발 실무자 과정](https://event-us.kr/koraiaedu/event/101303?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-01 00:00:00 ~ 2025-10-31 23:30:00
 - **Price:** 무료
@@ -650,11 +644,23 @@
 - **Host:** nobreak
 - **Location:** 서울 금천구 가산로 70 청년취업사관학교 금천캠퍼스
 
+### [[메가스터디교육그룹] 빅데이터분석 활용&자바 웹개발 취업과정(교육생모집)](https://event-us.kr/tjoeun/event/102347?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-07 09:30:00 ~ 2025-11-19 18:20:00
+- **Price:** 무료
+- **Host:** 더조은컴퓨터종로점
+- **Location:** 서울 종로구 우정국로2길 21 더조은컴퓨터아카데미 9F
+
 ### [AI네이티브 언리얼(Unreal) 게임프로그래밍(VR콘텐츠 제작 전문가 양성)](https://event-us.kr/ysedu/event/101790?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-08 09:00:00 ~ 2025-12-18 18:00:00
 - **Price:** 무료
 - **Host:** 연세아이티 YITI
 - **Location:** 경기 수원시 팔달구 덕영대로 905 2층 연세IT미래교육원 수원역캠퍼스
+
+### [★전액국비지원_에너지 빅데이터 실무자 양성 및 인턴십 연계 과정_서울시 매력일자리 사업★](https://event-us.kr/goodee/event/102364?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-12 00:00:00 ~ 2025-07-10 18:00:00
+- **Price:** 무료
+- **Host:** 구디아카데미
+- **Location:** 서울 금천구 가산디지털2로 95 구디아카데미
 
 ### [★2025 서울시 매력일자리 사업_에너지 빅데이터 실무자 양성 및 인턴십 연계 과정★](https://event-us.kr/goodee/event/102146?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-12 00:00:00 ~ 2025-07-10 23:30:00
@@ -668,11 +674,29 @@
 - **Host:** 한국클라우드컴퓨팅연구조합
 - **Location:** 서울 구로구 디지털로33길 50 204호 한국클라우드컴퓨팅연구조합
 
+### [[메가스터디교육그룹] 인공지능(AI)활용 서비스 개발자(프론트엔드_React) 취업과정(교육생모집)](https://event-us.kr/tjoeun/event/102348?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-12 09:30:00 ~ 2025-11-17 18:20:00
+- **Price:** 무료
+- **Host:** 더조은컴퓨터종로점
+- **Location:** 서울 종로구 우정국로2길 21 더조은컴퓨터아카데미 9F
+
+### [[메가스터디교육그룹] 프로젝트 기반 풀스택 개발자 취업캠프(교육생모집)](https://event-us.kr/tjoeun/event/102345?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-12 09:30:00 ~ 2025-12-12 18:30:00
+- **Price:** 무료
+- **Host:** 더조은컴퓨터종로점
+- **Location:** 서울 종로구 우정국로2길 21 더조은컴퓨터아카데미 9F
+
 ### [(게임콘텐츠제작)유니티 프로그래밍 전문가 양성과정(게임기획자, 게임프로그래머)](https://event-us.kr/sbsgamenowon/event/100126?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-13 09:00:00 ~ 2025-11-13 17:00:00
+- **Date:** 2025-05-13 09:00:00 ~ 2025-11-12 17:00:00
 - **Price:** 무료
 - **Host:** SBS아카데미게임학원 노원점
 - **Location:** 서울특별시 노원구 노해로 459 6층, SBS아카데미게임학원 노원점
+
+### [ts-backend-meetup.ts](https://event-us.kr/tsbackendmeetup/event/102317?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-13 19:00:00 ~ 2025-05-13 22:00:00
+- **Price:** 10,000원
+- **Host:** ts-backend-meetup.ts
+- **Location:** 서울 서초구 서초대로77길 17 Block77(스파크플러스 4호점) 11층
 
 ### [[채용연계형] 자바 풀스택 개발자 취업캠프 12기](https://event-us.kr/genia/event/101085?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-14 09:00:00 ~ 2025-11-17 18:00:00
