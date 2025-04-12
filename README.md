@@ -8,36 +8,6 @@
 
 ## 이벤트 목록
 
-### [2025년 K-디지털 트레이닝 「SW 현직자 특강」(개발자의 취업 성공 A to Z)](https://event-us.kr/mainbizjob/event/101581?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-11 10:00:00 ~ 2025-04-11 12:00:00
-- **Price:** 무료
-- **Host:** 메인비즈
-- **Location:** 서울 강남구 영동대로 513 코엑스 2층 상사전시장 A01(스타트업 브랜치)
-
-### [2025년 K-Digital Training(벤처유형) 사업 「SW 잡코칭-DAY」](https://event-us.kr/mainbizjob/event/100918?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-11 10:00:00 ~ 2025-04-11 16:30:00
-- **Price:** 무료
-- **Host:** 메인비즈
-- **Location:** 서울 강남구 영동대로 513 2층 상사전시장 A01 스타트업 브랜치
-
-### [K-디지털 트레이닝 「SW 잡코칭-DAY」 현장면접 참여자 모집(선착순)](https://event-us.kr/mainbizjob/event/102234?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-11 10:00:00 ~ 2025-04-11 16:30:00
-- **Price:** 무료
-- **Host:** 메인비즈
-- **Location:** 서울 강남구 영동대로 513 스타트업 브랜치
-
-### [칼퇴는 기본, 성과는 폭발! 직장인을 위한 챗GPT 활용법](https://event-us.kr/FKH3nHkjmPGh/event/101364?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-11 19:00:00 ~ 2025-04-11 20:30:00
-- **Price:** 5,000원 ~ 25,000원
-- **Host:** 한빛미디어
-- **Location:** 서울 서대문구 연희로2길 62 한빛미디어 강의실 60 (A동 2층)
-
-### [Build with AI in Busan 2025](https://event-us.kr/gdgbusan/event/101218?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-11 19:00:00 ~ 2025-04-11 21:00:00
-- **Price:** 10,000원
-- **Host:** GDG Busan
-- **Location:** 부산 부산진구 동성로87번길 30 라운지J
-
 ### [[선착순무료세미나]실무자가 활용하는 Git 200% 활용하기](https://event-us.kr/rhdgkdms1386/event/101914?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-12 10:00:00 ~ 2025-04-12 12:00:00
 - **Price:** 무료
@@ -158,6 +128,12 @@
 - **Host:** DX컨설팅
 - **Location:** 서울 강남구 강남대로 484 99빌딩 L1층, 4-8층
 
+### [요즘 가장 핫한 미국 테크기업에서 직접 배운 성공적인 데이터 엔지니어링: 비즈니스 가치 창출 방법](https://event-us.kr/metacode/event/102367?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-15 20:00:00 ~ 2025-04-15 21:00:00
+- **Price:** 무료
+- **Host:** 메타코드M
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/102245?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 00:00:00 ~ 2025-05-16 23:30:00
 - **Price:** 무료
@@ -168,6 +144,12 @@
 - **Date:** 2025-04-16 09:00:00 ~ 2025-04-16 11:00:00
 - **Price:** FREE
 - **Host:** Seoul Startup Founder 101
+- **Location:** Online event
+
+### [(스트림릿 해커톤을 위한) 스노우플레이크 코리아 유저그룹 정기 밋업 9회 (온라인 웨비나)](https://www.meetup.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9B%A8%EC%96%B4%ED%95%98%EC%9A%B0%EC%8A%A4-meetup-%EA%B7%B8%EB%A3%B9/events/307190936/)
+- **Date:** 2025-04-16 10:00:00 ~ 2025-04-16 12:00:00
+- **Price:** FREE
+- **Host:** Snowflake DW Meetup 그룹
 - **Location:** Online event
 
 ### [106차 실습세미나 - SPSS 29 New Features를 활용한 선형회귀의 확장](https://event-us.kr/seminar2023/event/100989?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
@@ -199,6 +181,12 @@
 - **Price:** 무료
 - **Host:** fixfree
 - **Location:** 서울 영등포구 도림로125길 27 (M.Y.Factory 산업지원 거점시설 2층 교육장)
+
+### [[무료 특강] 비전공자의 커리어 전환기: AI 개발자로 성장하는 법](https://event-us.kr/sprint/event/102402?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-16 19:00:00 ~ 2025-04-16 20:30:00
+- **Price:** 무료
+- **Host:** 코드잇 스프린트
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [스트림릿 해커톤을 위한 스노우플레이크 온라인 웨비나 (Feat. Agentic AI)](https://event-us.kr/flakers/event/102169?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 19:00:00 ~ 2025-04-16 21:00:00
@@ -296,11 +284,23 @@
 - **Host:** Flutter Seoul
 - **Location:** Needs a location
 
+### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/307004512/)
+- **Date:** 2025-04-19 13:00:00 ~ 2025-04-19 15:00:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** 건국대, · Seoul
+
 ### [AI를 활용해 나만의 웹/앱 하루만에 만들기 :한국혁신경영협회 정기세미나](https://event-us.kr/koima24/event/101712?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 15:00:00 ~ 2025-04-19 18:00:00
 - **Price:** 무료
 - **Host:** 한국혁신경영협회
 - **Location:** 서울 마포구 백범로31길 21 서울창업허브 본관 9층 세미나2실
+
+### [Transform your gifts into art: Wrapping with Bojagi(Korean Fabric)](https://www.meetup.com/korean-traditional-experience-with-ai/events/307022711/)
+- **Date:** 2025-04-20 15:00:00 ~ 2025-04-20 17:00:00
+- **Price:** FREE
+- **Host:** None
+- **Location:** Hongdae · Seoul
 
 ### [초심자를 위한 온라인 해킹 스터디, 빡공팟 12기 모집!](https://event-us.kr/b4c/event/99643?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-21 00:00:00 ~ 2025-07-06 23:59:00
@@ -506,11 +506,29 @@
 - **Host:** 라피
 - **Location:** 서울 강남구 테헤란로 616 크라이치즈버거 삼성역점 별관
 
+### [[노션] 으로 누워서 딸깍! 업무 자동화하기](https://event-us.kr/neuru/event/102389?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 20:00:00 ~ 2025-04-24 21:00:00
+- **Price:** 무료
+- **Host:** 느루(Neuru)
+- **Location:** 온라인으로 진행하는 행사입니다.
+
+### [[KISA] DNSSEC: DNS 데이터 위·변조 방지](https://event-us.kr/Ut2KSHw11cCG/event/101901?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-25 10:00:00 ~ 2025-04-25 11:30:00
+- **Price:** 무료
+- **Host:** 한국인터넷진흥원 한국인터넷정보센터
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [AI 실무 교육: 프롬프트 엔지니어링 정복](https://event-us.kr/in4u/event/101621?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-25 13:00:00 ~ 2025-04-25 18:00:00
 - **Price:** 무료
 - **Host:** 인포유앤컴퍼니
 - **Location:** 서울 성동구 아차산로5길 10 2층 고우넷 트레이닝 센터
+
+### [[KISA] DNS 이중화 구성 및 보안설정](https://event-us.kr/Ut2KSHw11cCG/event/101902?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-25 13:30:00 ~ 2025-04-25 15:00:00
+- **Price:** 무료
+- **Host:** 한국인터넷진흥원 한국인터넷정보센터
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [None](https://event-us.kr/smss2025/event/101853?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-25 13:30:00 ~ 2025-04-25 18:00:00
@@ -524,7 +542,7 @@
 - **Host:** 잇츠맨
 - **Location:** 온라인으로 진행하는 행사입니다.
 
-### [제 5회 Mendix 커뮤니티 밋업 - 로우코드 멘딕스와 함께 한 S전자의 혁신 여정](https://www.meetup.com/mendix-south-korea/events/307020597/)
+### [제 5회 Mendix 커뮤니티 밋업 - 로우코드 멘딕스와 전자 산업에서 이룬 혁신을 공개합니다.](https://www.meetup.com/mendix-south-korea/events/307020597/)
 - **Date:** 2025-04-25 14:00:00 ~ 2025-04-25 16:00:00
 - **Price:** FREE
 - **Host:** Mendix Community South Korea
@@ -541,6 +559,12 @@
 - **Price:** ₩20,000.00
 - **Host:** PyLadies Seoul Meetup
 - **Location:** 115, Wangsimni-ro, Seongdong-gu · Seoul
+
+### [(4.26.토) 하루만에 데이터 분석 자격증 취득하기_KDT교육 희망자 무료](https://event-us.kr/RPAmaster/event/102365?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-26 10:00:00 ~ 2025-04-26 12:00:00
+- **Price:** 무료
+- **Host:** RPA마스터 커뮤니티
+- **Location:** 서울 마포구 신촌로 176 중앙정보기술인재개발원 2층 IT라운지
 
 ### [GitHub Copilot Bootcamp](https://event-us.kr/cwbkr/event/101810?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-26 12:00:00 ~ 2025-04-26 18:00:00
@@ -590,11 +614,17 @@
 - **Host:** OWASP Seoul Chapter
 - **Location:** Online event
 
+### [🧑🏼‍💻 Workshop: Build your web applications with no-code](https://www.meetup.com/le-wagon-seoul/events/307209666/)
+- **Date:** 2025-04-30 10:00:00 ~ 2025-04-30 11:30:00
+- **Price:** FREE
+- **Host:** Le Wagon Seoul - Coding Bootcamp
+- **Location:** Online event
+
 ### [맞다AI가 4월 밋업: GitHub Copilot 어디까지 되는 거예요?](https://event-us.kr/matdaaiga/event/101738?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-30 18:30:00 ~ 2025-04-30 20:30:00
 - **Price:** 10,000원
 - **Host:** 맞다AI가
-- **Location:** 아직 정해지지 않음
+- **Location:** 대구 중구 중앙대로 402 대구광역시청년센터 활동그래 혁신공간 '바람' 2층 상상홀
 
 ### [비전공자가 IT 취업 후 성장하는 방법 A to Z 가이드](https://event-us.kr/cloudlab/event/102205?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
