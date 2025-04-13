@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [[선착순무료세미나]실무자가 활용하는 Git 200% 활용하기](https://event-us.kr/rhdgkdms1386/event/101914?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-12 10:00:00 ~ 2025-04-12 12:00:00
-- **Price:** 무료
-- **Host:** IT로싸의 취업컨설팅
-- **Location:** 서울 강남구 테헤란로26길 12 13층 코리아IT아카데미 강남본원점 별관
-
-### [여성 발표자 파이 굽기 워크샵](https://www.meetup.com/seoul-pyladies-meetup/events/306784191/)
-- **Date:** 2025-04-12 13:00:00 ~ 2025-04-12 15:00:00
-- **Price:** FREE
-- **Host:** PyLadies Seoul Meetup
-- **Location:** 115, Wangsimni-ro, Seongdong-gu · Seoul
-
-### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/306873313/)
-- **Date:** 2025-04-12 13:00:00 ~ 2025-04-12 15:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** 건국대, · Seoul
-
-### [(건대/줌)워드프레스 기초부터 쇼핑몰까지 6시간 속성과정(4/12)](https://event-us.kr/powerlearning/event/101648?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-12 13:00:00 ~ 2025-04-12 18:00:00
-- **Price:** 198,000원
-- **Host:** powerlearning
-- **Location:** 서울 광진구 동일로20길 89 건대입구역 인근 모임공간 모어스터디 건대점
-
 ### [Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-13 13:00:00 ~ 2025-04-13 18:00:00
 - **Price:** 10,000원
@@ -266,6 +242,12 @@
 - **Host:** 조영호
 - **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩) 2층 SPACE 16
 
+### [[NewMe] 오늘부터 구글 - 크롬편 #01 Chrome](https://event-us.kr/newmesmartedu/event/102467?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-19 10:30:00 ~ 2025-04-26 12:00:00
+- **Price:** 100,000원
+- **Host:** newme_smartedu
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[선착순 무료세미나]백엔드 개발자 취업 전략 - 비대면 가능](https://event-us.kr/rhdgkdms1386/event/102159?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 11:00:00 ~ 2025-04-19 13:00:00
 - **Price:** 무료
@@ -337,6 +319,12 @@
 - **Price:** 무료
 - **Host:** IT국비교육
 - **Location:** 서울 구로구 경인로 557 4층
+
+### [🌟 Info Session for Le Wagon coding bootcamps 🌟](https://www.meetup.com/le-wagon-seoul/events/307208836/)
+- **Date:** 2025-04-22 10:00:00 ~ 2025-04-22 11:00:00
+- **Price:** FREE
+- **Host:** Le Wagon Seoul - Coding Bootcamp
+- **Location:** Online event
 
 ### [[단 하루] 3개월 만에 6억을 벌어들인 노코드 버블 창업 공부하기](https://event-us.kr/YV7SqV3glfKc/event/101757?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-22 10:00:00 ~ 2025-04-22 18:00:00
@@ -505,6 +493,12 @@
 - **Price:** 35,000원
 - **Host:** 라피
 - **Location:** 서울 강남구 테헤란로 616 크라이치즈버거 삼성역점 별관
+
+### [AWSKRUG 보안 #Security 소모임 - 4월 24일 (목)](https://www.meetup.com/awskrug/events/307229812/)
+- **Date:** 2025-04-24 19:30:00 ~ 2025-04-24 21:00:00
+- **Price:** ₩5,000.00
+- **Host:** AWSKRUG - AWS한국사용자모임
+- **Location:** 231 Teheran-ro · Gangnam-gu, Se
 
 ### [[노션] 으로 누워서 딸깍! 업무 자동화하기](https://event-us.kr/neuru/event/102389?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 20:00:00 ~ 2025-04-24 21:00:00
