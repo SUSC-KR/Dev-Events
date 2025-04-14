@@ -8,18 +8,6 @@
 
 ## 이벤트 목록
 
-### [Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-13 13:00:00 ~ 2025-04-13 18:00:00
-- **Price:** 10,000원
-- **Host:** 파워 플랫폼 한국 유저 그룹
-- **Location:** 서울 종로구 종로1길 50 한국 마이크로소프트 13층
-
-### [(홍대/줌수업)워드프레스 기초부터 디자인까지 4시간 속성 마스터(4/13)](https://event-us.kr/powerlearning/event/101564?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-13 14:00:00 ~ 2025-04-13 18:00:00
-- **Price:** 159,000원
-- **Host:** powerlearning
-- **Location:** 서울 마포구 양화로15길 17 홍대입구역 1번 출구 인근 도보 10분거리 모임공간 타임레서피 스터디룸
-
 ### [[인텔] AI For Future Workforce를 활용한 인공지능 인재 양성 과정](https://event-us.kr/allforyoung/event/101866?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-14 00:00:00 ~ 2025-10-01 00:00:00
 - **Price:** 무료
@@ -218,6 +206,12 @@
 - **Host:** None
 - **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
 
+### [Seoul iOS Meetup [April 2025]](https://www.meetup.com/seoul-ios-meetup/events/307248243/)
+- **Date:** 2025-04-17 19:00:00 ~ 2025-04-17 21:00:00
+- **Price:** FREE
+- **Host:** Seoul iOS Meetup
+- **Location:** Needs a location
+
 ### [Weekly meetup!](https://www.meetup.com/foss-enthusiasts-seoul/events/306972886/)
 - **Date:** 2025-04-17 19:30:00 ~ 2025-04-17 21:30:00
 - **Price:** FREE
@@ -240,7 +234,7 @@
 - **Date:** 2025-04-19 09:30:00 ~ 2025-04-26 18:00:00
 - **Price:** 250,000원
 - **Host:** 조영호
-- **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩) 2층 SPACE 16
+- **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩)
 
 ### [[NewMe] 오늘부터 구글 - 크롬편 #01 Chrome](https://event-us.kr/newmesmartedu/event/102467?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-19 10:30:00 ~ 2025-04-26 12:00:00
@@ -452,6 +446,12 @@
 - **Host:** DT그라운드
 - **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1캠퍼스
 
+### [서울 워드프레스 미트업 #19](https://www.meetup.com/wordpress-meetup-seoul/events/307144621/)
+- **Date:** 2025-04-24 10:00:00 ~ 2025-04-24 13:00:00
+- **Price:** FREE
+- **Host:** Seoul WordPress Meetup
+- **Location:** Online event
+
 ### [AOAI Dev Day Korea 2025](https://event-us.kr/aifactory2/event/102024?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 10:00:00 ~ 2025-04-24 17:30:00
 - **Price:** 무료
@@ -548,6 +548,12 @@
 - **Host:** 한국인터넷진흥원 한국인터넷정보센터
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [[모두의연구소 비즈세미나] 2025 AI 트렌드 완전정복: LLMOps 시대의 흐름을 읽다](https://event-us.kr/modu/event/102470?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-25 18:00:00 ~ 2025-04-25 21:00:00
+- **Price:** 무료
+- **Host:** 모두의연구소
+- **Location:** 서울 강남구 강남대로 324 2층 모두의연구소 강남캠퍼스
+
 ### [PyLadies Seoul X Maya](https://www.meetup.com/seoul-pyladies-meetup/events/307170777/)
 - **Date:** 2025-04-25 19:30:00 ~ 2025-04-25 21:30:00
 - **Price:** ₩20,000.00
@@ -637,6 +643,18 @@
 - **Price:** 무료
 - **Host:** 클라우드연구소
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [누구나 쉽고 빠른 IT 커리어 확보 방법 [무료]](https://event-us.kr/cloudlab/event/102477?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
+- **Price:** 무료
+- **Host:** 클라우드 연구소
+- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
+
+### [부트캠프 수료 후 취업한 곳이 마음에 안드시나요?](https://event-us.kr/cloudlab/event/102478?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 23:30:00
+- **Price:** 무료
+- **Host:** 클라우드 연구소
+- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
 
 ### [[선착순 모집] 서울 매력일자리 IT, 인공지능 분야 인턴십 참여자 모집_AI+DX 개발 실무자 과정](https://event-us.kr/koraiaedu/event/101303?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-01 00:00:00 ~ 2025-10-31 23:30:00
@@ -763,6 +781,12 @@
 - **Price:** 무료
 - **Host:** 경기인력개발원
 - **Location:** 경기 파주시 와석순환로172번길 16 대한상공회의소 경기인력개발원
+
+### [우분투 데이: 함께 성장하는 우리, IT 네트워킹 데이](https://event-us.kr/susc/event/102468?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-24 19:00:00 ~ 2025-05-24 22:00:00
+- **Price:** 20,000원
+- **Host:** SUSC
+- **Location:** 서울 서대문구 연세로11길 19 빠빠빠치킨(미정)
 
 ### [제 7회 Clojure Korea 밋업](https://event-us.kr/liftio2024/event/102198?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-28 21:00:00 ~ 2025-05-28 22:00:00
