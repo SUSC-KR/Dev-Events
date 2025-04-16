@@ -8,60 +8,6 @@
 
 ## 이벤트 목록
 
-### [Unite Seoul 2025](https://event-us.kr/uniteseoul2025/event/99309?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 09:00:00 ~ 2025-04-15 18:00:00
-- **Price:** 유료
-- **Host:** Unite Seoul
-- **Location:** 서울 강남구 영동대로 513 코엑스 그랜드볼룸/아셈볼룸
-
-### [BUIDL Asia 2025 (비들 아시아 2025 컨퍼런스)](https://event-us.kr/buidlasia/event/100079?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 09:00:00 ~ 2025-04-16 18:00:00
-- **Price:** 130,000원 ~ 200,000원
-- **Host:** 비들 아시아 컨퍼런스 (BUIDL ASIA)
-- **Location:** 서울 송파구 올림픽로 300 시그니엘 서울
-
-### [✅ 풀스택 자바 개발자 국비지원 - 하이미디어아카데미 천호점](https://event-us.kr/ithimedia/event/80000?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 09:00:00 ~ 2025-10-24 18:00:00
-- **Price:** 무료
-- **Host:** IT국비교육
-- **Location:** 서울 강동구 천호대로 1027 5층
-
-### [✅ 자바풀스택개발자 국비지원 - 하이미디어아카데미 종로점](https://event-us.kr/ithimedia/event/88924?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 09:30:00 ~ 2025-09-30 18:30:00
-- **Price:** 무료
-- **Host:** IT국비교육
-- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로점
-
-### [[키사이트] RF 기술 웨비나](https://event-us.kr/keysightkorea/event/102144?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 10:00:00 ~ 2025-04-15 12:00:00
-- **Price:** 무료
-- **Host:** 키사이트 테크놀로지스
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [try(나의_첫_코드) 프론트엔드 개발 과정](https://event-us.kr/modu/event/101399?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 10:00:00 ~ 2025-08-14 19:00:00
-- **Price:** 무료
-- **Host:** 모두의연구소
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [Algorithms Study Group!](https://www.meetup.com/codeseoul/events/306132591/)
-- **Date:** 2025-04-15 11:30:00 ~ 2025-04-15 13:30:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Online event
-
-### [1억을 아끼는 웹/앱 개발 프로젝트 외주업체와의 성공개발 가이드(신논현역, 4/15)](https://event-us.kr/dxc/event/100806?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 20:00:00 ~ 2025-04-15 21:00:00
-- **Price:** 무료
-- **Host:** DX컨설팅
-- **Location:** 서울 강남구 강남대로 484 99빌딩 L1층, 4-8층
-
-### [요즘 가장 핫한 미국 테크기업에서 직접 배운 성공적인 데이터 엔지니어링: 비즈니스 가치 창출 방법](https://event-us.kr/metacode/event/102367?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-15 20:00:00 ~ 2025-04-15 21:00:00
-- **Price:** 무료
-- **Host:** 메타코드M
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/102245?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-16 00:00:00 ~ 2025-05-16 23:30:00
 - **Price:** 무료
@@ -181,6 +127,12 @@
 - **Price:** FREE
 - **Host:** FOSS Enthusiasts Seoul
 - **Location:** 387, Cheongpa-ro, Yongsan-gu · Seoul
+
+### [Murfy로 논문 쓸 연구실 체험단 모집](https://event-us.kr/murple/event/102661?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-18 00:00:00 ~ 2025-05-18 23:30:00
+- **Price:** 무료
+- **Host:** Murple 머플
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [(게임콘텐츠제작) 유니티기반 게임기획자 및 게임프로그래머 양성과정](https://event-us.kr/sbsgamedaegu/event/100114?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-18 09:00:00 ~ 2025-11-28 18:00:00
@@ -416,6 +368,12 @@
 - **Host:** 미리캔버스 에듀팀
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [W&B 서울 밋업 #6](https://event-us.kr/wandb/event/102612?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-23 19:00:00 ~ 2025-04-23 22:00:00
+- **Price:** 무료
+- **Host:** Weights & Biases
+- **Location:** 서울 강남구 테헤란로5길 7 위워크 강남역 2호점 - 10층 메인라운지
+
 ### [[인턴십 제공] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박](https://event-us.kr/sprint/event/101723?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-24 00:00:00 ~ 2025-06-24 23:30:00
 - **Price:** 무료
@@ -433,6 +391,12 @@
 - **Price:** 무료
 - **Host:** DT그라운드
 - **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1캠퍼스
+
+### [■■무료교육 취업률90% IT개발자 + AI심화과정 취업교육■■](https://event-us.kr/kangnamhimedia/event/102660?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 09:30:00 ~ 2025-10-22 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 서초구 강남대로 405 통영빌딩 8층 하이미디어아카데미
 
 ### [서울 워드프레스 미트업 #19](https://www.meetup.com/wordpress-meetup-seoul/events/307144621/)
 - **Date:** 2025-04-24 10:00:00 ~ 2025-04-24 13:00:00
@@ -500,6 +464,12 @@
 - **Host:** 느루(Neuru)
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [제1회 전문가네트워킹(비전공 개발자 해외취업 사례) 참가자 모집(~4.21.)](https://event-us.kr/coc/event/102629?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-24 20:00:00 ~ 2025-04-24 22:00:00
+- **Price:** 무료
+- **Host:** ICT CoC
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[KISA] DNSSEC: DNS 데이터 위·변조 방지](https://event-us.kr/Ut2KSHw11cCG/event/101901?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-25 10:00:00 ~ 2025-04-25 11:30:00
 - **Price:** 무료
@@ -547,6 +517,12 @@
 - **Price:** 무료
 - **Host:** 모두의연구소
 - **Location:** 서울 강남구 강남대로 324 2층 모두의연구소 강남캠퍼스
+
+### [[n8n Korea 온라인 밋업 #3] 팀을 위한 자동화 3탄](https://event-us.kr/infograb/event/102636?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-25 19:00:00 ~ 2025-04-25 21:00:00
+- **Price:** 무료
+- **Host:** InfoGrab
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [PyLadies Seoul X Maya](https://www.meetup.com/seoul-pyladies-meetup/events/307170777/)
 - **Date:** 2025-04-25 19:30:00 ~ 2025-04-25 21:30:00
@@ -625,6 +601,18 @@
 - **Price:** 무료
 - **Host:** 부산빅데이터혁신센터
 - **Location:** 부산 해운대구 센텀동로 45 7층 부산빅데이터혁신센터
+
+### [커머스 산업, AI로 혁신하다: 성공 사례와 실전 도입 전략](https://event-us.kr/kbnaialliance/event/102641?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-29 14:00:00 ~ 2025-04-29 16:30:00
+- **Price:** 무료
+- **Host:** 코오롱베니트 AI Alliance
+- **Location:** 서울 금천구 가산디지털1로 149 601호, 코오롱베니트 AI 솔루션센터
+
+### [[젬파이밋업 4월] 중국 퍼블리셔의 스팀 노하우 공개 | 드림핵 상하이 참가 게임 데모 시연](https://event-us.kr/zempie/event/102680?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-29 18:30:00 ~ 2025-04-29 21:30:00
+- **Price:** 무료
+- **Host:** 젬파이
+- **Location:** 서울 강남구 테헤란로 231 EAST 18층, AWS코리아
 
 ### [🧑🏼‍💻 Workshop: Build your web applications with no-code](https://www.meetup.com/le-wagon-seoul/events/307209666/)
 - **Date:** 2025-04-30 10:00:00 ~ 2025-04-30 11:30:00
