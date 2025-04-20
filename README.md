@@ -8,48 +8,6 @@
 
 ## 이벤트 목록
 
-### [JPA의 사실과 오해 4기](https://event-us.kr/choyoungho/event/101549?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-19 09:30:00 ~ 2025-04-26 18:00:00
-- **Price:** 250,000원
-- **Host:** 조영호
-- **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩) 7층 SPACE18
-
-### [[NewMe] 오늘부터 구글 - 크롬편 #01 Chrome](https://event-us.kr/newmesmartedu/event/102467?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-19 10:30:00 ~ 2025-04-26 12:00:00
-- **Price:** 100,000원
-- **Host:** newme_smartedu
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[선착순 무료세미나]백엔드 개발자 취업 전략 - 비대면 가능](https://event-us.kr/rhdgkdms1386/event/102159?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-19 11:00:00 ~ 2025-04-19 13:00:00
-- **Price:** 무료
-- **Host:** IT로싸의 취업컨설팅
-- **Location:** 대구 중구 중앙대로 366 코리아IT아카데미 대구지점 C강의장
-
-### [FlutterSeoul - 오픈스테이지(4월)](https://event-us.kr/flutterseoul/event/101034?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
-- **Price:** 20,000원
-- **Host:** FlutterSeoul
-- **Location:** 서울 강남구 테헤란로14길 40 2층 - 워크토크 강남본점
-
-### [Flutter Seoul 4월 오픈스테이지](https://www.meetup.com/flutter-seoul/events/306588530/)
-- **Date:** 2025-04-19 12:00:00 ~ 2025-04-19 16:00:00
-- **Price:** FREE
-- **Host:** Flutter Seoul
-- **Location:** Needs a location
-
-### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/307004512/)
-- **Date:** 2025-04-19 13:00:00 ~ 2025-04-19 15:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** 건국대, · Seoul
-
-### [AI를 활용해 나만의 웹/앱 하루만에 만들기 :한국혁신경영협회 정기세미나](https://event-us.kr/koima24/event/101712?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-19 15:00:00 ~ 2025-04-19 18:00:00
-- **Price:** 무료
-- **Host:** 한국혁신경영협회
-- **Location:** 서울 마포구 백범로31길 21 서울창업허브 본관 9층 세미나2실
-
 ### [Online - Blockchain User Certification](https://www.meetup.com/blockchain-educators-seoul/events/307278484/)
 - **Date:** 2025-04-20 10:00:00 ~ 2025-04-20 12:00:00
 - **Price:** FREE
@@ -404,7 +362,7 @@
 - **Host:** 모두의연구소
 - **Location:** 서울 강남구 강남대로 324 2층 모두의연구소 강남캠퍼스
 
-### [PyLadies Seoul X Maya](https://www.meetup.com/seoul-pyladies-meetup/events/307170777/)
+### [PyLadies Seoul X Maaya](https://www.meetup.com/seoul-pyladies-meetup/events/307170777/)
 - **Date:** 2025-04-25 19:30:00 ~ 2025-04-25 21:30:00
 - **Price:** ₩20,000.00
 - **Host:** PyLadies Seoul Meetup
@@ -673,6 +631,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 서울 강동구 천호대로 1139 6층 HJ컨벤션센터 강동점(회의실닷컴) 세미나실
+
+### [Build with AI in Daejeon](https://event-us.kr/gdgdaejeon/event/102939?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-10 13:00:00 ~ 2025-05-10 15:00:00
+- **Price:** 5,000원
+- **Host:** GDG Daejeon
+- **Location:** 아직 정해지지 않음
 
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 수원편](https://event-us.kr/chatmaster/event/102728?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-10 15:00:00 ~ 2025-05-10 18:00:00
