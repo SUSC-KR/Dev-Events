@@ -8,18 +8,6 @@
 
 ## 이벤트 목록
 
-### [Online - Blockchain User Certification](https://www.meetup.com/blockchain-educators-seoul/events/307278484/)
-- **Date:** 2025-04-20 10:00:00 ~ 2025-04-20 12:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Needs a location
-
-### [Transform your gifts into art: Wrapping with Bojagi(Korean Fabric)](https://www.meetup.com/korean-traditional-experience-with-ai/events/307022711/)
-- **Date:** 2025-04-20 15:00:00 ~ 2025-04-20 17:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Hongdae · Seoul
-
 ### [초심자를 위한 온라인 해킹 스터디, 빡공팟 12기 모집!](https://event-us.kr/b4c/event/99643?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-21 00:00:00 ~ 2025-07-06 23:59:00
 - **Price:** 유료
@@ -590,12 +578,6 @@
 - **Host:** nobreak
 - **Location:** 서울 금천구 가산로 70 청년취업사관학교 금천캠퍼스
 
-### [[메가스터디교육그룹] 빅데이터분석 활용&자바 웹개발 취업과정(교육생모집)](https://event-us.kr/tjoeun/event/102347?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-07 09:30:00 ~ 2025-11-19 18:20:00
-- **Price:** 무료
-- **Host:** 더조은컴퓨터종로점
-- **Location:** 서울 종로구 우정국로2길 21 더조은컴퓨터아카데미 9F
-
 ### [AWSKRUG #AIEngineering - 5월 7일(수) MCP on AWS](https://www.meetup.com/awskrug/events/307266851/)
 - **Date:** 2025-05-07 19:30:00 ~ 2025-05-07 21:30:00
 - **Price:** ₩10,000.00
@@ -644,12 +626,6 @@
 - **Host:** 챗마스터
 - **Location:** 경기 수원시 영통구 광교중앙로 140 수원컨벤션센터 3층 301호
 
-### [[메디치교육센터x고용노동부] ChatGPT활용 데이터전문가 취업과정 (선착순마감)](https://event-us.kr/medicieduit/event/102859?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-11 09:00:00 ~ 2025-11-13 18:00:00
-- **Price:** 무료
-- **Host:** 메디치교육센터 IT
-- **Location:** 서울 금천구 가산디지털1로 168 A동 3층 306호 메디치교육센터
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 광주편](https://event-us.kr/chatmaster/event/102729?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-11 15:00:00 ~ 2025-05-11 18:00:00
 - **Price:** 무료
@@ -680,8 +656,20 @@
 - **Host:** DT그라운드
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [[메디치교육센터x고용노동부] ChatGPT활용 데이터전문가 취업과정 (선착순마감)](https://event-us.kr/medicieduit/event/102859?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-12 09:00:00 ~ 2025-11-13 18:00:00
+- **Price:** 무료
+- **Host:** 메디치교육센터 IT
+- **Location:** 서울 금천구 가산디지털1로 168 A동 3층 306호 메디치교육센터
+
 ### [[메가스터디교육그룹] 인공지능(AI)활용 서비스 개발자(프론트엔드_React) 취업과정(교육생모집)](https://event-us.kr/tjoeun/event/102348?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-12 09:30:00 ~ 2025-11-17 18:20:00
+- **Price:** 무료
+- **Host:** 더조은컴퓨터종로점
+- **Location:** 서울 종로구 우정국로2길 21 더조은컴퓨터아카데미 9F
+
+### [[메가스터디교육그룹] 빅데이터분석 활용&자바 웹개발 취업과정(교육생모집)](https://event-us.kr/tjoeun/event/102347?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-12 09:30:00 ~ 2025-11-27 18:20:00
 - **Price:** 무료
 - **Host:** 더조은컴퓨터종로점
 - **Location:** 서울 종로구 우정국로2길 21 더조은컴퓨터아카데미 9F
