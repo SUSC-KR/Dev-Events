@@ -8,66 +8,6 @@
 
 ## 이벤트 목록
 
-### [(4.26.토) 하루만에 데이터 분석 자격증 취득하기_KDT교육 희망자 무료](https://event-us.kr/RPAmaster/event/102365?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 10:00:00 ~ 2025-04-26 12:00:00
-- **Price:** 무료
-- **Host:** RPA마스터 커뮤니티
-- **Location:** 서울 마포구 신촌로 176 중앙정보기술인재개발원 2층 IT라운지
-
-### [[기념품_스타벅스/자격증무료강의 제공] 하루 만에 데이터 분석 자격증 취득하기_KDT교육_소개목적_무료강의](https://event-us.kr/RPAmaster/event/102927?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 10:00:00 ~ 2025-04-26 12:00:00
-- **Price:** 무료
-- **Host:** RPA마스터 커뮤니티
-- **Location:** 서울 마포구 신촌로 176 서울 마포구 신촌로 176 중앙정보기술인재개발원 2층 IT라운지
-
-### [GitHub Copilot Bootcamp](https://event-us.kr/cwbkr/event/101810?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 12:00:00 ~ 2025-04-26 18:00:00
-- **Price:** 무료
-- **Host:** CWB Korea
-- **Location:** 서울 종로구 종로1길 50 더케이트윈타워 13층 한국 마이크로소프트
-
-### [GitHub Copilot Bootcamp](https://event-us.kr/msftkrdevrel/event/101808?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 12:00:00 ~ 2025-04-26 18:00:00
-- **Price:** 무료
-- **Host:** 마이크로소프트 커뮤니티 이벤트
-- **Location:** 서울 종로구 종로1길 50 더케이트윈타워 13층 한국 마이크로소프트
-
-### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/307135769/)
-- **Date:** 2025-04-26 13:00:00 ~ 2025-04-26 15:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** 건국대, · Seoul
-
-### [MSI 익스피리언스 데이](https://event-us.kr/msi/event/102360?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 13:00:00 ~ 2025-04-26 17:00:00
-- **Price:** 무료
-- **Host:** 엠에스아이코리아
-- **Location:** 서울 영등포구 경인로 775 에이스하이테크시티 1-1동 211호 MSI
-
-### [Build with AI: GDG StartUP Lab](https://event-us.kr/gdgcampuskorea/event/100657?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 13:00:00 ~ 2025-04-26 20:30:00
-- **Price:** 10,000원 ~ 15,000원
-- **Host:** GDG Campus Korea
-- **Location:** 서울 강남구 영동대로 417 구글 스타트업 캠퍼스
-
-### [디지털전환교육원 - 슬리드 공개 특강](https://event-us.kr/job-skill365/event/103002?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 18:00:00 ~ 2025-04-26 19:00:00
-- **Price:** 무료
-- **Host:** 디지털전환 교육원(DTedu]
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [🏯 Ikseon-dong Night Tour & Lotus Lantern Festival 🏮](https://www.meetup.com/seoulbusan-internationalclub/events/307403889/)
-- **Date:** 2025-04-26 18:00:00 ~ 2025-04-26 21:00:00
-- **Price:** FREE
-- **Host:** Seoul Busan International Club
-- **Location:** 종로3가 28-2 · 서울
-
-### [온라인 교육전문가 Skill Up과정 6차 - AI자료실 구축 및 적용](https://event-us.kr/job-skill365/event/103012?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-26 19:30:00 ~ 2025-04-26 21:30:00
-- **Price:** 150,000원
-- **Host:** 디지털전환 교육원(DTedu]
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [현대오토에버 모빌리티 SW 스쿨 2기 클래스메이트 모집(채용연계형)](https://event-us.kr/allforyoung/event/101760?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-27 00:00:00 ~ 2025-11-17 00:00:00
 - **Price:** 무료
@@ -475,6 +415,12 @@
 - **Price:** 무료
 - **Host:** 더조은아카데미 강남캠퍼스
 - **Location:** 서울 강남구 강남대로78길 8 한국빌딩 4층,8층 더조은아카데미 강남캠퍼스
+
+### [(종각)워드프레스 분석후 사용법 코칭(5/12~15)](https://event-us.kr/powerlearning/event/103338?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-12 12:00:00 ~ 2025-05-15 18:00:00
+- **Price:** 388,000원 ~ 1,024,320원
+- **Host:** powerlearning
+- **Location:** 서울 강남구 강남대로94길 21 강남역 11번 출구 인근 모임공간 옐로스톤
 
 ### [(게임콘텐츠제작)유니티 프로그래밍 전문가 양성과정(게임기획자, 게임프로그래머)](https://event-us.kr/sbsgamenowon/event/100126?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-13 09:00:00 ~ 2025-11-12 17:00:00
