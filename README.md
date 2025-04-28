@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [현대오토에버 모빌리티 SW 스쿨 2기 클래스메이트 모집(채용연계형)](https://event-us.kr/allforyoung/event/101760?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-27 00:00:00 ~ 2025-11-17 00:00:00
-- **Price:** 무료
-- **Host:** 요즘것들
-- **Location:** 아직 정해지지 않음
-
-### [2025 Korea Cardano Community Townhall (3): NCL + Budget Review](https://www.meetup.com/cardano-blockchain-korea/events/307441781/)
-- **Date:** 2025-04-27 12:00:00 ~ 2025-04-27 14:00:00
-- **Price:** FREE
-- **Host:** Cardano Blockchain Korea
-- **Location:** Online event
-
-### [MS AI Skills Fest + Season of Agents - Season 4 (Seoul)](https://event-us.kr/powerplatform/event/102140?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-27 13:00:00 ~ 2025-04-27 17:00:00
-- **Price:** 10,000원
-- **Host:** 파워 플랫폼 한국 유저 그룹
-- **Location:** 서울 종로구 종로1길 50 한국 마이크로소프트 13층
-
-### [Build with AI on Android](https://event-us.kr/gdgandroid/event/102289?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-04-27 14:00:00 ~ 2025-04-27 18:00:00
-- **Price:** 14,000원
-- **Host:** GDG Korea Android
-- **Location:** 서울 강남구 영동대로 417 구글 스타트업 캠퍼스
-
 ### [[패스트캠퍼스] Kernel360 프론트 3기 취업 완성 세미나](https://event-us.kr/fastcampusbootcamp/event/103069?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-28 19:00:00 ~ 2025-04-28 20:40:00
 - **Price:** 무료
@@ -97,6 +73,12 @@
 - **Price:** 무료
 - **Host:** 젬파이
 - **Location:** 서울 강남구 테헤란로 231 EAST 18층, AWS코리아
+
+### [정기 스터디, AI는 기후 악당인가](https://event-us.kr/zlzlbae/event/102072?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-04-29 19:00:00 ~ 2025-04-29 21:00:00
+- **Price:** 무료
+- **Host:** 지구를 지키는 배움터
+- **Location:** 서울 금천구 남부순환로128길 42 서울시민대학 모두의학교 캠퍼스 4층 작은방
 
 ### [[모두팝X엔터테크] 테크가 바꾸는 엔터산업 지형도](https://event-us.kr/modu/event/102720?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-04-29 19:00:00 ~ 2025-04-29 21:50:00
@@ -758,6 +740,12 @@
 - **Host:** 챗마스터
 - **Location:** 울산 울주군 삼남읍 울산역로 255 울산전시컨벤션센터 102+103호
 
+### [위키독스 자연어 처리 베스트 셀러의 AI 에이전트 구현](https://event-us.kr/learningspoons/event/103343?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-27 20:00:00 ~ 2025-05-27 21:30:00
+- **Price:** 무료
+- **Host:** learningspoons
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[알파코 K-하이테크 플랫폼] 생성형AI 마케팅실무: 마케팅 콘텐츠 기획 및 제작 (2기)](https://event-us.kr/dtground/event/102828?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-28 09:00:00 ~ 2025-05-29 18:00:00
 - **Price:** 무료
@@ -769,6 +757,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 경북 구미시 산동읍 첨단기업1로 49 구미코 3층 소희의실
+
+### [맞다AI가 5월 밋업: MCP를 알아볼까요? (MCP 특집)](https://event-us.kr/matdaaiga/event/103354?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-28 14:00:00 ~ 2025-05-28 17:30:00
+- **Price:** 무료
+- **Host:** 맞다AI가
+- **Location:** 경북 경산시 진량읍 대구대로 201 경산이노베이션 아카데미
 
 ### [제 7회 Clojure Korea 밋업](https://event-us.kr/liftio2024/event/102198?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-28 21:00:00 ~ 2025-05-28 22:00:00
