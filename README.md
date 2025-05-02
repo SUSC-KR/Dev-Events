@@ -8,66 +8,6 @@
 
 ## 이벤트 목록
 
-### [비전공자가 IT 취업 후 성장하는 방법 A to Z 가이드](https://event-us.kr/cloudlab/event/102205?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
-- **Price:** 무료
-- **Host:** 클라우드 연구소
-- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
-
-### [국비지원 부트캠프 수료 후 취업한 곳이 마음에 안드시나요?](https://event-us.kr/cloudengineer/event/102316?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
-- **Price:** 무료
-- **Host:** 클라우드연구소
-- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
-
-### [부트캠프 수료 후 취업한 곳이 마음에 안드시나요?](https://event-us.kr/cloudengineer/event/99724?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
-- **Price:** 무료
-- **Host:** 클라우드연구소
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [누구나 쉽고 빠른 IT 커리어 확보 방법 [무료]](https://event-us.kr/cloudlab/event/102477?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 00:00:00
-- **Price:** 무료
-- **Host:** 클라우드 연구소
-- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
-
-### [부트캠프 수료 후 취업한 곳이 마음에 안드시나요?](https://event-us.kr/cloudlab/event/102478?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-06-30 23:30:00
-- **Price:** 무료
-- **Host:** 클라우드 연구소
-- **Location:** 서울 강남구 강남대로 628 서울 강남구 강남대로 628 2층 L-101호
-
-### [[선착순 모집] 서울 매력일자리 IT, 인공지능 분야 인턴십 참여자 모집_AI+DX 개발 실무자 과정](https://event-us.kr/koraiaedu/event/101303?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-10-31 23:30:00
-- **Price:** 무료
-- **Host:** 사단법인 한국인공지능협회
-- **Location:** 서울 서초구 동작대로 132 9층 교육장(교육장소는 변경될 수 있습니다)
-
-### [[kakao x goorm] 구름톤 딥다이브 [8개 개발 과정] 모집](https://event-us.kr/allforyoung/event/101319?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-11-26 00:00:00
-- **Price:** 무료
-- **Host:** 요즘것들
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[선착순 모집] 2025 미래내일 일경험 사업_인턴형(IT직무) 참여 청년 모집 공고](https://event-us.kr/koraiaedu/event/101598?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 00:00:00 ~ 2025-11-30 23:30:00
-- **Price:** 무료
-- **Host:** 사단법인 한국인공지능협회
-- **Location:** 서울 마포구 백범로 88 *협회 주소이며 정확한 주소는 인턴십을 진행할 실제 기업 근무지 입니다
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 안산편](https://event-us.kr/chatmaster/event/102689?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-01 15:00:00 ~ 2025-05-01 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 안산시 상록구 한양대학로 55 에리카컨벤션센터 3층 컨퍼런스홀
-
-### [Weekly Discussion : Korea and Global News](https://www.meetup.com/seoulbusan-internationalclub/events/307230932/)
-- **Date:** 2025-05-01 19:00:00 ~ 2025-05-01 21:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
-
 ### [GDG Daegu Build With AI - 2nd Round!](https://event-us.kr/gdgdaegu/event/102698?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-02 14:00:00 ~ 2025-05-02 17:00:00
 - **Price:** 3,000원 ~ 30,000원
@@ -80,11 +20,11 @@
 - **Host:** 국립부경대학교 소프트웨어융합혁신원
 - **Location:** 부산광역시 남구 용소로 45 국립부경대학교 대연캠퍼스 누리관(A13호관) 2층 2204호
 
-### [German🇩🇪 French🇫🇷 English🇬🇧 Korean🇰🇷 Language Exchange](https://www.meetup.com/seoulbusan-internationalclub/events/307260113/)
-- **Date:** 2025-05-03 13:00:00 ~ 2025-05-03 15:00:00
+### [Learn German Online with a Private Tutor 🇩🇪](https://www.meetup.com/seoulbusan-internationalclub/events/307260113/)
+- **Date:** 2025-05-03 11:00:00 ~ 2025-05-03 12:00:00
 - **Price:** FREE
 - **Host:** None
-- **Location:** 건국대, · Seoul
+- **Location:** Online event
 
 ### [[GEG 강남] 제 21회 Google의 정석 #02 Google Chrome](https://event-us.kr/job-skill365/event/103530?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-03 18:00:00 ~ 2025-05-03 19:30:00
@@ -409,6 +349,12 @@
 - **Price:** 무료
 - **Host:** WISET
 - **Location:** 서울 강남구 테헤란로7길 22 한국과학기술회관 2관 6층 한국여성과학기술인육성재단
+
+### [일본 현지 CTO가 알려주는 일본의 AI 활용 트렌드](https://event-us.kr/findy/event/103617?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-13 19:00:00 ~ 2025-05-13 20:30:00
+- **Price:** 무료
+- **Host:** Findy Inc.
+- **Location:** 서울 강남구 테헤란로69길 5 롯데 벤처스 이벤트홀
 
 ### [ts-backend-meetup.ts](https://event-us.kr/tsbackendmeetup/event/102317?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-13 19:00:00 ~ 2025-05-13 22:00:00
@@ -991,4 +937,10 @@
 - **Price:** 무료
 - **Host:** 커넥트밸류(주)
 - **Location:** 서울 서초구 서운로 220 대지프라자 6층 한국HP 교육센터
+
+### [[우리금융그룹] KDT [우리FIS 아카데미] 5기 모집 중 (~5/18)](https://event-us.kr/woorifuturelab/event/103174?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-01 09:00:00 ~ 2025-12-12 18:00:00
+- **Price:** 무료
+- **Host:** 우리FIS 아카데미
+- **Location:** 서울 마포구 월드컵북로 434 6층 우리에프아이에스 아카데미
 
