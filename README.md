@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [Learn German Online with a Private Tutor 🇩🇪](https://www.meetup.com/seoulbusan-internationalclub/events/307260113/)
-- **Date:** 2025-05-03 11:00:00 ~ 2025-05-03 12:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Online event
-
-### [[GEG 강남] 제 21회 Google의 정석 #02 Google Chrome](https://event-us.kr/job-skill365/event/103530?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-03 18:00:00 ~ 2025-05-03 19:30:00
-- **Price:** 무료
-- **Host:** 디지털전환 교육원(DTedu]
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [🎨 SeMA Tour & EDM Festival 🪩](https://www.meetup.com/seoulbusan-internationalclub/events/307503724/)
-- **Date:** 2025-05-03 18:00:00 ~ 2025-05-03 21:00:00
-- **Price:** FREE
-- **Host:** Seoul Busan International Club
-- **Location:** 서울시립미술관, · Seoul
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 강남편](https://event-us.kr/chatmaster/event/102693?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-04 10:00:00 ~ 2025-05-04 13:00:00
 - **Price:** 무료
@@ -188,6 +170,12 @@
 - **Host:** 챗마스터
 - **Location:** 경기 수원시 영통구 광교중앙로 140 수원컨벤션센터 3층 301호
 
+### [[찐에듀] 숏폼 8개만 올려도 성공! 시작이 반이다 숏폼챌린지](https://event-us.kr/zzinedu/event/103733?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-11 08:00:00 ~ 2025-05-31 23:30:00
+- **Price:** 100,000원
+- **Host:** zzin_edu
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [노션 기초 특강: 처음 시작하는 당신을 위한 1시간](https://event-us.kr/dgkma/event/103016?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-11 13:00:00 ~ 2025-05-11 14:00:00
 - **Price:** 30,000원
@@ -290,13 +278,19 @@
 - **Host:** SBS아카데미게임학원 노원점
 - **Location:** 서울특별시 노원구 노해로 459 6층, SBS아카데미게임학원 노원점
 
+### [✅ 자바풀스택개발자 국비지원 - 하이미디어아카데미 종로점](https://event-us.kr/ithimedia/event/88924?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-13 09:30:00 ~ 2025-11-03 18:30:00
+- **Price:** 무료
+- **Host:** IT국비교육
+- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로점
+
 ### [■■무료교육 취업률90% IT개발자 + AI심화과정 취업교육■■](https://event-us.kr/kangnamhimedia/event/103004?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-13 09:30:00 ~ 2025-11-07 18:30:00
 - **Price:** 무료
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 서초구 강남대로 405 통영빌딩8층 하이미디어아카데미
 
-### [[IBM x RedHat] AI Transformation - AX Academy 3기](https://event-us.kr/ithimedia/event/103431?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [✅ [IBM x RedHat] AI Transformation - AX Academy 3기](https://event-us.kr/ithimedia/event/103431?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-13 09:30:00 ~ 2025-11-07 18:30:00
 - **Price:** 무료
 - **Host:** IT국비교육
@@ -841,6 +835,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 대구 남구 대명로 6 대구 웨스트시티타워 8층 스타갤러리+엔진룸
+
+### [파이 웹 심포지움 3회차](https://event-us.kr/pythonkorea/event/103147?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-31 13:00:00 ~ 2025-05-31 18:00:00
+- **Price:** 15,000원
+- **Host:** 사단법인 파이썬 한국 사용자 모임
+- **Location:** 서울 서대문구 연희로2길 62 한빛미디어 리더스홀
 
 ### [클라우드 보안 취업준비, 혼자서는 절대 못해요 ! - 전문가와 함께하는 보안 엔지니어 양성과정[KDT]](https://event-us.kr/ysedu/event/103133?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-09 09:00:00 ~ 2025-01-06 18:00:00
