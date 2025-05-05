@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 강남편](https://event-us.kr/chatmaster/event/102693?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-04 10:00:00 ~ 2025-05-04 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 서울 서초구 서운로 142-4 코지모임공간 강남점 2호점 7층 컨퍼런스홀
-
-### [Transform your gifts into art: Wrapping with Bojagi(Korean Fabric)](https://www.meetup.com/korean-traditional-experience-with-ai/events/307135647/)
-- **Date:** 2025-05-04 15:00:00 ~ 2025-05-04 17:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Hongdae · Seoul
-
-### [프로그래머를 꿈꾸는 청년들을 위한 AI 코딩 도구 체험 행사](https://event-us.kr/hackersgroundkr/event/103005?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-04 16:00:00 ~ 2025-05-04 18:00:00
-- **Price:** 5,000원
-- **Host:** 해커그라운드
-- **Location:** 대구 달서구 월배로 232 문화센터 강의실 4
-
-### [구글앤아트컬쳐로여는 새로운세상](https://event-us.kr/gaiedu365/event/103487?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-04 20:00:00 ~ 2025-05-04 21:00:00
-- **Price:** 무료
-- **Host:** G-AI365.edu
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 파주편](https://event-us.kr/chatmaster/event/102708?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-06 10:00:00 ~ 2025-05-06 13:00:00
 - **Price:** 무료
@@ -187,6 +163,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 광주 서구 상무누리로 30 김대중컨벤션센터 3층 302+303호
+
+### [PyLadies 영어 면접/스피치 스터디 3기 🙋🏻‍♀️](https://event-us.kr/pyladies/event/103737?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-11 20:00:00 ~ 2025-06-29 20:00:00
+- **Price:** 유료
+- **Host:** PyLadies Seoul
+- **Location:** 서울 서초구 반포대로 201 디지털자료실 세미나실
 
 ### [★전액국비지원_에너지 빅데이터 실무자 양성 및 인턴십 연계 과정_서울시 매력일자리 사업★](https://event-us.kr/goodee/event/102364?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-12 00:00:00 ~ 2025-07-10 18:00:00
