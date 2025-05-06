@@ -146,6 +146,12 @@
 - **Host:** 챗마스터
 - **Location:** 경기 수원시 영통구 광교중앙로 140 수원컨벤션센터 3층 301호
 
+### [[GEG 강남] 제 22회 Google의 정석 #03 Google Gmail](https://event-us.kr/job-skill365/event/103721?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-10 18:00:00 ~ 2025-05-10 19:30:00
+- **Price:** 무료
+- **Host:** 디지털전환 교육원(DTedu]
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[찐에듀] 숏폼 8개만 올려도 성공! 시작이 반이다 숏폼챌린지](https://event-us.kr/zzinedu/event/103733?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-11 08:00:00 ~ 2025-05-31 23:30:00
 - **Price:** 100,000원
@@ -344,6 +350,12 @@
 - **Host:** ts-backend-meetup.ts
 - **Location:** 서울 서초구 서초대로77길 17 Block77(스파크플러스 4호점) 11층
 
+### [[Gamma 공식 웨비나] 테마 생성부터, AI 결과물 수정까지! 실제 사례와 함께 하는 Gamma 활용법](https://event-us.kr/meetgamma/event/103743?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-13 20:00:00 ~ 2025-05-13 21:00:00
+- **Price:** 무료
+- **Host:** Gamma
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [✅ 풀스택 자바 개발자 국비지원 - 하이미디어아카데미 천호점](https://event-us.kr/ithimedia/event/80000?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-14 09:00:00 ~ 2025-11-21 18:00:00
 - **Price:** 무료
@@ -428,6 +440,12 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스 13 강의장
 
+### [[키사이트] 6G 혁신의 현장 – 노스이스턴 대학교](https://event-us.kr/keysightkorea/event/103746?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-15 10:00:00 ~ 2025-05-15 12:00:00
+- **Price:** 무료
+- **Host:** 키사이트 테크놀로지스
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 대전편](https://event-us.kr/chatmaster/event/102765?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-15 10:00:00 ~ 2025-05-15 13:00:00
 - **Price:** 무료
@@ -506,6 +524,12 @@
 - **Host:** 군자출판사
 - **Location:** 서울 종로구 종로 1 교보문고 광화문점 배움홀
 
+### [(건대/줌수업)워드프레스 4시간 속성마스터+컨설팅(5/18)](https://event-us.kr/powerlearning/event/103744?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-18 14:00:00 ~ 2025-05-18 18:00:00
+- **Price:** 156,000원
+- **Host:** powerlearning
+- **Location:** 서울 광진구 동일로20길 89 건대입구역 인근 모임공간 모어스터디 건대점
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 동대문편](https://event-us.kr/chatmaster/event/103051?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-18 15:00:00 ~ 2025-05-18 18:00:00
 - **Price:** 무료
@@ -537,6 +561,12 @@
 - **Location:** 서울 금천구 가산디지털2로 95 구디아카데미
 
 ### [★클라우드(AWS) 활용 자바/스프링 개발 부트캠프 93기_전액국비지원 (~05/19)★](https://event-us.kr/goodee/event/103645?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-19 08:00:00 ~ 2025-12-05 18:30:00
+- **Price:** 무료
+- **Host:** 구디아카데미
+- **Location:** 서울 금천구 가산디지털2로 95 구디아카데미
+
+### [★전액국비지원_클라우드(AWS) 활용 자바/스프링 개발 부트캠프 93기 (~05/19)★](https://event-us.kr/goodee/event/103754?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-19 08:00:00 ~ 2025-12-05 18:30:00
 - **Price:** 무료
 - **Host:** 구디아카데미
@@ -686,6 +716,12 @@
 - **Host:** DT그라운드
 - **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1 캠퍼스 (제강빌딩7층)
 
+### [(종각/줌수업)워드프레스 5시간 속성 마스터+컨설팅 과정 (5/23)](https://event-us.kr/powerlearning/event/103745?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-23 13:00:00 ~ 2025-05-23 18:00:00
+- **Price:** 198,000원
+- **Host:** powerlearning
+- **Location:** 서울 종로구 수표로 105 종로3가역 1번 출구에서 191m 인근 종로 스터디룸 피앤티스퀘어
+
 ### [AWS Student Community Day 2025](https://event-us.kr/awscloudclubs/event/103453?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-24 13:00:00 ~ 2025-05-24 18:00:00
 - **Price:** 무료 ~ 10,000원
@@ -823,6 +859,12 @@
 - **Price:** 15,000원
 - **Host:** 사단법인 파이썬 한국 사용자 모임
 - **Location:** 서울 서대문구 연희로2길 62 한빛미디어 리더스홀
+
+### [캠퍼스 브릿지 대전](https://event-us.kr/susc/event/103725?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-31 14:00:00 ~ 2025-05-31 18:00:00
+- **Price:** 무료
+- **Host:** SUSC
+- **Location:** 대전 유성구 대학로 291 KAIST E3 5강의실 : 3444호
 
 ### [클라우드 보안 취업준비, 혼자서는 절대 못해요 ! - 전문가와 함께하는 보안 엔지니어 양성과정[KDT]](https://event-us.kr/ysedu/event/103133?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-09 09:00:00 ~ 2025-01-06 18:00:00
