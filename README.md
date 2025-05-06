@@ -110,7 +110,7 @@
 - **Host:** GDG Daejeon
 - **Location:** 대전 서구 둔산로31번길 39 서포트업 야외단독테라스
 
-### [None](https://event-us.kr/chatmaster/event/102728?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 수원편](https://event-us.kr/chatmaster/event/102728?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-10 15:00:00 ~ 2025-05-10 18:00:00
 - **Price:** 무료
 - **Host:** 챗마스터
