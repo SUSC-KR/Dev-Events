@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [Build with AI in Daejeon](https://event-us.kr/gdgdaejeon/event/102939?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-10 13:00:00 ~ 2025-05-10 15:00:00
-- **Price:** 5,000원
-- **Host:** GDG Daejeon
-- **Location:** 대전 서구 둔산로31번길 39 서포트업 야외단독테라스
-
-### [🧺 Picnic Potluck Party in Seoul Forest 🌲](https://www.meetup.com/seoulbusan-internationalclub/events/307657685/)
-- **Date:** 2025-05-10 13:00:00 ~ 2025-05-10 16:00:00
-- **Price:** $6.00
-- **Host:** Seoul Busan International Club
-- **Location:** 서울숲 · Seoul
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 수원편](https://event-us.kr/chatmaster/event/102728?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-10 15:00:00 ~ 2025-05-10 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 수원시 영통구 광교중앙로 140 수원컨벤션센터 3층 301호
-
-### [[GEG 강남] 제 22회 Google의 정석 #03 Google Gmail](https://event-us.kr/job-skill365/event/103721?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-10 18:00:00 ~ 2025-05-10 19:30:00
-- **Price:** 무료
-- **Host:** 디지털전환 교육원(DTedu]
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [MS Learning Mate with I in We](https://event-us.kr/iinwe/event/103917?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-11 00:00:00 ~ 2025-05-31 23:30:00
 - **Price:** 무료
@@ -458,6 +434,12 @@
 - **Host:** 우분투한국커뮤니티
 - **Location:** 서울 성동구 상원길 26 지하 1층 튜링의 사과
 
+### [[GEG 강남] 제 23회 Google의 정석 #04 Calendar (기초)](https://event-us.kr/job-skill365/event/104112?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-17 18:00:00 ~ 2025-05-17 19:30:00
+- **Price:** 무료
+- **Host:** 디지털전환 교육원(DTedu]
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [IT북토크 2025](https://event-us.kr/langcon/event/103659?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-18 01:00:00 ~ 2025-05-18 06:00:00
 - **Price:** 10,000원
@@ -745,6 +727,12 @@
 - **Price:** 10,000원 ~ 20,000원
 - **Host:** GDG Seoul
 - **Location:** 서울 강남구 테헤란로 145 더 피나클 역삼 2
+
+### [FediDev KR 스프린트 두 번째 모임](https://event-us.kr/fedidevkr/event/104114?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-24 13:00:00 ~ 2025-05-24 18:00:00
+- **Price:** 15,000원
+- **Host:** 한국 연합우주 개발자 모임
+- **Location:** 서울 성동구 상원길 26 지하 1층, 튜링의 사과
 
 ### [Kprintf 2025](https://event-us.kr/gdgockonkuk/event/103357?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-24 13:00:00 ~ 2025-05-24 18:30:00
