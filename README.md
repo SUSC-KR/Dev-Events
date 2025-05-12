@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [MS Learning Mate with I in We](https://event-us.kr/iinwe/event/103917?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-11 00:00:00 ~ 2025-05-31 23:30:00
-- **Price:** 무료
-- **Host:** 아이인위(I in We)
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[찐에듀] 숏폼 8개만 올려도 성공! 시작이 반이다 숏폼챌린지](https://event-us.kr/zzinedu/event/103733?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-11 08:00:00 ~ 2025-05-31 23:30:00
-- **Price:** 100,000원
-- **Host:** zzin_edu
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [노션 기초 특강: 처음 시작하는 당신을 위한 1시간](https://event-us.kr/dgkma/event/103016?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-11 13:00:00 ~ 2025-05-11 14:00:00
-- **Price:** 30,000원
-- **Host:** 동국대학교한의과대학동문회
-- **Location:** 서울 중구 퇴계로36길 2 동국대학교 총동창회 회의실(충무로영상센터 본관 5층 530호)
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 광주편](https://event-us.kr/chatmaster/event/102729?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-11 15:00:00 ~ 2025-05-11 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 광주 서구 상무누리로 30 김대중컨벤션센터 3층 302+303호
-
-### [PyLadies 영어 면접/스피치 스터디 3기 🙋🏻‍♀️](https://www.meetup.com/seoul-pyladies-meetup/events/307635884/)
-- **Date:** 2025-05-11 20:00:00 ~ 2025-05-11 22:00:00
-- **Price:** FREE
-- **Host:** PyLadies Seoul Meetup
-- **Location:** Needs a location
-
-### [PyLadies 영어 면접/스피치 스터디 3기 🙋🏻‍♀️](https://event-us.kr/pyladies/event/103737?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-11 20:00:00 ~ 2025-06-29 20:00:00
-- **Price:** 유료
-- **Host:** PyLadies Seoul
-- **Location:** 서울 서초구 반포대로 201 디지털자료실 세미나실
-
 ### [★전액국비지원_에너지 빅데이터 실무자 양성 및 인턴십 연계 과정_서울시 매력일자리 사업★](https://event-us.kr/goodee/event/102364?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-12 00:00:00 ~ 2025-07-10 18:00:00
 - **Price:** 무료
@@ -410,17 +374,17 @@
 - **Host:** PyLadies Seoul Meetup
 - **Location:** Online event
 
+### [A Special Program for Seoul Rose Festival 🌹](https://www.meetup.com/seoulbusan-internationalclub/events/307710233/)
+- **Date:** 2025-05-17 09:30:00 ~ 2025-05-17 15:00:00
+- **Price:** $6.00
+- **Host:** Seoul Busan International Club
+- **Location:** 서울 노원구 공릉동 687-6, · Seoul
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 부산편](https://event-us.kr/chatmaster/event/103044?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-17 10:00:00 ~ 2025-05-17 18:00:00
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 부산 강서구 명지오션시티4로 88 하하메디컬빌딩 8층 하하아트홀
-
-### [🚶🏻‍♀️Taereung Walking Tour & Seoul Rose Festival 🌹](https://www.meetup.com/seoulbusan-internationalclub/events/307710233/)
-- **Date:** 2025-05-17 13:00:00 ~ 2025-05-17 16:00:00
-- **Price:** $4.00
-- **Host:** Seoul Busan International Club
-- **Location:** 서울 노원구 공릉동 687-6, · Seoul
 
 ### [Build With AI for Everyone](https://event-us.kr/golangkorea/event/102929?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-17 13:00:00 ~ 2025-05-17 18:00:00
@@ -950,6 +914,12 @@
 - **Host:** 사단법인 파이썬 한국 사용자 모임
 - **Location:** 서울 서대문구 연희로2길 62 한빛미디어 리더스홀
 
+### [(당산/줌수업)워드프레스 기초부터 쇼핑몰까지 6시간 속성과정-원데이클래스(5/31)](https://event-us.kr/powerlearning/event/104122?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-31 13:00:00 ~ 2025-05-31 19:00:00
+- **Price:** 198,000원
+- **Host:** powerlearning
+- **Location:** 서울 영등포구 양평로 59 당산역 12번 출구에서 50m 인근 스터디룸위드 당산점
+
 ### [캠퍼스 브릿지 대전](https://event-us.kr/susc/event/103725?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-31 14:00:00 ~ 2025-05-31 18:00:00
 - **Price:** 무료
@@ -979,6 +949,12 @@
 - **Price:** 무료
 - **Host:** 연세아이티 YITI
 - **Location:** 경기도 수원시 장안구 정조로 940-1 연세IT미래교육원 빌딩
+
+### [(강남)워드프레스 강의+제작코칭(홈페이지/쇼핑몰) 1:1 제작코칭(6/9~12)](https://event-us.kr/powerlearning/event/104125?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-09 12:00:00 ~ 2025-06-12 18:00:00
+- **Price:** 338,000원 ~ 825,000원
+- **Host:** powerlearning
+- **Location:** 서울 강남구 강남대로94길 21 강남역 11번 출구 인근 모임공간 옐로스톤
 
 ### [[알파코 K-하이테크 플랫폼] 디지털 튜터 양성과정](https://event-us.kr/dtground/event/103554?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-12 09:00:00 ~ 2025-06-13 18:00:00
@@ -1135,4 +1111,16 @@
 - **Price:** 무료
 - **Host:** 우리FIS 아카데미
 - **Location:** 서울 마포구 월드컵북로 434 6층 우리에프아이에스 아카데미
+
+### [2025 4회 QA 코리아 컨퍼런스, OFFLINE_ NOW ON!](https://event-us.kr/qakoreaconference/event/104118?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-05 10:00:00 ~ 2025-07-05 18:00:00
+- **Price:** 52,000원 ~ 80,000원
+- **Host:** QAKorea
+- **Location:** 서울 서초구 서초대로 397 모나코스페이스
+
+### [Regional Scrum Gathering® Seoul 2025](https://www.meetup.com/seoul-agile-scrum-meetup/events/307082469/)
+- **Date:** 2025-07-09 09:30:00 ~ 2025-07-09 17:30:00
+- **Price:** ₩30,000.00
+- **Host:** Seoul Agile & Scrum Meetup
+- **Location:** 305 Teheran-ro · Gangnam District
 
