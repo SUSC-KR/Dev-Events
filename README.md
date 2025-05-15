@@ -8,54 +8,6 @@
 
 ## 이벤트 목록
 
-### [✅ 풀스택 자바 개발자 국비지원 - 하이미디어아카데미 천호점](https://event-us.kr/ithimedia/event/80000?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 09:00:00 ~ 2025-11-21 18:00:00
-- **Price:** 무료
-- **Host:** IT국비교육
-- **Location:** 서울 강동구 천호대로 1027 5층
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 대구편](https://event-us.kr/chatmaster/event/102763?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 10:00:00 ~ 2025-05-14 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 대구 동구 동대구로 461 대구경북디자인센터 5층 컨벤션홀
-
-### [AI EXPO KOREA 2025 (국제인공지능대전)](https://event-us.kr/AIEXPOKOREA/event/97568?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 10:00:00 ~ 2025-05-16 17:00:00
-- **Price:** 무료
-- **Host:** AI EXPO KOREA
-- **Location:** 서울 강남구 영동대로 513 코엑스 1층 Hall A
-
-### [슈퍼브에이아이 @ AI Expo Korea 2025](https://event-us.kr/superbaikr/event/103959?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 10:00:00 ~ 2025-05-16 17:00:00
-- **Price:** 무료
-- **Host:** 슈퍼브에이아이
-- **Location:** 서울 강남구 영동대로 513 코엑스 1층 A홀, 부스번호 J01
-
-### [[모두의연구소] 프로덕트 특화 데이터 분석 과정](https://event-us.kr/modu/event/102276?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 10:00:00 ~ 2025-11-14 18:00:00
-- **Price:** 무료
-- **Host:** 모두의연구소
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[부산광역시] Big Data 활용 대회](https://event-us.kr/pathfinder/event/103226?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 12:00:00 ~ 2025-07-11 16:00:00
-- **Price:** 무료
-- **Host:** 패스파인더
-- **Location:** 부산 해운대구 센텀동로 45 부산빅데이터혁신센터
-
-### [SNOWFLAKE x STREAMLIT 해커톤 결선 현장 심사위원단 모집](https://event-us.kr/snowflake2025/event/103231?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 18:00:00 ~ 2025-05-14 21:00:00
-- **Price:** 무료
-- **Host:** snowflake
-- **Location:** 서울 강남구 영동대로 326 1층 씨스퀘어
-
-### [(스트림릿 공동창업자와 함께 하는) 스노우플레이크 코리아 유저그룹 정기 밋업 10회](https://event-us.kr/flakers/event/103905?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-14 18:00:00 ~ 2025-05-14 21:00:00
-- **Price:** 무료
-- **Host:** 스노우플레이크코리아 유저그룹
-- **Location:** 서울 강남구 영동대로 326 컬쳐랜드 타워 1층 C-Square (씨스퀘어)
-
 ### [[Microsoft] MS 사이버 시큐리티 스쿨 - 정보보안 국비교육](https://event-us.kr/kgi6800/event/101204?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-15 00:00:00 ~ 2025-12-09 23:30:00
 - **Price:** 무료
@@ -362,6 +314,12 @@
 - **Host:** 일잘러의 AI 무기고
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/104338?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-21 00:00:00 ~ 2025-06-19 23:30:00
+- **Price:** 무료
+- **Host:** 그린온라인캠프
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[ K-하이테크 플랫폼 X MS] JumpStart AI를 활용한 디지털 리터러시 교육](https://event-us.kr/dtground/event/102876?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-21 09:00:00 ~ 2025-07-31 23:30:00
 - **Price:** 무료
@@ -456,7 +414,7 @@
 - **Date:** 2025-05-22 18:00:00 ~ 2025-05-22 21:30:00
 - **Price:** 무료
 - **Host:** 젬파이
-- **Location:** 경기 고양시 일산동구 월드고양로 19 달빛맥주 킨텍스점
+- **Location:** 경기 고양시 일산동구 월드고양로 19 달빛맥주 킨텍스점 (GTX-A 킨텍스역 도보 3분)
 
 ### [AWSKRUG #데이터 소모임 - 2025년 5월 22일 (목)](https://www.meetup.com/awskrug/events/307597172/)
 - **Date:** 2025-05-22 19:00:00 ~ 2025-05-22 21:00:00
@@ -566,6 +524,12 @@
 - **Host:** 챗마스터
 - **Location:** 전북특별자치도 군산시 새만금북로 437 군산새만금컨벤션센터 1층 전시관 101호
 
+### [[CCCR] 전문인력_프라이빗 클라우드를 위한 오픈스택 구축 및 운영 모집(~5.26)](https://event-us.kr/cccredu/event/104359?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-27 09:00:00 ~ 2025-05-30 18:00:00
+- **Price:** 무료
+- **Host:** 한국클라우드컴퓨팅연구조합
+- **Location:** 서울 구로구 디지털로33길 50 204호 한국클라우드컴퓨팅연구조합
+
 ### [비전공자도 가능한 IT분야 취업연계 교육 _전액 국비지원에 훈련장려금까지!](https://event-us.kr/ikosmo/event/103208?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-27 09:30:00 ~ 2025-11-20 18:30:00
 - **Price:** 무료
@@ -668,6 +632,12 @@
 - **Host:** liftIO
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [AI 프로젝트 성공률 2배 높이는 문제해결력 & AI 프로젝트 기획 관리 전략 워크샵](https://event-us.kr/smartbizlab/event/104207?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-29 09:30:00 ~ 2025-05-29 17:30:00
+- **Price:** 250,000원 ~ 2,250,000원
+- **Host:** smartbizlab
+- **Location:** 서울 서대문구 연희로2길 62 한빛미디어 강의실 40
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 오산편](https://event-us.kr/chatmaster/event/103274?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-29 10:00:00 ~ 2025-05-29 13:00:00
 - **Price:** 무료
@@ -709,6 +679,12 @@
 - **Price:** FREE
 - **Host:** 도커 코리아 Docker Korea
 - **Location:** 67 Seocho-daero, Seongryeong Building Level 3, Seocho-gu, Seoul, Republic of Korea · Seoul
+
+### [Docker Developer Community Day Korea, Vol.2_Docker, Inc와 AI 에이전트 – 자동화의 미래](https://event-us.kr/tangunsoft/event/104364?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-29 18:30:00 ~ 2025-05-29 21:30:00
+- **Price:** 무료
+- **Host:** 단군소프트
+- **Location:** 서울 서초구 서초대로 67 단군소프트 3층 세미나실
 
 ### [Seoul iOS Meetup x LottieFiles [May 2025]](https://www.meetup.com/seoul-ios-meetup/events/307579288/)
 - **Date:** 2025-05-29 19:00:00 ~ 2025-05-29 21:00:00
@@ -758,7 +734,7 @@
 - **Host:** 챗마스터
 - **Location:** 대구 남구 대명로 6 대구 웨스트시티타워 8층 스타갤러리+엔진룸
 
-### [파이 웹 심포지움 3회차](https://event-us.kr/pythonkorea/event/103147?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [None](https://event-us.kr/pythonkorea/event/103147?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-31 13:00:00 ~ 2025-05-31 18:00:00
 - **Price:** 15,000원
 - **Host:** 사단법인 파이썬 한국 사용자 모임
@@ -781,6 +757,12 @@
 - **Price:** 무료
 - **Host:** 제타플랜인베스트
 - **Location:** 서울 금천구 가산디지털2로 101 제타플랜인베스트
+
+### [노션 기초 특강 6월: 처음 시작하는 당신을 위한 1시간](https://event-us.kr/dgkma/event/104320?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-01 13:00:00 ~ 2025-06-08 14:00:00
+- **Price:** 30,000원
+- **Host:** 동국대학교한의과대학동문회
+- **Location:** 서울 중구 퇴계로36길 2 동국대학교 총동창회 회의실(충무로영상센터 본관 5층 530호)
 
 ### [터치디자이너를 활용한 아카이빙되는 드로잉 인터페이스 워크샵](https://event-us.kr/doodlefingers/event/103873?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-01 13:30:00 ~ 2025-06-01 18:30:00
@@ -920,12 +902,6 @@
 - **Host:** 천재IT교육센터
 - **Location:** 서울 금천구 디지털로9길 23 11층 천재IT교육센터
 
-### [[알파코 K-하이테크 플랫폼] 생성형 AI 활용 APP 서비스 기획 실무](https://event-us.kr/dtground/event/103513?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-19 09:00:00 ~ 2025-06-20 18:00:00
-- **Price:** 무료
-- **Host:** DT그라운드
-- **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1캠퍼스
-
 ### [반도체패키징 Hot이슈- 유리기판 소재, 기술 컨퍼런스](https://event-us.kr/sooncom/event/104242?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-20 10:00:00 ~ 2025-06-20 17:00:00
 - **Price:** 유료
@@ -992,6 +968,18 @@
 - **Host:** 핀인사이트
 - **Location:** 서울시 용산구 청파로 109 나진상가 3F 청년취업사관학교 용산캠퍼스
 
+### [[무료] 디지털 헬스케어 서비스 기획&개발자 양성과정 교육생 모집](https://event-us.kr/bukbu55/event/104370?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-25 09:30:00 ~ 2025-09-19 13:30:00
+- **Price:** 무료
+- **Host:** 서울시북부여성발전센터
+- **Location:** 서울 노원구 동일로207길 50
+
+### [[알파코 K-하이테크 플랫폼] 생성형 AI 활용 APP 서비스 기획 실무](https://event-us.kr/dtground/event/103513?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-26 09:00:00 ~ 2025-06-27 18:00:00
+- **Price:** 무료
+- **Host:** DT그라운드
+- **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1캠퍼스
+
 ### [한컴 AI 아카데미 2기 과정 수강생 모집 (~6/22) 🚀](https://event-us.kr/sniperfactory/event/104175?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-27 00:00:00 ~ 2025-12-19 23:30:00
 - **Price:** 무료
@@ -1030,7 +1018,7 @@
 
 ### [2025 4회 QA 코리아 컨퍼런스, OFFLINE_ NOW ON!](https://event-us.kr/qakoreaconference/event/104118?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-05 10:00:00 ~ 2025-07-05 18:00:00
-- **Price:** 52,000원 ~ 504,000원
+- **Price:** 80,000원 ~ 504,000원
 - **Host:** QAKorea
 - **Location:** 서울 서초구 서초대로 397 모나코스페이스
 
