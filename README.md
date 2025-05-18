@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [💡실리콘밸리 백엔드 개발자 곽세영님과 함께 하는 해외 취업 가이드 세미나](https://www.meetup.com/seoul-pyladies-meetup/events/307690032/)
-- **Date:** 2025-05-17 05:00:00 ~ 2025-05-17 06:00:00
-- **Price:** ₩10,000.00
-- **Host:** PyLadies Seoul Meetup
-- **Location:** Online event
-
-### [A Special Program for Seoul Rose Festival 🌹](https://www.meetup.com/seoulbusan-internationalclub/events/307710233/)
-- **Date:** 2025-05-17 09:30:00 ~ 2025-05-17 15:00:00
-- **Price:** $6.00
-- **Host:** Seoul Busan International Club
-- **Location:** 서울 노원구 공릉동 687-6, · Seoul
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 부산편](https://event-us.kr/chatmaster/event/103044?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-17 10:00:00 ~ 2025-05-17 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 부산 강서구 명지오션시티4로 88 하하메디컬빌딩 8층 하하아트홀
-
-### [Build With AI for Everyone](https://event-us.kr/golangkorea/event/102929?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-17 13:00:00 ~ 2025-05-17 18:00:00
-- **Price:** 7,000원 ~ 10,000원
-- **Host:** Golang Korea
-- **Location:** 서울특별시 마포구 백범로 35 서강대학교 정하상관 118호
-
-### [Ubuntu Korea Community Tea Party](https://event-us.kr/ubuntukr/event/102676?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-17 14:00:00 ~ 2025-05-17 17:00:00
-- **Price:** 무료
-- **Host:** 우분투한국커뮤니티
-- **Location:** 서울 성동구 상원길 26 지하 1층 튜링의 사과
-
-### [[GEG 강남] 제 23회 Google의 정석 #04 Calendar (기초)](https://event-us.kr/job-skill365/event/104112?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-17 18:00:00 ~ 2025-05-17 19:30:00
-- **Price:** 무료
-- **Host:** 디지털전환 교육원(DTedu]
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [IT북토크 2025](https://event-us.kr/langcon/event/103659?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-18 01:00:00 ~ 2025-05-18 06:00:00
 - **Price:** 10,000원
