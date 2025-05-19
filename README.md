@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [IT북토크 2025](https://event-us.kr/langcon/event/103659?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-18 01:00:00 ~ 2025-05-18 06:00:00
-- **Price:** 10,000원
-- **Host:** langcon
-- **Location:** 서울 서대문구 연희로2길 62 한빛미디어 리더스홀 B동 1층
-
-### [[북토크] 『닥터, 코드를 만나다』 저자에게 듣는 의료 개발자의 세계 (5/18)](https://event-us.kr/koonjapublishers/event/103683?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-18 11:00:00 ~ 2025-05-18 12:00:00
-- **Price:** 무료
-- **Host:** 군자출판사
-- **Location:** 서울 종로구 종로 1 교보문고 광화문점 배움홀
-
-### [(건대/줌수업)워드프레스 4시간 속성마스터+컨설팅(5/18)](https://event-us.kr/powerlearning/event/103744?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-18 14:00:00 ~ 2025-05-18 18:00:00
-- **Price:** 156,000원
-- **Host:** powerlearning
-- **Location:** 서울 광진구 동일로20길 89 건대입구역 인근 모임공간 모어스터디 건대점
-
-### [Transform your gifts into art: Wrapping with Bojagi(Korean Fabric)](https://www.meetup.com/korean-traditional-experience-with-ai/events/307521391/)
-- **Date:** 2025-05-18 15:00:00 ~ 2025-05-18 17:00:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Hongdae · Seoul
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 동대문편](https://event-us.kr/chatmaster/event/103051?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-18 15:00:00 ~ 2025-05-18 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 서울 중구 장충단로13길 20 호텔 스카이파크 킹스타운 동대문점 14층 킹스홀1~3
-
-### [Global Food Festival 🌃 Naksan Park Night View Tour](https://www.meetup.com/seoulbusan-internationalclub/events/307817151/)
-- **Date:** 2025-05-18 18:00:00 ~ 2025-05-18 21:00:00
-- **Price:** FREE
-- **Host:** Seoul Busan International Club
-- **Location:** Seoul · Seoul
-
 ### [★전액국비지원!! 클라우드(AWS) 활용 자바/스프링 개발 부트캠프 93기 (~05/19)★](https://event-us.kr/goodee/event/102762?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-19 00:00:00 ~ 2025-12-05 18:00:00
 - **Price:** 무료
@@ -224,6 +188,12 @@
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 231 Teheran-ro · Gangnam-gu, Se
 
+### [AWSKRUG 프론트엔드 #frontend 소모임 05월 21일(수)](https://www.meetup.com/awskrug/events/307713057/)
+- **Date:** 2025-05-21 19:00:00 ~ 2025-05-21 21:00:00
+- **Price:** ₩5,000.00
+- **Host:** AWSKRUG - AWS한국사용자모임
+- **Location:** 강남대로 465 (교보타워) B동 11층 당근마켓 라운지 · Seoul
+
 ### [생성형 AI로 만든 콘텐츠, 나만의 XR 공간에 전시한다!](https://event-us.kr/kmjournal/event/103145?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-21 19:00:00 ~ 2025-07-02 21:00:00
 - **Price:** 300,000원
@@ -289,6 +259,12 @@
 - **Price:** FREE
 - **Host:** None
 - **Location:** 서울특별시 용산구 이태원55길 60-16 04348 · Seoul
+
+### [[ACC SMWU] Home-Coming Day 2025](https://www.meetup.com/aws-cloud-club-in-south-korea/events/307877274/)
+- **Date:** 2025-05-22 19:00:00 ~ 2025-05-22 21:00:00
+- **Price:** FREE
+- **Host:** AWS Cloud Club in South Korea
+- **Location:** 100, Cheongpa-ro 47gil, Yongsangu · Seoul
 
 ### [AI 관심 있는 개발자들의 소규모 버거챗🍔 (크라이치즈버거 X 라피 )](https://event-us.kr/kkuru/event/104181?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-22 19:30:00 ~ 2025-05-22 21:30:00
@@ -367,6 +343,12 @@
 - **Price:** 239,000원
 - **Host:** powerlearning
 - **Location:** 서울 마포구 양화로15길 17 홍대입구역 1번 출구 인근 도보 10분거리 모임공간 타임레서피 스터디룸
+
+### [☆ AI(인공지능) 도구를 이용한 유튜브 영상제작 및 편집 [기초원데이클래스]](https://event-us.kr/aiclass/event/104522?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-24 15:00:00 ~ 2025-05-24 17:00:00
+- **Price:** 15,000원 ~ 20,000원
+- **Host:** AI(인공지능) 크리에이터 창작소
+- **Location:** 강남역 인근 스터디룸
 
 ### [우분투 데이: 함께 성장하는 우리, IT 네트워킹 데이](https://event-us.kr/susc/event/102468?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-24 18:00:00 ~ 2025-05-24 22:00:00
@@ -539,7 +521,7 @@
 ### [AI 프로젝트 성공률 2배 높이는 문제해결력 & AI 프로젝트 기획 관리 전략 워크샵](https://event-us.kr/smartbizlab/event/104207?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-29 09:30:00 ~ 2025-05-29 17:30:00
 - **Price:** 250,000원
-- **Host:** smartbizlab
+- **Host:** SMARTBIZLAB
 - **Location:** 서울 서대문구 연희로2길 62 한빛미디어 강의실 40
 
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 오산편](https://event-us.kr/chatmaster/event/103274?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
@@ -691,6 +673,12 @@
 - **Price:** 100,000원
 - **Host:** 둥지 Nest
 - **Location:** 서울 마포구 양화로 156 1614호 꼬모쉐 세미나룸
+
+### [AWSKRUG #AIEngineering - 6월 4일(수) MCP on AWS: Hands-on Lab (실습)](https://www.meetup.com/awskrug/events/307856695/)
+- **Date:** 2025-06-04 19:00:00 ~ 2025-06-04 21:00:00
+- **Price:** ₩10,000.00
+- **Host:** AWSKRUG - AWS한국사용자모임
+- **Location:** 231 Teheran-ro · Gangnam-gu, Se
 
 ### [[CIS 2025] Convergence Insight Summit 2025](https://event-us.kr/itsight/event/103516?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-05 08:30:00 ~ 2025-06-05 17:00:00
@@ -846,6 +834,12 @@
 - **Date:** 2025-06-21 14:00:00 ~ 2025-06-21 19:00:00
 - **Price:** ₩5,000.00
 - **Host:** Korea Apache Airflow Meetup Group - Airflow한국사용자모임
+- **Location:** 성동구 아차산로17길 48 · 서울
+
+### [Korea Apache Airflow 3rd Meetup @Seoul, Seongsu NAKNAK](https://www.meetup.com/korea-apache-airflow-user-group/events/307385366/)
+- **Date:** 2025-06-21 14:00:00 ~ 2025-06-21 19:00:00
+- **Price:** ₩5,000.00
+- **Host:** Apache Airflow Korea User Group - Airflow 한국 사용자 모임
 - **Location:** 성동구 아차산로17길 48 · 서울
 
 ### [None](https://event-us.kr/cjonscloudwave/event/103806?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
