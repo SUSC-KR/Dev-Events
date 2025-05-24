@@ -8,36 +8,6 @@
 
 ## 이벤트 목록
 
-### [Excel 만 아는 내가? 직접 만드는 웹 주문관리 시스템](https://event-us.kr/mescius/event/103146?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-23 09:30:00 ~ 2025-05-23 17:00:00
-- **Price:** 무료
-- **Host:** 메시어스 코리아
-- **Location:** 서울 강남구 역삼로 172 마루 360, 성장 세미나룸 (지하 1층 )
-
-### [[KISA] DNS 기초 관리 실무](https://event-us.kr/Ut2KSHw11cCG/event/103596?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-23 09:30:00 ~ 2025-05-23 17:30:00
-- **Price:** 무료
-- **Host:** 한국인터넷진흥원 한국인터넷정보센터
-- **Location:** 광주 광산구 소촌로152번길 37 대한상공회의소 광주인력개발원 멀티미디어실 (3층)
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 송도편](https://event-us.kr/chatmaster/event/103262?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-23 10:00:00 ~ 2025-05-23 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 인천 연수구 인천타워대로 323 A동 30층 웰리더스 강의실 3011 ~ 3012호 A강의실
-
-### [[알파코 K-하이테크 플랫폼] 생성형 AI 활용 실무, 업무 LEVEL UP](https://event-us.kr/dtground/event/103068?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-23 13:00:00 ~ 2025-05-23 17:00:00
-- **Price:** 무료
-- **Host:** DT그라운드
-- **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1 캠퍼스 (제강빌딩7층)
-
-### [(종각/줌수업)워드프레스 5시간 속성 마스터+컨설팅 과정 (5/23)](https://event-us.kr/powerlearning/event/103745?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-23 13:00:00 ~ 2025-05-23 18:00:00
-- **Price:** 198,000원
-- **Host:** powerlearning
-- **Location:** 서울 종로구 수표로 105 종로3가역 1번 출구에서 191m 인근 종로 스터디룸 피앤티스퀘어
-
 ### [JPA의 사실과 오해 5기](https://event-us.kr/choyoungho/event/103345?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-24 09:30:00 ~ 2025-05-31 18:00:00
 - **Price:** 200,000원
@@ -242,6 +212,12 @@
 - **Host:** AWSKRUG - AWS한국사용자모임
 - **Location:** 231 Teheran-ro · Gangnam-gu, Se
 
+### [[모두팝] RISC-V로 만드는 AI의 미래 | K-하이테크플랫폼 X 모두의연구소 강남](https://event-us.kr/modu/event/104950?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-05-27 19:00:00 ~ 2025-05-27 21:30:00
+- **Price:** 무료
+- **Host:** 모두의연구소
+- **Location:** 서울 강남구 강남대로 324 (역삼디오슈페리움) 2층, 모두의연구소 강남캠퍼스 라운지
+
 ### [위키독스 자연어 처리 베스트 셀러의 AI 에이전트 구현](https://event-us.kr/learningspoons/event/103343?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-27 20:00:00 ~ 2025-05-27 21:30:00
 - **Price:** 무료
@@ -254,7 +230,7 @@
 - **Host:** 그린온라인캠프
 - **Location:** 온라인으로 진행하는 행사입니다.
 
-### [[알파코 K-하이테크 플랫폼] 생성형AI 마케팅실무: 마케팅 콘텐츠 기획 및 제작 (2기)](https://event-us.kr/dtground/event/102828?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [None](https://event-us.kr/dtground/event/102828?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-28 09:00:00 ~ 2025-05-29 18:00:00
 - **Price:** 무료
 - **Host:** DT그라운드
@@ -608,6 +584,12 @@
 - **Host:** 한국소프트웨어인재개발원
 - **Location:** 서울 금천구 가산디지털2로 101 한라원앤원타워 B 동 3층 한국소프트웨어인재개발원
 
+### [국립중앙도서관이 주관하는 생성형 AI 활용 마스터 워크숍 모집 (마감 입박!)](https://event-us.kr/YV7SqV3glfKc/event/104919?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-10 14:00:00 ~ 2025-06-12 17:00:00
+- **Price:** 무료
+- **Host:** 에이블런
+- **Location:** 서울 서초구 반포대로 201 디지털 도서관 대회의실(B3)
+
 ### [예·초창패 스타트업 특화 No-Code AI 부스트업캠프 1기](https://event-us.kr/windyclass/event/104583?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-10 19:00:00 ~ 2025-07-01 22:00:00
 - **Price:** 유료
@@ -943,6 +925,12 @@
 - **Price:** 무료
 - **Host:** 모두의연구소
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [2025년 기능점수(FP) 및 SW사업대가 전문 교육](https://event-us.kr/mnms/event/99514?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-09 09:00:00 ~ 2025-11-07 17:30:00
+- **Price:** 유료
+- **Host:** 엠엔엠솔루션
+- **Location:** 서울 서초구 신반포로47길 68 엠엔엠솔루션 교육장
 
 ### [Regional Scrum Gathering® Seoul 2025](https://www.meetup.com/seoul-agile-scrum-meetup/events/307082469/)
 - **Date:** 2025-07-09 09:30:00 ~ 2025-07-09 17:30:00
