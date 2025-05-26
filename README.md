@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [같이 모여서 만드는 가치 있는 시간 : 사이드프로젝트 기반 IT 커뮤니티 가치 크루 1기 모집](https://event-us.kr/gachi/event/104722?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-25 00:00:00 ~ 2025-07-19 00:00:00
-- **Price:** 무료
-- **Host:** 같이 모여 가치 있는 커뮤니티, 가치
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 여수편](https://event-us.kr/chatmaster/event/103264?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-25 10:00:00 ~ 2025-05-25 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 전남 여수시 박람회길 1 컨벤션센터 C동 1층 컨퍼런스홀
-
-### [열린 AI Agent 메이커 100 챌린지](https://event-us.kr/myagent/event/104728?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-25 13:00:00 ~ 2025-05-25 18:00:00
-- **Price:** 100,000원
-- **Host:** myAgent
-- **Location:** 서울 영등포구 양평동5가 62 7층 회의실
-
-### [DB를 활용한 참여형 웹·전시컨텐츠 만들기](https://event-us.kr/doodlefingers/event/103452?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-25 13:30:00 ~ 2025-05-25 18:30:00
-- **Price:** 100,000원
-- **Host:** 둥지 Nest
-- **Location:** 서울 마포구 양화로 156 1614호 꼬모쉐 세미나룸
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 신촌편](https://event-us.kr/chatmaster/event/103268?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-05-25 15:00:00 ~ 2025-05-25 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 서울 서대문구 연세로 8-1 14층 코지모임공간 신촌점 A+B홀
-
-### [Korean Wedding Experience & Luxury Buffet 🎂 – 80% Off!](https://www.meetup.com/seoulbusan-internationalclub/events/307894401/)
-- **Date:** 2025-05-25 15:30:00 ~ 2025-05-25 17:30:00
-- **Price:** $10.00
-- **Host:** Seoul Busan International Club
-- **Location:** 회기역 · Seoul
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 군산편](https://event-us.kr/chatmaster/event/103270?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-05-26 10:00:00 ~ 2025-05-26 13:00:00
 - **Price:** 무료
