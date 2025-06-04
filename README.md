@@ -8,18 +8,6 @@
 
 ## 이벤트 목록
 
-### [Algorithms Study Group!](https://www.meetup.com/codeseoul/events/307934874/)
-- **Date:** 2025-06-03 11:30:00 ~ 2025-06-03 13:30:00
-- **Price:** FREE
-- **Host:** None
-- **Location:** Online event
-
-### [Seoul Rust Meetup](https://www.meetup.com/rust-seoul-meetup/events/308129404/)
-- **Date:** 2025-06-03 19:00:00 ~ 2025-06-03 21:00:00
-- **Price:** FREE
-- **Host:** Rust Programming Meetup Seoul
-- **Location:** GangnamDaero 102gil 34, Gangnamgu · Seoul
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 남양주편](https://event-us.kr/chatmaster/event/104826?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-04 10:00:00 ~ 2025-06-04 13:00:00
 - **Price:** 무료
@@ -163,6 +151,12 @@
 - **Price:** 무료
 - **Host:** 경기인력개발원
 - **Location:** 경기 파주시 와석순환로172번길 16 대한상공회의소 경기인력개발원(운정신도시 소재)
+
+### [[찐에듀 ] 숏폼 8개만 올려도 성공! 시작이 반이다 숏폼챌린지 2기](https://event-us.kr/zzinedu/event/105565?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-10 08:00:00 ~ 2025-06-30 23:30:00
+- **Price:** 100,000원
+- **Host:** zzin_edu
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[SM유니버스] AI 활용 풀스택(프론트엔드 & 백엔드) 엔지니어 양성과정 (5기)](https://event-us.kr/ikosmo/event/104287?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-10 09:30:00 ~ 2025-12-16 18:30:00
@@ -427,6 +421,12 @@
 - **Price:** 유료
 - **Host:** 모두의연구소
 - **Location:** 서울 서초구 강남대로 311 드림플러스 강남점 B1 이벤트홀
+
+### [사이버보안 및 정보보호 민간 자격검정](https://event-us.kr/security/event/105574?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-21 14:00:00 ~ 2025-06-21 18:00:00
+- **Price:** 유료
+- **Host:** security
+- **Location:** 서울 강남구 봉은사로 119 성옥빌딩 5층
 
 ### [Korea Apache Airflow 3rd Meetup @Seoul, Seongsu NAKNAK](https://www.meetup.com/apache-airflow-users-korea/events/307385366/)
 - **Date:** 2025-06-21 14:00:00 ~ 2025-06-21 19:00:00
