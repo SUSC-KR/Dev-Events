@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 강남편](https://event-us.kr/chatmaster/event/104999?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-07 10:00:00 ~ 2025-06-07 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 서울 서초구 서초대로 398 8층 스페이스쉐어 강남역센터 주피터홀
-
-### [Ubuntu 리눅스를 활용한 프론트엔드 웹 서비스 배포 환경 구축 워크샵](https://event-us.kr/ubuntukr/event/104210?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-07 14:00:00 ~ 2025-06-07 18:00:00
-- **Price:** 3,000원 ~ 5,000원
-- **Host:** 우분투한국커뮤니티
-- **Location:** 경상북도 포항시 북구 흥해읍 한동로 558 한동대학교 뉴턴홀 412호 (4층)
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 광명편](https://event-us.kr/chatmaster/event/105006?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-08 10:00:00 ~ 2025-06-08 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 광명시 양지로 21 티타워 25층 신한금융플러스 감탄본부 대회의실
-
 ### [클라우드 보안 취업준비, 혼자서는 절대 못해요 ! - 전문가와 함께하는 보안 엔지니어 양성과정[KDT]](https://event-us.kr/ysedu/event/103133?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-09 09:00:00 ~ 2025-01-06 18:00:00
 - **Price:** 무료
@@ -229,6 +211,12 @@
 - **Price:** FREE
 - **Host:** Dev BR Korea
 - **Location:** 서울 용산구 독서당로 85 한남동 28-2, 8층 / 8th floor · Seoul
+
+### [AI(인공지능) 도구를 활용한 영상 제작 및 편집 [기초원데이클래스]](https://event-us.kr/aiclass/event/105828?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-15 15:00:00 ~ 2025-06-15 17:00:00
+- **Price:** 15,000원 ~ 22,000원
+- **Host:** AI(인공지능) 크리에이터 창작소
+- **Location:** 강남역 또는 교대역 인근 스터디룸
 
 ### [[얼리버드 EVENT][청년취업사관학교 용산캠퍼스(SeSAC)] AI를 활용한 하이브리드 클라우드 데이터옵스 엔지니어 양성과정 교육생 모집(~5/27)](https://event-us.kr/nobreakedu/event/102726?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-16 00:00:00 ~ 2025-10-02 00:00:00
@@ -668,6 +656,12 @@
 - **Host:** 스나이퍼팩토리
 - **Location:** 서울 강서구 마곡중앙로 59-5 마곡595빌딩 4층
 
+### [[KISA] 전자메일 암호화 통신 보안 강화](https://event-us.kr/Ut2KSHw11cCG/event/105067?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-27 10:00:00 ~ 2025-06-27 11:30:00
+- **Price:** 무료
+- **Host:** 한국인터넷진흥원 한국인터넷정보센터
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[무료] HRDer를 위한 생성형 AI 교육 클래스: 인사이트, 사례, 실습까지](https://event-us.kr/codeit/event/105739?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-27 13:00:00 ~ 2025-06-27 17:00:00
 - **Price:** 무료
@@ -686,6 +680,12 @@
 - **Host:** Us:Code
 - **Location:** 경북 의성군 의성읍 충효로 88 의성체육관
 
+### [[ KISA ] WHOIS OpenAPI를 활용한 도메인/IP 정보 알아보기](https://event-us.kr/Ut2KSHw11cCG/event/105065?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-27 13:30:00 ~ 2025-06-27 15:00:00
+- **Price:** 무료
+- **Host:** 한국인터넷진흥원 한국인터넷정보센터
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [TAS sQuare #1. 테스트 자동화 도구 소개 및 적용 방안 밋업](https://event-us.kr/xltas/event/105281?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-27 14:00:00 ~ 2025-06-27 16:00:00
 - **Price:** 무료
@@ -697,6 +697,12 @@
 - **Price:** 무료
 - **Host:** 인천블록체인산업협회
 - **Location:** 인천 남동구 미래로 16 14층 블록체인기술혁신센터
+
+### [[KISA] BIND 기반 DNS 서버 구축](https://event-us.kr/Ut2KSHw11cCG/event/105066?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-27 15:30:00 ~ 2025-06-27 17:00:00
+- **Price:** 무료
+- **Host:** 한국인터넷진흥원 한국인터넷정보센터
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/msftkrdevrel/event/104124?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-28 12:00:00 ~ 2025-06-28 18:00:00
@@ -721,6 +727,12 @@
 - **Price:** 120,000원
 - **Host:** 둥지 Nest
 - **Location:** 서울 마포구 양화로 156 1614호 꼬모쉐 세미나룸
+
+### [온라인 : 젯슨맘과 함께 NVIDIA 인공지능 기초 과정 Certification 취득하기(제슨 보드 없어도 가능)](https://event-us.kr/jetsonmom/event/105826?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-28 20:00:00 ~ 2025-06-28 22:00:00
+- **Price:** 유료
+- **Host:** NVIDIA AI 기초과정 인증서
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[무료세미나]게임기획,사업pm,스타트업 기획 세미나](https://event-us.kr/gamecampus2/event/104225?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-29 14:00:00 ~ 2025-06-29 15:30:00
@@ -818,11 +830,17 @@
 - **Host:** QAKorea
 - **Location:** 서울 서초구 서초대로 397 모나코스페이스
 
-### [Copilot부터 Custom Agent까지: 기업을 위한 실전 AI 활용 전략 with Techive](https://event-us.kr/hultprizescnu/event/105685?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [Techive의 세번째 발표: AI for Enterprise](https://event-us.kr/hultprizescnu/event/105685?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-05 13:00:00 ~ 2025-07-05 14:00:00
 - **Price:** 무료
 - **Host:** 광주•전남 Tech Community
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [[SUSC 대학방학교류] 써머데이: 대학생 개발자들의 네트워킹 데이](https://event-us.kr/susc/event/105371?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-05 14:00:00 ~ 2025-07-05 18:00:00
+- **Price:** 5,000원
+- **Host:** SUSC
+- **Location:** 서울 서초구 서초대로40길 83 오픈업 서초(미정)
 
 ### [[KDT] 한컴 NVIDIA AI ACADEMY 7기모집(~6/30)](https://event-us.kr/hancomacademy/event/105363?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-07 09:00:00 ~ 2025-12-31 17:00:00
