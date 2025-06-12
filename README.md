@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [✅ 풀스택 자바 개발자 국비지원 - 하이미디어아카데미 천호점](https://event-us.kr/ithimedia/event/80000?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-11 09:00:00 ~ 2025-11-24 18:00:00
-- **Price:** 무료
-- **Host:** IT국비교육
-- **Location:** 서울 강동구 천호대로 1027 5층
-
-### [🔥 2025 크리에이티브 디렉터 세미나(06.11 WED)](https://event-us.kr/O4BLzYOg5gZn/event/104289?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-11 10:00:00 ~ 2025-06-11 17:00:00
-- **Price:** 유료
-- **Host:** 아이어워즈위원회
-- **Location:** 서울 강남구 테헤란로 134 포스코타워 역삼 3F 이벤트홀
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 창원편](https://event-us.kr/chatmaster/event/105689?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-11 10:00:00 ~ 2025-06-11 22:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경남 창원시 성산구 원이대로 362 창원컨벤션센터 7층 700A
-
-### [IT 운영 관리 자동화 전략 실무에서 바로 써먹는 ServiceNow 플랫폼 진짜 활용법](https://event-us.kr/itsman/event/105553?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-11 14:00:00 ~ 2025-06-11 15:00:00
-- **Price:** 무료
-- **Host:** 잇츠맨
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[오프라인 세미나] 대전에서 만나는 "MSA 현실적인 해법과 전략"](https://event-us.kr/openmaru/event/104567?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-11 14:00:00 ~ 2025-06-11 18:00:00
-- **Price:** 무료
-- **Host:** 오픈마루
-- **Location:** 대전 유성구 테크노3로 65 2층 대회의실
-
-### [부산 워케이션 [W-IT WEEK: 현직 소프트웨어 개발자 서인호] 참가신청](https://event-us.kr/yourkotts/event/104642?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-11 17:00:00 ~ 2025-06-11 19:00:00
-- **Price:** 무료
-- **Host:** 블루밍청춘
-- **Location:** 부산광역시 동구 중앙대로214번길 7-8 부산역 아스티호텔 워케이션 거점센터 (24층)
-
 ### [[재직자/무료교육] IT시스템관리 실무(네트워크, 커넥티드, MUC) 무료교육 안내(6/12)](https://event-us.kr/hrdkitanet/event/105596?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-12 09:00:00 ~ 2025-06-12 18:00:00
 - **Price:** 무료
@@ -380,6 +344,18 @@
 - **Host:** AI 놀이터
 - **Location:** 서울 종로구 종로1길 50 한국마이크로소프트 (더케이트윈타워 A동 13층)
 
+### [국내 FIRST ® 프로그램 활성화 및 세계대회 유치를 위한  해외인사 초청 세미나 및 FIRST ® Alumni KOREA 창단식 안내](https://event-us.kr/sangsangimagine/event/106058?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-22 14:00:00 ~ 2025-06-22 18:00:00
+- **Price:** 10,000원
+- **Host:** 사단법인 상상
+- **Location:** 서울 영등포구 영신로 200 하이서울유스호스텔
+
+### [노션 한끼 3주 챌린지](https://event-us.kr/crooisland/event/105327?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-23 00:00:00 ~ 2025-07-14 23:30:00
+- **Price:** 10,000원
+- **Host:** CROO ISLAND
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [충청 ICT이노베이션스퀘어 확산사업 인공지능 / 데이터 교육생 모집](https://event-us.kr/cc123/event/105286?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-23 00:00:00 ~ 2025-08-18 23:30:00
 - **Price:** 무료
@@ -405,6 +381,12 @@
 - **Location:** 서울 금천구 가산디지털2로 95 3층
 
 ### [☆★클라우드(AWS) 활용 자바/스프링 개발 부트캠프 94기_전액국비지원 (~06/23)★☆](https://event-us.kr/goodee/event/105808?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-23 08:00:00 ~ 2025-01-02 18:30:00
+- **Price:** 무료
+- **Host:** 구디아카데미
+- **Location:** 서울 금천구 가산디지털2로 95 3층
+
+### [[구디아카데미] 전액국비지원 개발 부트캠프 94기_클라우드 활용 자바/스프링 (~06/23)](https://event-us.kr/goodee/event/106044?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-23 08:00:00 ~ 2025-01-02 18:30:00
 - **Price:** 무료
 - **Host:** 구디아카데미
@@ -590,6 +572,12 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
 
+### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106062?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-25 09:30:00 ~ 2025-12-18 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
+
 ### [Global AI GitHub Copilot Bootcamp - Daegu](https://event-us.kr/matdaaiga/event/104842?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-25 12:00:00 ~ 2025-06-25 18:30:00
 - **Price:** 무료
@@ -613,6 +601,12 @@
 - **Price:** 무료
 - **Host:** 인포유앤컴퍼니
 - **Location:** 서울 성동구 아차산로5길 10 2층 고우넷 트레이닝 센터
+
+### [[LLM & 파인 튜닝 일할맛 세미나] sLLM 파인 튜닝 현업 적용부터 Reasoning LLM 트렌드까지!](https://event-us.kr/helpfastcampus/event/106020?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-26 18:30:00 ~ 2025-06-26 21:20:00
+- **Price:** 무료
+- **Host:** fastcampus
+- **Location:** 경기 성남시 분당구 판교로289번길 20 판교테크노밸리 스타트업캠퍼스 2층
 
 ### [채널톡의 온라인 개발자 세션에 여러분을 초대합니다!](https://event-us.kr/channeltalk/event/105755?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-26 19:00:00 ~ 2025-06-26 21:00:00
@@ -770,6 +764,12 @@
 - **Host:** 게임캠퍼스
 - **Location:** 서울 강남구 역삼로 180 마루180 지하1층 컨퍼런스홀
 
+### [연구의 순간을 글로 담는 에세이 이벤트](https://event-us.kr/murple/event/106078?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-01 00:00:00 ~ 2025-08-31 23:30:00
+- **Price:** 무료
+- **Host:** Murple 머플
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [None](https://event-us.kr/aidcampus/event/105917?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-01 09:00:00 ~ 2025-08-31 23:30:00
 - **Price:** 유료
@@ -811,6 +811,12 @@
 - **Price:** 무료
 - **Host:** 패스파인더
 - **Location:** 부산 해운대구 센텀동로 45 부산빅데이터혁신센터
+
+### [JPA의 사실과 오해 6기](https://event-us.kr/choyoungho/event/106037?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-05 09:30:00 ~ 2025-07-12 18:00:00
+- **Price:** 250,000원
+- **Host:** 조영호
+- **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩)
 
 ### [2025 4회 QA 코리아 컨퍼런스, OFFLINE_ NOW ON!](https://event-us.kr/qakoreaconference/event/104118?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-05 10:00:00 ~ 2025-07-05 18:00:00
@@ -932,6 +938,12 @@
 - **Host:** 메타빌드
 - **Location:** 서울 서초구 서초중앙로 64 메타빌드 빌딩 제 2사옥 4층 메타빌드 평생교육원
 
+### [HACKSIUM BUSAN 2025(해킹 방어 대회)](https://event-us.kr/hacksiumbusan/event/106073?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-15 00:00:00 ~ 2025-07-17 00:00:00
+- **Price:** 무료
+- **Host:** 핵시움 부산 2025
+- **Location:** 부산 해운대구 APEC로 55 제1전시장 1층 3B홀
+
 ### [[모두의연구소] “UX의 핵심 프론트엔드” 4개월 만에 마스터](https://event-us.kr/modu/event/105535?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-16 10:00:00 ~ 2025-11-19 19:00:00
 - **Price:** 무료
@@ -967,6 +979,12 @@
 - **Price:** 무료
 - **Host:** KOSTA 한국소프트웨어기술진흥협회
 - **Location:** 경기 성남시 분당구 성남대로 34 6층 한국소프트웨어기술진흥협회
+
+### [[KISIA] 시큐리티아카데미 6기 SK쉴더스트랙 교육생 모집(~7/6)](https://event-us.kr/kisia/event/106115?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-28 10:00:00 ~ 2025-10-28 18:00:00
+- **Price:** 무료
+- **Host:** KISIA 한국정보보호산업협회
+- **Location:** 서울시 송파구 중대로 135 서관 14층(가락동, IT벤처타워)
 
 ### [[KOSTA] React.JS와 SpringBoot를 활용한 풀스택 개발자 훈련생 모집](https://event-us.kr/kostaedu/event/105979?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-30 09:00:00 ~ 2025-12-30 18:00:00
