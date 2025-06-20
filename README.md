@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [데이터 실무의 핵심, 스노우플레이크 오프라인 무료 교육 오픈 [6차]](https://event-us.kr/dkbmc/event/105784?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-19 10:00:00 ~ 2025-06-19 12:30:00
-- **Price:** 무료
-- **Host:** DKBMC
-- **Location:** 서울 강남구 봉은사로 434 DKBMC 본사 교육장
-
-### [2025 어드밴텍 임베디드 디자인-인 포럼(ADF)](https://event-us.kr/advantechembedded/event/105627?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-19 10:00:00 ~ 2025-06-19 17:00:00
-- **Price:** 무료
-- **Host:** 어드밴텍
-- **Location:** 서울 서초구 강남대로 213 양재 엘타워 5층 오르체홀
-
-### [데이터 실무의 핵심, 태블로 오프라인 무료 교육 오픈 [6차]](https://event-us.kr/dkbmc/event/105782?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-19 13:00:00 ~ 2025-06-19 17:00:00
-- **Price:** 무료
-- **Host:** DKBMC
-- **Location:** 서울 강남구 봉은사로 434 DKBMC 본사 교육장
-
-### [1시간 만에 홈페이지 만들기](https://event-us.kr/creatorlink/event/106186?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-19 14:00:00 ~ 2025-06-26 15:30:00
-- **Price:** 무료
-- **Host:** 크리에이터링크
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [랭체인코리아 밋업 2025Q2](https://event-us.kr/hanbitn/event/105864?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-19 19:00:00 ~ 2025-06-19 21:00:00
-- **Price:** 무료
-- **Host:** 한빛+ 세미나
-- **Location:** 서울 서대문구 연희로2길 62 한빛미디어 리더스홀
-
-### [서울 워드프레스 미트업 #20](https://www.meetup.com/wordpress-meetup-seoul/events/308085824/)
-- **Date:** 2025-06-19 19:00:00 ~ 2025-06-19 22:00:00
-- **Price:** FREE
-- **Host:** Seoul WordPress Meetup
-- **Location:** 서울 강남구 강남대로 476 1층 팀홀튼 신논현역점 · Seoul
-
 ### [[K-HP 멀티캠퍼스] 6~7월 재직자 대상 무료 IT특강 수강생 모집(1day, 생성형AI활용 특강)](https://event-us.kr/multicampusit/event/106179?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-20 08:30:00 ~ 2025-07-30 18:30:00
 - **Price:** 무료
@@ -812,6 +776,12 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
 
+### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106637?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
+
 ### [🔥추가전액지원🔥 [KDT-심화] AWS클라우드네이티브 PWA위치기반 실무프로젝트CICD(Next,React,Typescript) 교육생 모집 (~7/8)](https://event-us.kr/greendj/event/106562?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-09 09:00:00 ~ 2025-09-03 18:30:00
 - **Price:** 무료
@@ -841,6 +811,12 @@
 - **Price:** 무료
 - **Host:** IT국비교육
 - **Location:** 서울 종로구 인사동길 12 7층
+
+### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/106661?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스
 
 ### [Regional Scrum Gathering® Seoul 2025](https://www.meetup.com/seoul-agile-scrum-meetup/events/307082469/)
 - **Date:** 2025-07-09 09:30:00 ~ 2025-07-09 17:30:00
@@ -950,17 +926,23 @@
 - **Host:** IT로싸의 취업컨설팅
 - **Location:** 서울 강남구 테헤란로 146 E강의장
 
-### [인천 블록체인 상생협의체 1차 시너지 네트워킹](https://event-us.kr/incheonblockchain/event/105415?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-15 14:00:00 ~ 2025-07-15 16:30:00
-- **Price:** 무료
-- **Host:** 인천블록체인산업협회
-- **Location:** 인천 남동구 미래로 16 14층 블록체인기술혁신센터
-
 ### [[모두의연구소] “UX의 핵심 프론트엔드” 4개월 만에 마스터](https://event-us.kr/modu/event/105535?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-16 10:00:00 ~ 2025-11-19 19:00:00
 - **Price:** 무료
 - **Host:** 모두의연구소
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [[KDT] 내일배움카드 무료! 3D 게임 그래픽 제작자 부트캠프 : 실감형콘텐츠, 시네마틱무비, 3D모델링](https://event-us.kr/ysedu/event/106651?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-18 09:00:00 ~ 2025-03-17 18:00:00
+- **Price:** 무료
+- **Host:** 연세아이티 YITI
+- **Location:** 경기도 수원시 장안구 정조로 940-1 연세IT미래교육원 빌딩
+
+### [인천 블록체인 상생협의체 1차 시너지 네트워킹](https://event-us.kr/incheonblockchain/event/105415?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-18 14:00:00 ~ 2025-07-18 16:30:00
+- **Price:** 무료
+- **Host:** 인천블록체인산업협회
+- **Location:** 인천 남동구 미래로 16 14층 블록체인기술혁신센터
 
 ### [None](https://event-us.kr/onop/event/106514?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-21 08:30:00 ~ 2025-01-16 17:30:00
