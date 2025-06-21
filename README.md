@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [[K-HP 멀티캠퍼스] 6~7월 재직자 대상 무료 IT특강 수강생 모집(1day, 생성형AI활용 특강)](https://event-us.kr/multicampusit/event/106179?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-20 08:30:00 ~ 2025-07-30 18:30:00
-- **Price:** 무료
-- **Host:** 멀티캠퍼스
-- **Location:** 서울 광진구 군자동 98-38 5~6층 K-HP 멀티캠퍼스
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 성남편](https://event-us.kr/chatmaster/event/106541?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-20 10:00:00 ~ 2025-06-20 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 성남시 분당구 판교역로14번길 15 성음아트센터 4층 무지카홀
-
-### [반도체패키징 Hot이슈- 유리기판 소재, 기술 컨퍼런스](https://event-us.kr/sooncom/event/104242?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-20 10:00:00 ~ 2025-06-20 17:00:00
-- **Price:** 유료
-- **Host:** 순커뮤니케이션
-- **Location:** 서울특별시 영등포구 여의대로 24 FKI TOWER(FKI타워) 2층 토파즈룸
-
-### [불확실성을 줄이는 정성 인터뷰 디자인](https://event-us.kr/FKH3nHkjmPGh/event/105358?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-20 19:00:00 ~ 2025-06-20 20:30:00
-- **Price:** 5,000원 ~ 25,000원
-- **Host:** 한빛미디어
-- **Location:** 서울 서대문구 연희로2길 62 A동 2층 강의실60
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 대전편](https://event-us.kr/chatmaster/event/106543?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-21 10:00:00 ~ 2025-06-21 13:00:00
 - **Price:** 무료
@@ -139,6 +115,12 @@
 - **Price:** 무료
 - **Host:** 구디아카데미
 - **Location:** 인천 연수구 인천타워대로 99 6층
+
+### [IT 취업의 필수 클라우드 보안 - AWS 인프라, 아키텍쳐 기초부터 취업까지](https://event-us.kr/ysedu/event/105764?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-23 09:00:00 ~ 2025-01-19 17:30:00
+- **Price:** 무료
+- **Host:** 연세아이티 YITI
+- **Location:** 경기도 수원시 장안구 정조로 940-1 연세IT미래교육원 빌딩
 
 ### [취업이 막막할 땐 클라우드 보안을 배우세요](https://event-us.kr/ysedu/event/104690?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-23 09:00:00 ~ 2025-01-19 18:00:00
@@ -632,6 +614,12 @@
 - **Host:** 한국인터넷진흥원 ISMS-P
 - **Location:** 서울 송파구 중대로 135 한국인터넷진흥원 서울청사
 
+### [[무료] 2025년 SaaS 전환지원센터: 제3회 세미나(대구) 참가자 모집(~6.25)](https://event-us.kr/cloudhelp/event/106731?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-30 13:30:00 ~ 2025-06-30 16:00:00
+- **Price:** 무료
+- **Host:** SaaS전환지원센터
+- **Location:** 대구 동구 동대구로 465 대구스케일업허브(DASH) 4층, 프로젝트실(407호)
+
 ### [[무료세미나]스타트업 게임기획/서비스기획 / PM 실무 세미나](https://event-us.kr/gamecampus2/event/104603?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-30 19:30:00 ~ 2025-06-30 21:30:00
 - **Price:** 무료
@@ -674,6 +662,18 @@
 - **Host:** 투썬캠퍼스
 - **Location:** 경기 수원시 영통구 광교로 156 경기 메타버스 지원센터
 
+### [[경기콘텐츠진흥원] 마감임박!! 경기 메타버스 캠퍼스 정규 교육과정 교육생 모집(~6.22.)](https://event-us.kr/twosuncampusschool/event/106743?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-01 10:00:00 ~ 2025-08-29 18:00:00
+- **Price:** 무료
+- **Host:** 투썬캠퍼스
+- **Location:** 경기 수원시 영통구 광교로 156 광교비즈니즈센터 2층
+
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 창원편](https://event-us.kr/chatmaster/event/106725?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-01 18:50:00 ~ 2025-07-01 22:00:00
+- **Price:** 무료
+- **Host:** 챗마스터
+- **Location:** 경남 창원시 성산구 원이대로 362 창원컨벤션센터 7층 700A
+
 ### [제3회 한국인공지능·소프트웨어산업협회 생성형 AI 공공 로드쇼](https://event-us.kr/bespinglobalkorea/event/105771?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-02 13:30:00 ~ 2025-07-04 16:30:00
 - **Price:** 무료
@@ -692,6 +692,12 @@
 - **Host:** 한양여자대학교 평생교육원
 - **Location:** 서울특별시 성동구 왕십리로 222 한양여자대학교 평생교육원
 
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 용산편](https://event-us.kr/chatmaster/event/106740?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-02 18:50:00 ~ 2025-07-02 22:00:00
+- **Price:** 무료
+- **Host:** 챗마스터
+- **Location:** 서울 용산구 청파로 74 용산 전자랜드 신관 2층 랜드홀
+
 ### [CPPG 개인정보관리사 설명회](https://event-us.kr/soldesk001/event/105747?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-02 20:00:00 ~ 2025-07-02 21:00:00
 - **Price:** 무료
@@ -709,6 +715,12 @@
 - **Price:** 유료
 - **Host:** [메디치이앤에스] 메디치교육센터
 - **Location:** 서울 금천구 가산디지털1로 168 메디치 교육센터 3층 강의장
+
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 이천편](https://event-us.kr/chatmaster/event/106744?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-04 10:00:00 ~ 2025-07-04 13:00:00
+- **Price:** 무료
+- **Host:** 챗마스터
+- **Location:** 경기 이천시 중리천로 98 그랜드웨딩홀 6층 1관
 
 ### [DX CAMP: 최고의 전문가와 함께하는 데이터 전문 인재 인큐베이팅 프로그램](https://event-us.kr/pathfinder/event/104562?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-04 13:00:00 ~ 2025-11-14 15:00:00
@@ -739,6 +751,18 @@
 - **Price:** 무료
 - **Host:** SUSC
 - **Location:** 서울 서초구 서초대로40길 83 OpenUP 2층 PLAYGROUND
+
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 원주편](https://event-us.kr/chatmaster/event/106745?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-05 15:00:00 ~ 2025-07-05 18:00:00
+- **Price:** 무료
+- **Host:** 챗마스터
+- **Location:** 강원특별자치도 원주시 상지대길 83 상지대학교 민주관 3층 시청각실 (대강당)
+
+### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 수원편](https://event-us.kr/chatmaster/event/106747?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-06 10:00:00 ~ 2025-07-06 18:00:00
+- **Price:** 무료
+- **Host:** 챗마스터
+- **Location:** 경기 수원시 영통구 광교산로 154-42 경기대학교 수원캠퍼스 호연관 1층 세미나실
 
 ### [[KDT] 한컴 NVIDIA AI ACADEMY 7기모집(~6/30)](https://event-us.kr/hancomacademy/event/105363?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-07 09:00:00 ~ 2025-12-31 17:00:00
@@ -777,6 +801,12 @@
 - **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
 
 ### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106637?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
+
+### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106685?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
 - **Price:** 무료
 - **Host:** 하이미디어아카데미
@@ -842,6 +872,12 @@
 - **Host:** 시그니처 캠프
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [디지캡 크리에이트 플로우 2025](https://event-us.kr/digicap/event/106670?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-10 12:00:00 ~ 2025-07-11 17:30:00
+- **Price:** 무료
+- **Host:** DigiCAP
+- **Location:** 서울 강서구 마곡중앙8로7길 11 디지캡 마곡 사옥
+
 ### [[알파코 K-하이테크 플랫폼] 생성형 AI 도구 업무활용 100 (2기)](https://event-us.kr/dtground/event/105769?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-10 13:00:00 ~ 2025-07-10 17:00:00
 - **Price:** 무료
@@ -884,7 +920,7 @@
 - **Host:** 조영호
 - **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩)
 
-### [Gemini API를 활용한 내 웹사이트에 AI 달기 (가제)](https://event-us.kr/doodlefingers/event/106608?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [Gemini API를 활용한 내 웹사이트에 인공지능 달기](https://event-us.kr/doodlefingers/event/106608?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-12 13:30:00 ~ 2025-07-12 18:30:00
 - **Price:** 100,000원
 - **Host:** 둥지 Nest
