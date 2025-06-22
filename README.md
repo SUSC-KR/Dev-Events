@@ -8,36 +8,6 @@
 
 ## 이벤트 목록
 
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 대전편](https://event-us.kr/chatmaster/event/106543?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-21 10:00:00 ~ 2025-06-21 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 대전 중구 대흥로 167 모임공간국보 4층 대회의실
-
-### [Google Build with AI: 모두의연구소 아이펠](https://event-us.kr/modu/event/105313?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-21 10:00:00 ~ 2025-06-21 18:00:00
-- **Price:** 유료
-- **Host:** 모두의연구소
-- **Location:** 서울 서초구 강남대로 311 드림플러스 강남점 B1 이벤트홀
-
-### [사이버보안 및 정보보호 민간 자격검정](https://event-us.kr/security/event/105574?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-21 14:00:00 ~ 2025-06-21 18:00:00
-- **Price:** 유료
-- **Host:** security
-- **Location:** 서울 강남구 봉은사로 119 성옥빌딩 5층
-
-### [Korea Apache Airflow 3rd Meetup @Seoul, Seongsu NAKNAK](https://www.meetup.com/apache-airflow-users-korea/events/307385366/)
-- **Date:** 2025-06-21 14:00:00 ~ 2025-06-21 19:00:00
-- **Price:** ₩5,000.00
-- **Host:** Korea Apache Airflow Meetup Group - Airflow한국사용자모임
-- **Location:** 성동구 아차산로17길 48 · 서울
-
-### [Korea Apache Airflow 3rd Meetup @Seoul, Seongsu NAKNAK](https://www.meetup.com/korea-apache-airflow-user-group/events/307385366/)
-- **Date:** 2025-06-21 14:00:00 ~ 2025-06-21 19:00:00
-- **Price:** ₩5,000.00
-- **Host:** Apache Airflow Korea User Group - Airflow 한국 사용자 모임
-- **Location:** 성동구 아차산로17길 48 · 서울
-
 ### [AI 놀이터 (6.22.일) - Microsoft AI User Community 밋업](https://event-us.kr/aiplayground/event/105548?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-22 12:00:00 ~ 2025-06-22 18:00:00
 - **Price:** 무료
@@ -764,6 +734,12 @@
 - **Host:** 챗마스터
 - **Location:** 경기 수원시 영통구 광교산로 154-42 경기대학교 수원캠퍼스 호연관 1층 세미나실
 
+### [[SUSC] 2025 여름방학, 대학생 개발 스터디원 모집합니다](https://event-us.kr/susc/event/106768?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-07 09:00:00 ~ 2025-08-22 23:59:00
+- **Price:** 무료
+- **Host:** SUSC
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[KDT] 한컴 NVIDIA AI ACADEMY 7기모집(~6/30)](https://event-us.kr/hancomacademy/event/105363?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-07 09:00:00 ~ 2025-12-31 17:00:00
 - **Price:** 무료
@@ -1057,4 +1033,10 @@
 - **Price:** 무료
 - **Host:** maycan
 - **Location:** 아직 정해지지 않음
+
+### [언리얼 엔진 기반 🎮 게임 개발 부트캠프 _ 전액무료 / 특화훈련](https://event-us.kr/ysedu/event/106684?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-21 09:00:00 ~ 2025-03-24 18:00:00
+- **Price:** 무료
+- **Host:** 연세아이티 YITI
+- **Location:** 경기 수원시 장안구 정조로 940-1 수원 연세IT미래교육원(장안문캠퍼스)
 
