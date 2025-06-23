@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [AI 놀이터 (6.22.일) - Microsoft AI User Community 밋업](https://event-us.kr/aiplayground/event/105548?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-22 12:00:00 ~ 2025-06-22 18:00:00
-- **Price:** 무료
-- **Host:** AI 놀이터
-- **Location:** 서울 종로구 종로1길 50 한국마이크로소프트 (더케이트윈타워 A동 13층)
-
-### [국내 FIRST ® 프로그램 활성화 및 세계대회 유치를 위한  해외인사 초청 세미나 및 FIRST ® Alumni KOREA 창단식 안내](https://event-us.kr/sangsangimagine/event/106058?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-22 14:00:00 ~ 2025-06-22 18:00:00
-- **Price:** 10,000원
-- **Host:** 사단법인 상상
-- **Location:** 서울 영등포구 영신로 200 하이서울유스호스텔
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 세종편](https://event-us.kr/chatmaster/event/106544?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-22 15:00:00 ~ 2025-06-22 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 세종특별자치시 조치원읍 안터길 69 세종 홍익대 국제연수원 E동 2층 대회의실
-
 ### [노션 한끼 3주 챌린지](https://event-us.kr/crooisland/event/105327?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-23 00:00:00 ~ 2025-07-14 23:30:00
 - **Price:** 10,000원
