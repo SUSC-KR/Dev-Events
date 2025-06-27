@@ -8,60 +8,6 @@
 
 ## 이벤트 목록
 
-### [[알파코 K-하이테크 플랫폼] 생성형 AI 활용 APP 서비스 기획 실무](https://event-us.kr/dtground/event/103513?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 09:00:00 ~ 2025-06-27 18:00:00
-- **Price:** 무료
-- **Host:** DT그라운드
-- **Location:** 서울 성동구 성수이로 113 DT그라운드 알파코1캠퍼스
-
-### [✅ 자바풀스택개발자 국비지원 - 하이미디어아카데미 종로점](https://event-us.kr/ithimedia/event/88924?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 09:30:00 ~ 2025-12-09 18:30:00
-- **Price:** 무료
-- **Host:** IT국비교육
-- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로점
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 충주편](https://event-us.kr/chatmaster/event/106553?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 10:00:00 ~ 2025-06-26 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 충북 충주시 봉현로 296 충주컨벤션웨딩홀 2층 연회장
-
-### [[TDG웨비나] Copilot Studio로 IT 인프라 혁신의 시작을 함께하세요.](https://event-us.kr/tdg/event/105727?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 13:00:00 ~ 2025-06-26 14:00:00
-- **Price:** 무료
-- **Host:** 클라우드AI는 티디지
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[모집 마감] GPT, 답답하지 않으셨나요? 프롬프트 엔지니어링 교육으로 AI를 200% 활용하세요. : 직장인을 위한 실무 교육](https://event-us.kr/in4u/event/105866?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 13:00:00 ~ 2025-06-26 17:00:00
-- **Price:** 무료
-- **Host:** 인포유앤컴퍼니
-- **Location:** 서울 성동구 아차산로5길 10 2층 고우넷 트레이닝 센터
-
-### [[LLM & 파인 튜닝 일할맛 세미나] sLLM 파인 튜닝 현업 적용부터 Reasoning LLM 트렌드까지!](https://event-us.kr/helpfastcampus/event/106020?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 18:30:00 ~ 2025-06-26 21:20:00
-- **Price:** 무료
-- **Host:** fastcampus
-- **Location:** 경기 성남시 분당구 판교로289번길 20 판교테크노밸리 스타트업캠퍼스 2층
-
-### [채널톡의 온라인 개발자 세션에 여러분을 초대합니다!](https://event-us.kr/channeltalk/event/105755?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 19:00:00 ~ 2025-06-26 21:00:00
-- **Price:** 무료
-- **Host:** 채널톡
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[flexible] Next flex with AI: AI 시대에 준비된 flex가 선택하는 미래 전략](https://event-us.kr/flexible/event/106286?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 19:00:00 ~ 2025-06-26 21:00:00
-- **Price:** 무료
-- **Host:** 플렉스팀
-- **Location:** 경기 성남시 분당구 황새울로359번길 11 8F flex Lounge
-
-### [[설명회] AI 활용력, 이제는 필수입니다🤖](https://event-us.kr/zerobase/event/106843?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-26 20:00:00 ~ 2025-06-26 21:30:00
-- **Price:** 무료
-- **Host:** 제로베이스
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [한컴 AI 아카데미 2기 과정 수강생 모집 (~6/22) 🚀](https://event-us.kr/sniperfactory/event/104175?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-27 00:00:00 ~ 2025-12-19 23:30:00
 - **Price:** 무료
@@ -386,6 +332,12 @@
 - **Host:** 클라우드바리스타 커뮤니티
 - **Location:** 제주특별자치도 서귀포시 중문관광로 224 제주국제컨벤션센터 (ICC제주) 삼다홀 A
 
+### [1시간 만에 홈페이지 만들기](https://event-us.kr/creatorlink/event/107081?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-03 14:00:00 ~ 2025-07-03 15:30:00
+- **Price:** 무료
+- **Host:** 크리에이터링크
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [퇴근 후 GPT교육. 페르소나 설정하기](https://event-us.kr/medici/event/106376?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-03 19:00:00 ~ 2025-07-03 21:00:00
 - **Price:** 유료
@@ -542,6 +494,12 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
 
+### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107071?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 송도편](https://event-us.kr/chatmaster/event/106876?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-08 10:00:00 ~ 2025-07-08 13:00:00
 - **Price:** 무료
@@ -579,6 +537,12 @@
 - **Location:** 서울 종로구 인사동길 12 7층
 
 ### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/106661?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스
+
+### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/107037?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
 - **Price:** 무료
 - **Host:** 하이미디어아카데미
@@ -788,6 +752,12 @@
 - **Host:** 챗마스터
 - **Location:** 경기 고양시 일산서구 킨텍스로 217-60 킨텍스 제2전시장 305호
 
+### [AI 시대, 영국 개발자 취업 A to Z](https://event-us.kr/flexwork/event/107093?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-17 20:00:00 ~ 2025-08-07 21:30:00
+- **Price:** 유료
+- **Host:** 플렉스웍
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [[KDT] 내일배움카드 무료! 3D 게임 그래픽 제작자 부트캠프 : 실감형콘텐츠, 시네마틱무비, 3D모델링](https://event-us.kr/ysedu/event/106651?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-18 09:00:00 ~ 2025-03-17 18:00:00
 - **Price:** 무료
@@ -811,6 +781,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 경남 거제시 장평3로 80-37 거제 삼성호텔 2층 스타라이즈홀
+
+### [Season 4 - Season of Agents(Build Agents with Azure AI Foundry) (Seoul)](https://event-us.kr/powerplatform/event/107092?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-19 14:00:00 ~ 2025-07-19 19:00:00
+- **Price:** 10,000원
+- **Host:** 파워 플랫폼 한국 유저 그룹
+- **Location:** 서울 종로구 종로1길 50 한국 마이크로소프트 13층
 
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 부산편](https://event-us.kr/chatmaster/event/106910?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-19 15:00:00 ~ 2025-07-19 18:00:00
@@ -884,6 +860,12 @@
 - **Host:** 한국산업기술협회 무료교육
 - **Location:** 서울 금천구 범안로 1130 14층 한국산업기술협회
 
+### [✅대기업 실무자 멘토링으로 완성되는 생성형 AI 자바 풀스택 개발자 과정 ✅](https://event-us.kr/kangnamhimedia/event/107069?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-24 09:30:00 ~ 2025-01-19 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 서초구 강남대로 405 8층 하이미디어아카데미
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 김해편](https://event-us.kr/chatmaster/event/106922?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-25 10:00:00 ~ 2025-07-25 13:00:00
 - **Price:** 무료
@@ -896,7 +878,7 @@
 - **Host:** 챗마스터
 - **Location:** 광주 서구 상무누리로 30 김대중컨벤션센터 302+303호
 
-### [2025 Efficient AI Offline Meetup](https://event-us.kr/squeezebits/event/106831?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [2025 Efficient AI Offline Meetup: AI 경량화 오프라인 밋업](https://event-us.kr/squeezebits/event/106831?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-26 13:00:00 ~ 2025-07-26 17:00:00
 - **Price:** 무료
 - **Host:** 스퀴즈비츠 SqueezeBits
