@@ -8,66 +8,6 @@
 
 ## 이벤트 목록
 
-### [한컴 AI 아카데미 2기 과정 수강생 모집 (~6/22) 🚀](https://event-us.kr/sniperfactory/event/104175?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 00:00:00 ~ 2025-12-19 23:30:00
-- **Price:** 무료
-- **Host:** 스나이퍼팩토리
-- **Location:** 서울 강서구 마곡중앙로 59-5 마곡595빌딩 4층
-
-### [[KISA] 전자메일 암호화 통신 보안 강화](https://event-us.kr/Ut2KSHw11cCG/event/105067?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 10:00:00 ~ 2025-06-27 11:30:00
-- **Price:** 무료
-- **Host:** 한국인터넷진흥원 한국인터넷정보센터
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 화성편](https://event-us.kr/chatmaster/event/106556?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 10:00:00 ~ 2025-06-27 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 화성시 향남읍 토성로 14 화성상공회의소 4층 컨벤션홀
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 안양편](https://event-us.kr/chatmaster/event/106555?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 10:00:00 ~ 2025-06-27 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 안양시 만안구 안양로 133 안양상공회의소 5층 대회의실
-
-### [[무료] HRDer를 위한 생성형 AI 교육 클래스: 인사이트, 사례, 실습까지](https://event-us.kr/codeit/event/105739?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 13:00:00 ~ 2025-06-27 17:00:00
-- **Price:** 무료
-- **Host:** 코드잇
-- **Location:** 강남 그라운드 옥탑 (서울 강남구 태헤란로8길 25 3층)
-
-### [개발자를 위한 노코드 활용 세미나](https://event-us.kr/mescius/event/105350?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 13:00:00 ~ 2025-06-27 17:30:00
-- **Price:** 무료
-- **Host:** 메시어스 코리아
-- **Location:** 서울 서초구 서초대로77길 9 4층 예인스페이스 세미나실 C
-
-### [2025 Us:Code 해커톤 in 의성](https://event-us.kr/uscode/event/104084?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 13:00:00 ~ 2025-06-29 18:00:00
-- **Price:** 무료
-- **Host:** Us:Code
-- **Location:** 경북 의성군 의성읍 충효로 88 의성체육관
-
-### [[ KISA ] WHOIS OpenAPI를 활용한 도메인/IP 정보 알아보기](https://event-us.kr/Ut2KSHw11cCG/event/105065?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 13:30:00 ~ 2025-06-27 15:00:00
-- **Price:** 무료
-- **Host:** 한국인터넷진흥원 한국인터넷정보센터
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [TAS sQuare #1. 테스트 자동화 도구 소개 및 적용 방안 밋업](https://event-us.kr/xltas/event/105281?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 14:00:00 ~ 2025-06-27 16:00:00
-- **Price:** 무료
-- **Host:** XLTAS
-- **Location:** 서울 광진구 자양강변길 115 STA테스팅컨설팅 STA교육센터
-
-### [[KISA] BIND 기반 DNS 서버 구축](https://event-us.kr/Ut2KSHw11cCG/event/105066?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-27 15:30:00 ~ 2025-06-27 17:00:00
-- **Price:** 무료
-- **Host:** 한국인터넷진흥원 한국인터넷정보센터
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/msftkrdevrel/event/104124?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-28 12:00:00 ~ 2025-06-28 18:00:00
 - **Price:** 무료
@@ -97,6 +37,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 경기 부천시 원미구 길주로 1 한국만화박물관 1층 상영관
+
+### [[GEG 강남] 제 27회 Google의 정석 - 새로운 구글 학습 자료 및 학습법](https://event-us.kr/job-skill365/event/107118?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-06-28 18:00:00 ~ 2025-06-28 20:00:00
+- **Price:** 무료
+- **Host:** 디지털전환 교육원(DTedu]
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [온라인 : 젯슨맘과 함께 NVIDIA 인공지능 기초 과정 Certification 취득하기(제슨 보드 없어도 가능)](https://event-us.kr/jetsonmom/event/105826?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-28 20:00:00 ~ 2025-06-28 22:00:00
@@ -500,6 +446,12 @@
 - **Host:** 하이미디어아카데미
 - **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
 
+### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107130?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
+- **Price:** 무료
+- **Host:** 하이미디어아카데미
+- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 송도편](https://event-us.kr/chatmaster/event/106876?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-08 10:00:00 ~ 2025-07-08 13:00:00
 - **Price:** 무료
@@ -608,7 +560,7 @@
 - **Host:** 에이블런
 - **Location:** 서울 서초구 반포대로 201 국립중앙도서관 디지털도서관 대회의실(B3)
 
-### [보안의 격차는 ‘역량’에서 시작된다. 조직 보안 역량 UP! 데이터 기반 실전 전략](https://event-us.kr/theori/event/106981?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [보안의 격차는 ‘역량’에서 시작된다. 조직 보안 역량 UP! 실전 전략 세미나](https://event-us.kr/theori/event/106981?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-10 16:00:00 ~ 2025-07-10 20:00:00
 - **Price:** 5,000원
 - **Host:** Theori
@@ -648,7 +600,7 @@
 - **Date:** 2025-07-12 13:00:00 ~ 2025-07-12 17:00:00
 - **Price:** 10,000원
 - **Host:** 화수용-경기남부 IT포럼&커뮤니티
-- **Location:** 경기 화성시 동탄감배산로 143 202동 1908호 모들제이 동탄점
+- **Location:** 경기 화성시 동탄감배산로 143 동탄역 유림 노르웨이숲 오피스 건물 202동 1908호 모들제이 동탄점
 
 ### [Gemini API를 활용한 내 웹사이트에 인공지능 달기](https://event-us.kr/doodlefingers/event/106608?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-12 13:30:00 ~ 2025-07-12 18:30:00
@@ -884,6 +836,12 @@
 - **Host:** 스퀴즈비츠 SqueezeBits
 - **Location:** 서울 서초구 강남대로 311 드림플러스 강남 지하 1층 이벤트홀
 
+### [AI를 활용한 특허 업무 효율화 원데이 클래스](https://event-us.kr/earendel/event/107134?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-26 14:00:00 ~ 2025-07-26 16:00:00
+- **Price:** 30,000원
+- **Host:** 에렌델
+- **Location:** 서울 강남구 논현로85길 7 워크토크 역삼점
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 경주편](https://event-us.kr/chatmaster/event/106925?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-26 15:00:00 ~ 2025-07-26 18:00:00
 - **Price:** 무료
@@ -991,4 +949,10 @@
 - **Price:** 무료
 - **Host:** 연세아이티 YITI
 - **Location:** 경기 수원시 장안구 정조로 940-1 수원 연세IT미래교육원(장안문캠퍼스)
+
+### [[8월 27일 명동 르메르디앙 호텔] 세미나 1부, IT 기업·컨설팅 회사를 위한 비즈니스 기회](https://event-us.kr/7078/event/106956?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-27 10:00:00 ~ 2025-08-27 11:30:00
+- **Price:** 무료
+- **Host:** Odoo 비즈니스 솔루션
+- **Location:** 서울 중구 명동8나길 38 르메르디앙 서울 명동 4
 
