@@ -8,48 +8,6 @@
 
 ## 이벤트 목록
 
-### [천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/msftkrdevrel/event/104124?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-28 12:00:00 ~ 2025-06-28 18:00:00
-- **Price:** 무료
-- **Host:** 마이크로소프트 커뮤니티 이벤트
-- **Location:** 서울 종로구 종로1길 50 더케이트윈타워 A동 13층 한국 마이크로소프트
-
-### [천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-28 12:00:00 ~ 2025-06-28 18:00:00
-- **Price:** 무료
-- **Host:** CWB Korea
-- **Location:** 서울 종로구 종로1길 50 더케이트윈타워 A동 13층 한국 마이크로소프트
-
-### [ts-backend-meetup.ts (2025-06)](https://event-us.kr/tsbackendmeetup/event/104517?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-28 13:00:00 ~ 2025-06-28 17:00:00
-- **Price:** 10,000원
-- **Host:** ts-backend-meetup.ts
-- **Location:** github 링크에서 확인 가능합니다.
-
-### [터치디자이너를 활용한 근거리 통신 탭 인터랙션 워크샵](https://event-us.kr/doodlefingers/event/105617?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-28 13:30:00 ~ 2025-06-28 18:30:00
-- **Price:** 120,000원
-- **Host:** 둥지 Nest
-- **Location:** 서울 마포구 양화로 156 1614호 꼬모쉐 세미나룸
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 부천편](https://event-us.kr/chatmaster/event/106559?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-28 15:00:00 ~ 2025-06-28 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 부천시 원미구 길주로 1 한국만화박물관 1층 상영관
-
-### [[GEG 강남] 제 27회 Google의 정석 - 새로운 구글 학습 자료 및 학습법](https://event-us.kr/job-skill365/event/107118?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-28 18:00:00 ~ 2025-06-28 20:00:00
-- **Price:** 무료
-- **Host:** 디지털전환 교육원(DTedu]
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [온라인 : 젯슨맘과 함께 NVIDIA 인공지능 기초 과정 Certification 취득하기(제슨 보드 없어도 가능)](https://event-us.kr/jetsonmom/event/105826?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-28 20:00:00 ~ 2025-06-28 22:00:00
-- **Price:** 유료
-- **Host:** NVIDIA AI 기초과정 인증서
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [[무료세미나]게임기획,사업pm,스타트업 기획 세미나](https://event-us.kr/gamecampus2/event/104225?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-29 14:00:00 ~ 2025-06-29 15:30:00
 - **Price:** 무료
@@ -325,6 +283,12 @@
 - **Price:** 무료 ~ 999,999원
 - **Host:** QAKorea
 - **Location:** 서울 서초구 서초대로 397 모나코스페이스
+
+### [Google Dive편 - 파일 정리부터 협업, 자동화까지, 2주 완성 7/5, 7/12](https://event-us.kr/dreamai/event/107179?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-05 10:30:00 ~ 2025-07-05 12:00:00
+- **Price:** 100,000원
+- **Host:** 구글 한 스푼
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [Techive의 세번째 발표: AI for Enterprise](https://event-us.kr/hultprizescnu/event/105685?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-05 13:00:00 ~ 2025-07-05 14:00:00
@@ -824,6 +788,12 @@
 - **Host:** 챗마스터
 - **Location:** 경남 김해시 김해대로 2520 JW웨딩컨벤션센터 3층 테라스 1번
 
+### [DemoDay for GDGoC Solution Challenge: Final Stride](https://event-us.kr/gdgoncampus/event/107185?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-25 12:00:00 ~ 2025-07-25 18:00:00
+- **Price:** 무료
+- **Host:** GDG on Campus Korea
+- **Location:** 서울 중구 을지로39길 40 중구 구민회관
+
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 광주편](https://event-us.kr/chatmaster/event/106927?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-26 10:00:00 ~ 2025-07-26 18:00:00
 - **Price:** 무료
@@ -955,4 +925,10 @@
 - **Price:** 무료
 - **Host:** Odoo 비즈니스 솔루션
 - **Location:** 서울 중구 명동8나길 38 르메르디앙 서울 명동 4
+
+### [[한국보건산업진흥원] 2025년 충청권 사이버보안 경진대회 참가자 모집 안내](https://event-us.kr/secubiz/event/105927?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-28 11:30:00 ~ 2025-08-29 12:00:00
+- **Price:** 무료
+- **Host:** 스틸리언
+- **Location:** 충북 청주시 흥덕구 대농로 47-2 글로스터 호텔 청주
 
