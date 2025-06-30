@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [[무료세미나]게임기획,사업pm,스타트업 기획 세미나](https://event-us.kr/gamecampus2/event/104225?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-29 14:00:00 ~ 2025-06-29 15:30:00
-- **Price:** 무료
-- **Host:** 게임캠퍼스
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[세미나] AI(인공지능) 와 MAKE 로 나만의 자동화 만들기](https://event-us.kr/aiclass/event/106310?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-29 14:00:00 ~ 2025-06-29 16:30:00
-- **Price:** 20,000원 ~ 30,000원
-- **Host:** AI(인공지능) 크리에이터 창작소
-- **Location:** 강남역 또는 교대역 인근 스터디룸
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 일산편](https://event-us.kr/chatmaster/event/106563?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-06-29 14:00:00 ~ 2025-06-29 17:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 고양시 일산동구 애니골길 97 서울YMCA고양국제청소년문화센터 유스센터 1층 종석홀
-
 ### [2025 인공지능 융합 정책발굴 해커톤](https://event-us.kr/planpunch/event/103761?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-06-30 00:00:00 ~ 2025-06-30 18:00:00
 - **Price:** 무료
@@ -314,6 +296,12 @@
 - **Host:** 챗마스터
 - **Location:** 경기 수원시 영통구 광교산로 154-42 경기대학교 수원캠퍼스 호연관 1층 세미나실
 
+### [[기초] AI(인공지능) 도구 트렌드 학습 원데이클래스](https://event-us.kr/aiclass/event/107200?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-06 14:00:00 ~ 2025-07-06 16:00:00
+- **Price:** 15,000원 ~ 22,000원
+- **Host:** AI(인공지능) 크리에이터 창작소
+- **Location:** 강남역 인근 스터디룸(인원에 맞게 예약하겠습니다)
+
 ### [구글 워크스페이스 6주 무료교육을 위한 오리엔테이션](https://event-us.kr/googleworkspace/event/106964?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-06 20:00:00 ~ 2025-07-06 22:00:00
 - **Price:** 무료
@@ -421,6 +409,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 인천 연수구 센트럴로 123 송도 컨벤시아 107호
+
+### [[Gamma 공식 웨비나] Gamma로 노코딩 웹사이트 만들기 기초 워크샵(1)](https://event-us.kr/meetgamma/event/107202?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-08 20:00:00 ~ 2025-07-08 21:30:00
+- **Price:** 무료
+- **Host:** Gamma
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [🔥추가전액지원🔥 [KDT-심화] AWS클라우드네이티브 PWA위치기반 실무프로젝트CICD(Next,React,Typescript) 교육생 모집 (~7/8)](https://event-us.kr/greendj/event/106562?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-09 09:00:00 ~ 2025-09-03 18:30:00
@@ -745,6 +739,12 @@
 - **Price:** 무료
 - **Host:** 스나이퍼팩토리
 - **Location:** 서울 강서구 마곡중앙로 59-5 마곡595빌딩 4층
+
+### [(실시간 온라인 저자직강)자바스크립트 기반 웹풀스택 개발 6주만에 뽀개기(부트캠프 1기 모집)](https://event-us.kr/jamsuham75/event/107193?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-21 19:00:00 ~ 2025-08-29 22:00:00
+- **Price:** 무료
+- **Host:** 이창현코딩연구소
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[KOSTA] Java Full-Stack 개발자 훈련생 모집](https://event-us.kr/kostaedu/event/105978?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-22 09:00:00 ~ 2025-12-26 18:00:00
