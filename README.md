@@ -8,36 +8,6 @@
 
 ## 이벤트 목록
 
-### [2025 4회 QA 코리아 컨퍼런스, OFFLINE_ NOW ON!](https://event-us.kr/qakoreaconference/event/104118?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-05 10:00:00 ~ 2025-07-05 18:00:00
-- **Price:** 무료 ~ 999,999원
-- **Host:** QAKorea
-- **Location:** 서울 서초구 서초대로 397 모나코스페이스
-
-### [Google Dive편 - 파일 정리부터 협업, 자동화까지, 2주 완성 7/5, 7/12](https://event-us.kr/dreamai/event/107179?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-05 10:30:00 ~ 2025-07-05 12:00:00
-- **Price:** 100,000원
-- **Host:** 구글 한 스푼
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [Techive의 세번째 발표: AI for Enterprise](https://event-us.kr/hultprizescnu/event/105685?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-05 13:00:00 ~ 2025-07-05 14:00:00
-- **Price:** 무료
-- **Host:** 광주•전남 Tech Community
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [[SUSC 대학방학교류] 써머데이: 대학생 개발자들의 네트워킹 데이](https://event-us.kr/susc/event/105371?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-05 14:00:00 ~ 2025-07-05 18:00:00
-- **Price:** 무료
-- **Host:** SUSC
-- **Location:** 서울 서초구 서초대로40길 83 OpenUP 2층 PLAYGROUND
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 원주편](https://event-us.kr/chatmaster/event/106745?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-05 15:00:00 ~ 2025-07-05 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 강원특별자치도 원주시 상지대길 83 상지대학교 민주관 3층 시청각실 (대강당)
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 수원편](https://event-us.kr/chatmaster/event/106747?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-06 10:00:00 ~ 2025-07-06 18:00:00
 - **Price:** 무료
@@ -571,6 +541,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 부산 해운대구 APEC로 55 벡스코 제1전시장 217+218호
+
+### [취업&커리어 콘서트 3회: 카네기멜론대학교 로보틱스 연구원 서희찬님 편](https://event-us.kr/susc/event/107647?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-19 20:00:00 ~ 2025-07-19 21:30:00
+- **Price:** 무료
+- **Host:** SUSC
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 대구편](https://event-us.kr/chatmaster/event/106911?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-20 10:00:00 ~ 2025-07-20 13:00:00
