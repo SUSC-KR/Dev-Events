@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 수원편](https://event-us.kr/chatmaster/event/106747?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-06 10:00:00 ~ 2025-07-06 18:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 경기 수원시 영통구 광교산로 154-42 경기대학교 수원캠퍼스 호연관 1층 세미나실
-
-### [[기초] AI(인공지능) 도구 트렌드 학습 원데이클래스](https://event-us.kr/aiclass/event/107200?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-06 14:00:00 ~ 2025-07-06 16:00:00
-- **Price:** 15,000원 ~ 22,000원
-- **Host:** AI(인공지능) 크리에이터 창작소
-- **Location:** 강남역 인근 스터디룸(인원에 맞게 예약하겠습니다)
-
-### [구글 워크스페이스 6주 무료교육을 위한 오리엔테이션](https://event-us.kr/googleworkspace/event/106964?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-06 20:00:00 ~ 2025-07-06 22:00:00
-- **Price:** 무료
-- **Host:** 구글 워크스페이스 무료교육
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [[SUSC] 2025 여름방학, 대학생 개발 스터디원 모집합니다](https://event-us.kr/susc/event/106768?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-07 09:00:00 ~ 2025-08-22 23:59:00
 - **Price:** 무료
@@ -349,6 +331,12 @@
 - **Price:** 무료
 - **Host:** 챗마스터
 - **Location:** 경기 화성시 효행로 480 푸르미르호텔 B1층 사파이어홀
+
+### [AI(인공지능) 도구를 활용한 영상 제작 및 편집 [기초원데이클래스]](https://event-us.kr/aiclass/event/107662?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-13 14:00:00 ~ 2025-07-13 16:00:00
+- **Price:** 15,000원 ~ 22,000원
+- **Host:** AI(인공지능) 크리에이터 창작소
+- **Location:** 강남역 또는 교대역 인근 스터디룸
 
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 구로편](https://event-us.kr/chatmaster/event/106885?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-13 15:00:00 ~ 2025-07-13 18:00:00
@@ -919,4 +907,10 @@
 - **Price:** 무료
 - **Host:** 스틸리언
 - **Location:** 충북 청주시 흥덕구 대농로 47-2 글로스터 호텔 청주
+
+### [None](https://event-us.kr/Pentacle/event/107663?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-31 00:00:00 ~ 2025-08-31 23:30:00
+- **Price:** 무료
+- **Host:** 펜타클
+- **Location:** 온라인으로 진행하는 행사입니다.
 
