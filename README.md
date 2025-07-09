@@ -8,96 +8,6 @@
 
 ## 이벤트 목록
 
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106438?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106524?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106637?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106685?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106854?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106802?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/106894?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107071?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107130?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107270?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107226?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107303?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [[IBM X RedHat] AI Transformation AX Academy 수강생 모집](https://event-us.kr/himedia1/event/107380?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 09:30:00 ~ 2025-01-02 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 대일빌딩 하이미디어아카데미 종로캠퍼스 7층
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 송도편](https://event-us.kr/chatmaster/event/106876?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 10:00:00 ~ 2025-07-08 13:00:00
-- **Price:** 무료
-- **Host:** 챗마스터
-- **Location:** 인천 연수구 센트럴로 123 송도 컨벤시아 107호
-
-### [[Gamma 공식 웨비나] Gamma로 노코딩 웹사이트 만들기 기초 워크샵(1)](https://event-us.kr/meetgamma/event/107202?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-08 20:00:00 ~ 2025-07-08 21:30:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/107373?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-09 00:00:00 ~ 2025-08-07 23:30:00
 - **Price:** 무료
@@ -410,6 +320,12 @@
 - **Host:** None
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [💪AI 관리법부터 성과까지, 3시간 완성반 - 무료 워크샵 (7/16)](https://event-us.kr/kongkorea/event/107810?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-16 15:00:00 ~ 2025-07-16 18:00:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울 강남구 테헤란로 431 저스트코타워 3층
+
 ### [[flexible] 당신의 서비스가 확장하지 못하는 이유 – 통합 인가와 재사용성](https://event-us.kr/flexible/event/107484?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-16 19:00:00 ~ 2025-07-16 21:00:00
 - **Price:** 무료
@@ -518,6 +434,12 @@
 - **Host:** None
 - **Location:** 서울 강서구 마곡중앙로 59-5 마곡595빌딩 4층
 
+### [[카카오엔터프라이즈] 해외 연수 기회_카카오클라우드 Alaas 마스터 클래스 모집 (~7/13)](https://event-us.kr/goodee/event/107776?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-21 08:00:00 ~ 2025-01-23 18:30:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울 강서구 마곡중앙로 59-5 마곡595빌딩 4층
+
 ### [None](https://event-us.kr/onop/event/106514?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-21 08:30:00 ~ 2025-01-16 17:30:00
 - **Price:** 무료
@@ -589,6 +511,12 @@
 - **Price:** 무료
 - **Host:** None
 - **Location:** 경남 진주시 논개길 103 동방관광호텔 2층 블라썸홀
+
+### [[무료 세미나] 부울경 기업 대상 GenAI 혁신 세미나 & 클라우드 고민타파 오피스아워](https://event-us.kr/nds/event/107753?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-22 10:00:00 ~ 2025-07-23 17:00:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 부산 해운대구 센텀중앙로 55 동서대학교 센텀캠퍼스 12층
 
 ### [K-AI 커뮤니티 서밋 2025](https://event-us.kr/openfreeai/event/107010?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-23 14:00:00 ~ 2025-07-23 17:00:00
