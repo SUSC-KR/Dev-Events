@@ -8,84 +8,6 @@
 
 ## 이벤트 목록
 
-### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/107373?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 00:00:00 ~ 2025-08-07 23:30:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [🔥추가전액지원🔥 [KDT-심화] AWS클라우드네이티브 PWA위치기반 실무프로젝트CICD(Next,React,Typescript) 교육생 모집 (~7/8)](https://event-us.kr/greendj/event/106562?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:00:00 ~ 2025-09-03 18:30:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 대전 서구 대덕대로 182 그린컴퓨터아트학원 대전둔산점
-
-### [2025년 기능점수(FP) 및 SW사업대가 전문 교육](https://event-us.kr/mnms/event/99514?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:00:00 ~ 2025-11-07 17:30:00
-- **Price:** 유료
-- **Host:** None
-- **Location:** 서울 서초구 신반포로47길 68 엠엔엠솔루션 교육장
-
-### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/105131?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스
-
-### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/105397?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스
-
-### [✅ [더존비즈온] Cloud DX Academy 3기](https://event-us.kr/ithimedia/event/101638?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 종로구 인사동길 12 7층
-
-### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/106661?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스
-
-### [[더존비즈온] Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/107037?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
-- **Price:** 무료
-- **Host:** 하이미디어아카데미
-- **Location:** 서울 종로구 인사동길 12 하이미디어아카데미 종로캠퍼스
-
-### [✅ [IBM x RedHat] AI Transformation - AX Academy 4기](https://event-us.kr/ithimedia/event/103431?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 09:30:00 ~ 2025-01-05 18:30:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 서초구 강남대로 405 8층 하이미디어아카데미 강남캠퍼스
-
-### [Regional Scrum Gathering® Seoul 2025](https://www.meetup.com/seoul-agile-scrum-meetup/events/307082469/)
-- **Date:** 2025-07-09 09:30:00 ~ 2025-07-09 17:30:00
-- **Price:** ₩30,000.00
-- **Host:** Seoul Agile & Scrum Meetup
-- **Location:** 305 Teheran-ro · Gangnam District
-
-### [제14회 정보보호의날 기념식 & 정보보호 컨퍼런스](https://event-us.kr/pwe/event/107000?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 10:00:00 ~ 2025-07-09 18:00:00
-- **Price:** 무료
-- **Host:** PWE
-- **Location:** 서울 용산구 청파로20길 95 3층 한라홀
-
-### [[서울 AI 허브] 2025 AI+로봇 전문인력 양성과정](https://event-us.kr/YV7SqV3glfKc/event/106573?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 14:00:00 ~ 2025-08-22 17:00:00
-- **Price:** 무료
-- **Host:** 에이블런
-- **Location:** 서울 서초구 태봉로 108 서울 AI 허브 교육장
-
-### [[무료/7일] 생성형 AI 활용 데이터 시각화 실전 교육](https://event-us.kr/YV7SqV3glfKc/event/105753?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-09 14:00:00 ~ 2025-08-23 18:00:00
-- **Price:** 무료
-- **Host:** 에이블런
-- **Location:** 서울 영등포구 도림천로 437 스페이스쉐어 G밸리원광디지털센터
-
 ### [쏘카 신희송 CTO와 함께하는 <웹 개발 시그니처 캠프 1기> 모집](https://event-us.kr/signaturecamp/event/105413?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-10 10:00:00 ~ 2025-01-05 19:00:00
 - **Price:** 무료
@@ -302,6 +224,12 @@
 - **Host:** None
 - **Location:** 경기 파주시 와석순환로172번길 16 대한상공회의소 경기인력개발원
 
+### [[K-디지털기초역량훈련] 디지털 신기술 IT분야 온라인 무료 교육 과정 모집](https://event-us.kr/greencamp/event/107941?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-16 00:00:00 ~ 2025-08-14 23:30:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [✅ JAVA풀스택개발자 국비지원 - 하이미디어아카데미 신촌점](https://event-us.kr/ithimedia/event/81084?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-16 09:30:00 ~ 2025-01-28 18:30:00
 - **Price:** 무료
@@ -470,12 +398,6 @@
 - **Host:** None
 - **Location:** 서울 구로구 경인로 557 4층
 
-### [빅데이터 분석 및 AI(머신·딥러닝) 활용 개발 전문가 취업캠프](https://event-us.kr/tjoeun5611/event/107337?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-21 10:00:00 ~ 2025-01-30 18:30:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 강남구 강남대로78길 8 한국빌딩 4층
-
 ### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 경산편](https://event-us.kr/chatmaster/event/106913?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-21 10:00:00 ~ 2025-07-21 13:00:00
 - **Price:** 무료
@@ -517,6 +439,12 @@
 - **Price:** 무료
 - **Host:** None
 - **Location:** 부산 해운대구 센텀중앙로 55 동서대학교 센텀캠퍼스 12층
+
+### [제32회 KOSA 런앤그로우 포럼](https://event-us.kr/kosaevent/event/107915?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-23 07:30:00 ~ 2025-07-23 09:30:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울 강남구 봉은사로 150 삼정호텔 1층 아도니스홀
 
 ### [K-AI 커뮤니티 서밋 2025](https://event-us.kr/openfreeai/event/107010?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-23 14:00:00 ~ 2025-07-23 17:00:00
@@ -728,11 +656,23 @@
 - **Host:** None
 - **Location:** 온라인으로 진행하는 행사입니다.
 
+### [[MCP 일할맛 세미나] n8n 업무자동화부터 RAG까지 MCP 전문가의 트렌드 돌아보기!](https://event-us.kr/helpfastcampus/event/107945?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-07-31 18:00:00 ~ 2025-07-31 21:30:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 경기 성남시 분당구 판교로289번길 20 판교테크노밸리 스타트업캠퍼스 2층
+
 ### [2025년 클라우드 부트캠프 희망대학 모집](https://event-us.kr/cccredu/event/107348?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-01 00:00:00 ~ 2025-10-31 23:30:00
 - **Price:** 무료
 - **Host:** None
 - **Location:** 서울 구로구 디지털로33길 50 204호 한국클라우드컴퓨팅연구조합
+
+### [[단국대 aid-campus]'AI·DX 교육, 8월 오픈! 지금 신청하세요'](https://event-us.kr/aidcampus/event/107923?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-01 09:00:00 ~ 2025-09-30 23:30:00
+- **Price:** 유료
+- **Host:** None
+- **Location:** 온라인으로 진행하는 행사입니다.
 
 ### [[모두의연구소] AI 서비스 백엔드 개발자 과정](https://event-us.kr/modu/event/106899?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-01 10:00:00 ~ 2025-11-25 19:00:00
@@ -746,11 +686,23 @@
 - **Host:** None
 - **Location:** 서울 송파구 올림픽로 336 809호
 
+### [[대구·경산/무료] 20시간이면 AI 개발자 취업 준비 완료](https://event-us.kr/YV7SqV3glfKc/event/107919?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-04 00:00:00 ~ 2025-08-27 11:59:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 온라인으로 진행하는 행사입니다.
+
 ### [2025 경기 메타버스 해커톤 참가팀 모집(~7/31)](https://event-us.kr/twosuncampusschool/event/107625?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-04 00:00:00 ~ 2025-08-27 23:30:00
 - **Price:** 무료
 - **Host:** None
 - **Location:** 경기 성남시 수정구 대왕판교로 815 판교제2테크노밸리기업지원허브
+
+### [빅데이터 분석 및 AI(머신·딥러닝) 활용 개발 전문가 취업캠프](https://event-us.kr/tjoeun5611/event/107337?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-04 10:00:00 ~ 2025-02-20 18:30:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울 강남구 강남대로78길 8 한국빌딩 4층
 
 ### [[경기도 한정] 경기도에서 전액지원하는! 생성형 AI 1DAY 교육 2기](https://event-us.kr/YV7SqV3glfKc/event/107513?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-05 09:00:00 ~ 2025-08-21 17:00:00
@@ -824,6 +776,12 @@
 - **Host:** None
 - **Location:** 서울 서초구 강남대로 213 양재 엘타워 5층 오르체홀
 
+### [[대구·경산/무료] 단 하루, 3시간에 끝내는🔥 생성형 AI 업무자동화 실무 활용법](https://event-us.kr/YV7SqV3glfKc/event/107928?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-08-22 00:00:00 ~ 2025-08-24 11:59:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 대구 수성구 알파시티1로 170 대구디지털혁신진흥원 308호 PC 교육장
+
 ### [DIVE 2025(제 2회 글로벌 데이터 해커톤 대회)](https://event-us.kr/oceanjob/event/107315?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-23 14:00:00 ~ 2025-08-24 17:00:00
 - **Price:** 무료
@@ -853,6 +811,12 @@
 - **Price:** 무료
 - **Host:** None
 - **Location:** 온라인으로 진행하는 행사입니다.
+
+### [KT,NHN클라우드 서버엔지니어 / 클라우드 활용 자바 풀스택개발자 / HIWARE로 완성하는 클라우드보안 엔지니어](https://event-us.kr/zx1595/event/107942?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-09-01 09:00:00 ~ 2025-03-13 00:00:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울특별시 관악구 봉천로 227 보라매샤르망 5층 한국정보교육원
 
 ### [[CCCR] 전문인력_프라이빗 클라우드를 위한 오픈스택 구축 및 IaC 기반의 애플리케이션 배포 모집(~8.29)](https://event-us.kr/cccredu/event/107697?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-09-01 09:00:00 ~ 2025-09-05 18:00:00
