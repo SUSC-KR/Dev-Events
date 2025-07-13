@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [JPA의 사실과 오해 6기](https://event-us.kr/choyoungho/event/106037?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-12 09:30:00 ~ 2025-07-19 18:00:00
-- **Price:** 250,000원
-- **Host:** 조영호
-- **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩)
-
-### [경기남부 IT커뮤니티<화.수.용> 2회차 기술 포럼 - from LangChain RAG to Agent](https://event-us.kr/wsy/event/107017?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-12 13:00:00 ~ 2025-07-12 17:00:00
-- **Price:** 10,000원
-- **Host:** None
-- **Location:** 경기 화성시 동탄감배산로 143 동탄역 유림 노르웨이숲 오피스 건물 202동 1908호 모들제이 동탄점
-
-### [Gemini API를 활용한 내 웹사이트에 인공지능 달기](https://event-us.kr/doodlefingers/event/106608?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-12 13:30:00 ~ 2025-07-12 18:30:00
-- **Price:** 100,000원
-- **Host:** None
-- **Location:** 서울 마포구 양화로 156 1614호 꼬모쉐 세미나룸
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 화성편](https://event-us.kr/chatmaster/event/106883?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-12 15:00:00 ~ 2025-07-12 18:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 경기 화성시 효행로 480 푸르미르호텔 B1층 사파이어홀
-
 ### [AI(인공지능) 도구를 활용한 영상 제작 및 편집 [기초원데이클래스]](https://event-us.kr/aiclass/event/107662?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-13 14:00:00 ~ 2025-07-13 16:00:00
 - **Price:** 15,000원 ~ 22,000원
