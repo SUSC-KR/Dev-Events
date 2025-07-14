@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [AI(인공지능) 도구를 활용한 영상 제작 및 편집 [기초원데이클래스]](https://event-us.kr/aiclass/event/107662?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-13 14:00:00 ~ 2025-07-13 16:00:00
-- **Price:** 15,000원 ~ 22,000원
-- **Host:** None
-- **Location:** 강남역 또는 교대역 인근 스터디룸
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 구로편](https://event-us.kr/chatmaster/event/106885?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-13 15:00:00 ~ 2025-07-13 18:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 구로구 경인로 611-17 지하 1층 송해아트홀
-
-### [챗마스터와 함께 하는 <챗GPT 실전 활용법> 평택편](https://event-us.kr/chatmaster/event/106884?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-13 15:00:00 ~ 2025-07-13 18:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 경기 평택시 서동대로 3825 평택대학교 대학원 1층 소강당
-
 ### [[제3회 네트워크 지능화를 위한 인공지능 해커톤]](https://event-us.kr/aifactory2/event/107978?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-14 00:00:00 ~ 2025-09-25 23:30:00
 - **Price:** 무료
