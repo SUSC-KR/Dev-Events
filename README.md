@@ -8,30 +8,6 @@
 
 ## 이벤트 목록
 
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 거제편](https://event-us.kr/chatmaster/event/106908?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-19 10:00:00 ~ 2025-07-19 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 경남 거제시 장평3로 80-37 거제 삼성호텔 2층 스타라이즈홀
-
-### [Season 4 - Season of Agents(Build Agents with Azure AI Foundry) (Seoul)](https://event-us.kr/powerplatform/event/107092?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-19 14:00:00 ~ 2025-07-19 19:00:00
-- **Price:** 10,000원
-- **Host:** None
-- **Location:** 서울 종로구 종로1길 50 한국 마이크로소프트 13층
-
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 부산편](https://event-us.kr/chatmaster/event/106910?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-19 15:00:00 ~ 2025-07-19 18:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 부산 해운대구 APEC로 55 벡스코 제1전시장 217+218호
-
-### [취업&커리어 콘서트 3회: 카네기멜론대학교 로보틱스 연구원 서희찬님 편](https://event-us.kr/susc/event/107647?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-19 20:00:00 ~ 2025-07-19 21:30:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 대구편](https://event-us.kr/chatmaster/event/106911?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-20 10:00:00 ~ 2025-07-20 13:00:00
 - **Price:** 무료
@@ -1009,4 +985,10 @@
 - **Price:** 무료
 - **Host:** None
 - **Location:** 부산 해운대구 센텀동로 41 부산정보산업진흥원 5층
+
+### [2025 에듀테크 코리아 페어](https://event-us.kr/educationkorea/event/108472?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-09-18 10:00:00 ~ 2025-09-20 18:00:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울 강남구 영동대로 513 코엑스 A홀
 
