@@ -8,24 +8,6 @@
 
 ## 이벤트 목록
 
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 대구편](https://event-us.kr/chatmaster/event/106911?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-20 10:00:00 ~ 2025-07-20 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 대구 수성구 달구벌대로 2327 한영아트센터 4층 안암홀
-
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 구미편](https://event-us.kr/chatmaster/event/106912?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-20 15:00:00 ~ 2025-07-20 18:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 경북 구미시 산동읍 첨단기업1로 49 구미코 3층 소회의실
-
-### [[GEG 강남] 제 27회 Google의 정석 - 디지털 전환과 Google 계정 & 주소록](https://event-us.kr/job-skill365/event/108547?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-07-20 18:00:00 ~ 2025-07-20 19:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [2025 서울 우먼테크 해커톤](https://event-us.kr/wtech/event/107558?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-07-21 00:00:00 ~ 2025-08-26 00:00:00
 - **Price:** 무료
