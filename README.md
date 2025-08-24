@@ -8,42 +8,6 @@
 
 ## 이벤트 목록
 
-### [JPA의 사실과 오해 6기](https://event-us.kr/choyoungho/event/109477?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-23 09:30:00 ~ 2025-08-30 18:00:00
-- **Price:** 150,000원
-- **Host:** None
-- **Location:** 서울 서초구 서운로 142-4 코지 강남역 2호점(재정빌딩) 6층 SPACE 1
-
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 안양편](https://event-us.kr/chatmaster/event/109299?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-23 10:00:00 ~ 2025-08-23 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 경기 안양시 만안구 성결대학로 53 기념관 2층 홍대실홀
-
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 강서편](https://event-us.kr/chatmaster/event/109296?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-23 10:00:00 ~ 2025-08-23 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 강서구 까치산로24길 90 하딩관 3층 대강당
-
-### [[FOSS for All] Videobox 워크숍](https://event-us.kr/fossforall/event/108985?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-23 14:00:00 ~ 2025-08-23 16:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 강남구 강남대로 324 모두의연구소 강남캠퍼스 C3
-
-### [DIVE 2025(제 2회 글로벌 데이터 해커톤 대회)](https://event-us.kr/oceanjob/event/107315?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-23 14:00:00 ~ 2025-08-24 17:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 부산 해운대구 APEC로 30 벡스코 제2전시장 4f홀
-
-### [프롬프트 좀 아는 형이 알려주는 Azure OpenAI Hands on lab](https://event-us.kr/kaag/event/109972?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-23 19:00:00 ~ 2025-08-23 21:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 광명편](https://event-us.kr/chatmaster/event/109302?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-24 10:00:00 ~ 2025-08-24 13:00:00
 - **Price:** 무료
@@ -745,6 +709,12 @@
 - **Price:** 무료
 - **Host:** None
 - **Location:** 경기 안양시 만안구 성결대학로 53 기념관 2층 홍대실홀
+
+### [✨IT 커리어 성장 기회✨ 스위프 웹 10기 데모데이 & 네트워킹 행사 (무료, 9/6 토)](https://event-us.kr/teamswyg/event/110964?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-09-06 13:00:00 ~ 2025-09-06 17:30:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울 강남구 선릉로 551 디캠프 6층 다목적홀
 
 ### [GDG Busan I/O Extended Busan 2025](https://event-us.kr/gdgbusan/event/110303?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-09-06 13:00:00 ~ 2025-09-06 18:00:00
