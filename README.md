@@ -8,18 +8,6 @@
 
 ## 이벤트 목록
 
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 광명편](https://event-us.kr/chatmaster/event/109302?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-24 10:00:00 ~ 2025-08-24 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 경기 광명시 양지로 21 25층 대회의실
-
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 서초편](https://event-us.kr/chatmaster/event/109301?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-24 10:00:00 ~ 2025-08-24 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 서초구 반포대로 150 지하1층 화이트홀
-
 ### [[구디아카데미] 클라우드 활용 자바/스프링 개발 부트캠프 95기 (~08/25)](https://event-us.kr/goodee/event/108043?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-25 08:00:00 ~ 2025-03-06 18:30:00
 - **Price:** 무료
@@ -806,6 +794,12 @@
 - **Host:** None
 - **Location:** 서울 종로구 우정국로2길 21 대왕빌딩 9층 더조은컴퓨터아카데미 종로
 
+### [스노우플레이크 월드 투어 서울](https://event-us.kr/snowflake2/event/110981?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-09-09 09:30:00 ~ 2025-09-09 18:00:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 서울 강남구 영동대로 513 코엑스 컨퍼런스 센터 (1-3F)
+
 ### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 영등포편](https://event-us.kr/chatmaster/event/110181?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-09-09 15:00:00 ~ 2025-09-09 18:00:00
 - **Price:** 무료
@@ -871,6 +865,12 @@
 - **Price:** 무료
 - **Host:** None
 - **Location:** 부산 동구 중앙대로 210 부산유라시아플랫폼 109호
+
+### [도메인 주도 설계의 사실과 오해 10기](https://event-us.kr/choyoungho/event/110966?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-09-13 09:30:00 ~ 2025-09-13 18:30:00
+- **Price:** 100,000원
+- **Host:** None
+- **Location:** 서울 서초구 서초대로78길 38 코지강남5호점
 
 ### [2025년 9월 오프라인 실습세미나 " 왕초보 리눅스 네트워크 핸즈온(Hands-on)실습 "](https://event-us.kr/hcmY8AAlnJac/event/110485?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-09-13 10:00:00 ~ 2025-09-13 12:00:00
@@ -1321,4 +1321,10 @@
 - **Price:** 무료
 - **Host:** None
 - **Location:** 서울 구로구 디지털로33길 50 204호 한국클라우드컴퓨팅연구조합
+
+### [[노션] Make With Notion 서울 온라인 컨퍼런스](https://event-us.kr/notionkr/event/108533?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+- **Date:** 2025-10-24 14:00:00 ~ 2025-10-24 17:30:00
+- **Price:** 무료
+- **Host:** None
+- **Location:** 온라인으로 진행하는 행사입니다.
 
