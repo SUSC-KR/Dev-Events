@@ -8,60 +8,6 @@
 
 ## 이벤트 목록
 
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 인천편](https://event-us.kr/chatmaster/event/109312?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 10:00:00 ~ 2025-08-30 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 인천 미추홀구 인하로 100 본관 지하1층 중강당 (현경홀)
-
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 노원편](https://event-us.kr/chatmaster/event/109310?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 10:00:00 ~ 2025-08-30 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 노원구 화랑로 621 인문사회관 3층 인사랑당
-
-### [미래교육아카데미와 함께 하는 <챗GPT 실전 활용법> 안산편](https://event-us.kr/chatmaster/event/109308?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 10:00:00 ~ 2025-08-30 13:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 경기 안산시 상록구 한양대학로 55 3층 컨벤션홀
-
-### [레브잇 Problem Solving AI 해커톤](https://event-us.kr/ilevit/event/110805?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 10:00:00 ~ 2025-08-31 20:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 관악구 남부순환로 1836 레브잇 오피스
-
-### [모두연 10주년 기념 세미나: From 10 to ∞](https://event-us.kr/modu/event/110954?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 11:00:00 ~ 2025-08-30 17:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 강남구 강남대로 324 모두의연구소
-
-### [MLSA와 함께하는 대학생 IT 러닝 캠프](https://event-us.kr/mlsakr/event/108022?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 13:00:00 ~ 2025-08-30 18:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 서울 종로구 종로1길 50 한국 마이크로소프트 13층
-
-### [터치디자이너를 활용한 아카이빙되는 드로잉 인터페이스 (Online)](https://event-us.kr/doodlefingers/event/110248?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 13:00:00 ~ 2025-08-30 18:00:00
-- **Price:** 85,000원
-- **Host:** None
-- **Location:** 온라인으로 진행하는 행사입니다.
-
-### [(홍대/줌수업)워드프레스 5시간 속성 마스터+컨설팅 과정 (8/30)](https://event-us.kr/powerlearning/event/110629?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 13:00:00 ~ 2025-08-30 18:00:00
-- **Price:** 198,000원
-- **Host:** None
-- **Location:** 서울 마포구 양화로15길 17 홍대입구역 1번 출구 인근 도보 10분거리 모임공간 타임레서피 스터디룸
-
-### [[GEG 강남] 제 33회 Google의 정석 #05 Meet (기초)](https://event-us.kr/job-skill365/event/111262?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
-- **Date:** 2025-08-30 18:00:00 ~ 2025-09-05 23:00:00
-- **Price:** 무료
-- **Host:** None
-- **Location:** 온라인으로 진행하는 행사입니다.
-
 ### [None](https://event-us.kr/Pentacle/event/107663?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-08-31 00:00:00 ~ 2025-08-31 23:30:00
 - **Price:** 무료
@@ -644,7 +590,7 @@
 - **Host:** None
 - **Location:** 서울 마포구 신촌로 176 중앙빌딩 5층 (2호선 이대역 6번출구)
 
-### [도메인 주도 설계의 사실과 오해 10기](https://event-us.kr/choyoungho/event/110966?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
+### [None](https://event-us.kr/choyoungho/event/110966?utm_source=eventus&utm_medium=organic&utm_campaign=search-result)
 - **Date:** 2025-09-13 09:30:00 ~ 2025-09-13 18:30:00
 - **Price:** 100,000원
 - **Host:** None
